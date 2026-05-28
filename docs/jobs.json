@@ -1,5 +1,49 @@
 {
-  "last_updated": "2026-05-27T00:00:00Z",
-  "total": 0,
-  "jobs": []
+  "last_updated": "2026-05-28T00:35:12.904495+00:00",
+  "total": 2,
+  "purged_this_run": 0,
+  "jobs": [
+    {
+      "id": "207476f4fd02",
+      "title": "Data EngineeringETL and orchestration for batch and streaming data",
+      "company": "Databricks",
+      "location": "Europe",
+      "apply_url": "https://www.databricks.com/product/data-engineering",
+      "source": "Career Page (Databricks)",
+      "posted_at": "",
+      "fetched_at": "2026-05-28T00:35:11.808620+00:00",
+      "expires_at": "2026-06-04T00:35:11.808592+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 0,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Other",
+      "match_reasons": [],
+      "gaps": [],
+      "one_liner": "Scoring failed",
+      "apply": false
+    },
+    {
+      "id": "1628e7206689",
+      "title": "Data Engineering",
+      "company": "Databricks",
+      "location": "Europe",
+      "apply_url": "https://www.databricks.com/product/data-engineering",
+      "source": "Career Page (Databricks)",
+      "posted_at": "",
+      "fetched_at": "2026-05-28T00:35:12.904340+00:00",
+      "expires_at": "2026-06-04T00:35:12.904276+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 0,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Other",
+      "match_reasons": [],
+      "gaps": [],
+      "one_liner": "Scoring failed",
+      "apply": false
+    }
+  ]
 }
