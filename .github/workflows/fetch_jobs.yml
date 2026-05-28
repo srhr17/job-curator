@@ -1,0 +1,40 @@
+name: Fetch and Score Jobs
+
+on:
+  schedule:
+    - cron: '0 6,12,18 * * *'   # 6am, 12pm, 6pm UTC daily
+  workflow_dispatch:              # manual trigger anytime
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-jobs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r scripts/requirements.txt
+
+      - name: Run job fetcher
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ADZUNA_APP_ID:  ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
+        run: python scripts/fetch_jobs.py
+
+      - name: Commit updated jobs
+        run: |
+          git config user.name  "Job Curator Bot"
+          git config user.email "bot@job-curator"
+          git add docs/jobs.json
+          git diff --staged --quiet || git commit -m "Update jobs $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
