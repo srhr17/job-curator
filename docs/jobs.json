@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-01T11:12:13.306470+00:00",
-  "total": 33,
+  "last_updated": "2026-06-02T16:03:52.668772+00:00",
+  "total": 34,
   "purged_this_run": 0,
   "jobs": [
     {
@@ -208,6 +208,37 @@
       ],
       "one_liner": "A strong Analytics Engineer with extensive data modeling and stakeholder management experience, well-suited for building data foundations and driving data-driven marketing insights, though deeper dbt expertise would be beneficial.",
       "apply": true
+    },
+    {
+      "id": "1112e2f2080c",
+      "title": "Optimization Data Analyst",
+      "company": "Adyen",
+      "location": "Singapore",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7681249",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-06-01T13:39:53-04:00",
+      "fetched_at": "2026-06-02T16:03:52.668654+00:00",
+      "expires_at": "2026-07-02T16:03:52.654358+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong experience in data-driven optimization and analyzing large datasets.",
+        "Proficient in building scalable analytics solutions and automation pipelines.",
+        "Demonstrates ability to collaborate cross-functionally and translate business challenges into analytical solutions.",
+        "Experience with advanced problem-solving and experimentation (A/B testing).",
+        "Core skills align well with the analytical and data engineering aspects of the role."
+      ],
+      "gaps": [
+        "Limited production depth in dbt.",
+        "Location is Singapore, and candidate's target countries and immigration status are focused on Europe/North America. Visa and relocation support are unclear for Singapore.",
+        "The role is 'Optimization Data Analyst' which may lean more towards analytical skills than deep data engineering, though the candidate has strong data engineering skills."
+      ],
+      "one_liner": "Sri Hari is a strong candidate for an Optimization Data Analyst role, bringing extensive experience in data analysis, scalable tooling, and cross-functional collaboration, though the specific location and visa situation require clarification.",
+      "apply": false
     },
     {
       "id": "6fddddab7172",
