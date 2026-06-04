@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-02T20:36:57.876757+00:00",
-  "total": 34,
-  "purged_this_run": 0,
+  "last_updated": "2026-06-04T14:39:05.246312+00:00",
+  "total": 35,
+  "purged_this_run": 4,
   "jobs": [
     {
       "id": "8dc5cf42b44d",
@@ -61,6 +61,36 @@
         "While not explicitly required, deeper Kafka/Confluent knowledge might be beneficial given the event-driven nature of data."
       ],
       "one_liner": "Sri Hari possesses strong analytics and data engineering experience with relevant cloud and modeling skills, making him a strong candidate for the Senior Analytics Engineer role, especially with his EU Blue Card eligibility for Germany.",
+      "apply": true
+    },
+    {
+      "id": "612f4a2fa625",
+      "title": "Senior Data Science/ML Engineer - Financial Crime",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "apply_url": "https://sumup.com/careers/positions/8459126002?gh_jid=8459126002",
+      "source": "Greenhouse (SumUp)",
+      "posted_at": "2026-06-04T10:32:09-04:00",
+      "fetched_at": "2026-06-04T14:38:56.083594+00:00",
+      "expires_at": "2026-07-04T14:38:56.083511+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 8,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "ML Engineer",
+      "match_reasons": [
+        "Strong experience building and shipping production ML systems end-to-end, aligning with the core responsibility of the role.",
+        "Extensive ML platform experience with MLflow full lifecycle is a significant advantage for building and evolving ML models.",
+        "Experience with cloud platforms (Azure, Databricks, Snowflake) and IaC (Terraform) supports the need for scalable ML pipelines and infrastructure.",
+        "Solid analytical and statistical foundations, including hypothesis testing and regression, are relevant for feature engineering and model improvement.",
+        "Governance skills (RBAC, lineage tracking, data quality) are crucial for audit-ready documentation and regulatory compliance in financial crime."
+      ],
+      "gaps": [
+        "dbt (limited prod depth) may require upskilling for Analytics Engineering aspects if they are heavily utilized within the ML pipelines.",
+        "Deep Kafka/Confluent and Kubernetes/Helm experience are listed as gaps, which are often important for scalable data streaming and deployment in production ML systems."
+      ],
+      "one_liner": "A strong candidate for the Senior Data Science/ML Engineer role with extensive experience in end-to-end ML pipelines and cloud technologies, though some specific tooling gaps exist.",
       "apply": true
     },
     {
@@ -241,6 +271,96 @@
       "apply": false
     },
     {
+      "id": "e522d7db5bd5",
+      "title": "Sr. Data Scientist, Product Insights",
+      "company": "Catawiki",
+      "location": "Lisbon, Portugal",
+      "apply_url": "https://job-boards.greenhouse.io/catawiki/jobs/7962852",
+      "source": "Greenhouse (Catawiki)",
+      "posted_at": "2026-06-03T09:02:27-04:00",
+      "fetched_at": "2026-06-04T14:38:53.276099+00:00",
+      "expires_at": "2026-07-04T14:38:53.275999+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Data Scientist",
+      "match_reasons": [
+        "Strong experience in data science and analytics, aligning with the Product Insights role.",
+        "Extensive cloud and data engineering skills are valuable for data pipeline enhancement and data integration.",
+        "Experience with A/B testing analysis and uncovering user behavior trends is a direct match for the role's responsibilities.",
+        "Stakeholder management skills are crucial for influencing product decisions.",
+        "Interest in target countries including Portugal."
+      ],
+      "gaps": [
+        "Deep Kafka/Confluent experience is listed as a gap, which could be relevant for data pipelines.",
+        "dbt production depth is noted as limited, which is often important for analytics engineering aspects of product insights."
+      ],
+      "one_liner": "A seasoned Data Scientist with strong analytical and cloud skills, well-suited for a Product Insights role, though Kafka expertise is a minor gap.",
+      "apply": true
+    },
+    {
+      "id": "78d58f722275",
+      "title": "Senior Data Analyst",
+      "company": "Adyen",
+      "location": "San Francisco",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7695595",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-06-03T17:14:52-04:00",
+      "fetched_at": "2026-06-04T14:39:01.875847+00:00",
+      "expires_at": "2026-07-04T14:39:01.875761+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong alignment with 'Analytics Engineering' and 'Data Analyst' core competencies, particularly with skills in PySpark, Airflow, and ETL/ELT.",
+        "Experience with building analytical layers, data modeling (dimensional, Data Vault), and using tools like dbt (even if limited prod depth) directly maps to the role's requirements.",
+        "Demonstrated ability to transform data into insights and partner with product teams, as evidenced by stakeholder management to Director level and experience with probabilistic record linkage for data integration."
+      ],
+      "gaps": [
+        "The job description specifically mentions Looker as a required skill for the Senior Data Analyst role, and while the candidate lists it under 'working knowledge', it might not be at the 'highly skilled' level required.",
+        "While the candidate has experience with data governance and quality, the specifics of how they applied these within a 'Developer Experience' context for platform integrations are not explicitly detailed."
+      ],
+      "one_liner": "Sri Hari is a strong candidate for a Senior Data Analyst role with significant experience in data engineering and analytics, particularly in building and maintaining analytical layers, although deep Looker proficiency and specific DevEx domain experience will need further assessment.",
+      "apply": false
+    },
+    {
+      "id": "e677cb6e63aa",
+      "title": "Senior Data Engineer",
+      "company": "Adyen",
+      "location": "San Francisco",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7806510",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-06-03T16:53:07-04:00",
+      "fetched_at": "2026-06-04T14:39:05.246126+00:00",
+      "expires_at": "2026-07-04T14:39:05.246034+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": false,
+      "relocation_support": "unclear",
+      "role_category": "Data Engineer",
+      "match_reasons": [
+        "Extensive production experience in Data Engineering with strong skills in PySpark, Apache Spark, ETL/ELT, Azure Databricks, Delta Lake, and Terraform (prod).",
+        "Experience with cloud platforms like Azure, Databricks, and Snowflake aligns with the needs of a large tech company.",
+        "Demonstrated ability to manage stakeholder relationships up to Director level, which is valuable for a Senior role.",
+        "Core skills in data modeling (dimensional modeling, Data Vault) and data governance are highly relevant.",
+        "Proven ability in cloud migration at scale and building robust data pipelines."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which is a common tool for Analytics Engineering and often used in Data Engineering roles.",
+        "While Kafka is listed as working knowledge, deep Kafka/Confluent experience is noted as a gap.",
+        "Kubernetes/Helm experience is a gap, which can be relevant for deploying and managing data infrastructure.",
+        "Java/Scala is a gap, which can be useful in certain big data ecosystems."
+      ],
+      "one_liner": "A seasoned Data Engineer with strong production experience in cloud data platforms and pipeline development, well-suited for a Senior Data Engineer role at Adyen, though with some gaps in dbt and deep Kafka/Kubernetes.",
+      "apply": false
+    },
+    {
       "id": "6fddddab7172",
       "title": "Data Analyst",
       "company": "SumUp",
@@ -302,6 +422,37 @@
       "apply": false
     },
     {
+      "id": "1a2d441e88b7",
+      "title": "Junior Data Analyst",
+      "company": "Catawiki",
+      "location": "Netherlands",
+      "apply_url": "https://job-boards.greenhouse.io/catawiki/jobs/7553311",
+      "source": "Greenhouse (Catawiki)",
+      "posted_at": "2026-06-03T08:56:27-04:00",
+      "fetched_at": "2026-06-04T14:38:50.535599+00:00",
+      "expires_at": "2026-07-04T14:38:50.529239+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 5,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Data Scientist",
+      "match_reasons": [
+        "Target role aligns with Data Scientist specialization.",
+        "Experience in data analysis and insights generation is present.",
+        "Familiarity with various data visualization tools is a plus.",
+        "Willingness to work in the Netherlands aligns with target countries."
+      ],
+      "gaps": [
+        "The role is 'Junior Data Analyst', which is a step down from the candidate's experience and target roles (Data Scientist, Senior Data Scientist).",
+        "Specific 'Commercial Insights' experience is not explicitly detailed in the candidate's profile.",
+        "Visa/Relocation support is unclear, which is crucial for international roles.",
+        "The candidate's production experience (4+ years) and advanced skills in Python/SQL may be overqualified for a Junior role."
+      ],
+      "one_liner": "Sri Hari is an experienced Data Scientist with strong analytical and cloud skills, but the Junior Data Analyst role at Catawiki may be a step down from their career trajectory, and visa/relocation clarity is needed.",
+      "apply": false
+    },
+    {
       "id": "e7114b3fd4d3",
       "title": "Mid Data Analyst - Finance",
       "company": "SumUp",
@@ -329,48 +480,6 @@
         "The candidate's experience is primarily in Data Science and Engineering, not specifically focused on financial analytics or FP&A support."
       ],
       "one_liner": "While Sri Hari has strong data modeling and technical skills, their depth in dbt and specific experience in financial analytics are potential gaps for this Mid Data Analyst role.",
-      "apply": false
-    },
-    {
-      "id": "207476f4fd02",
-      "title": "Data EngineeringETL and orchestration for batch and streaming data",
-      "company": "Databricks",
-      "location": "Europe",
-      "apply_url": "https://www.databricks.com/product/data-engineering",
-      "source": "Career Page (Databricks)",
-      "posted_at": "",
-      "fetched_at": "2026-05-28T00:35:11.808620+00:00",
-      "expires_at": "2026-06-04T00:35:11.808592+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed",
-      "apply": false
-    },
-    {
-      "id": "1628e7206689",
-      "title": "Data Engineering",
-      "company": "Databricks",
-      "location": "Europe",
-      "apply_url": "https://www.databricks.com/product/data-engineering",
-      "source": "Career Page (Databricks)",
-      "posted_at": "",
-      "fetched_at": "2026-05-28T00:35:12.904340+00:00",
-      "expires_at": "2026-06-04T00:35:12.904276+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed",
       "apply": false
     },
     {
@@ -678,48 +787,6 @@
       "fetched_at": "2026-05-28T01:52:50.744456+00:00",
       "expires_at": "2026-06-27T01:52:50.744369+00:00",
       "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed - will retry next run",
-      "apply": false
-    },
-    {
-      "id": "01571d15aa75",
-      "title": "Senior Data Scientist",
-      "company": "Optiver",
-      "location": "Netherlands",
-      "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/8415358002/",
-      "source": "Career Page (Optiver)",
-      "posted_at": "",
-      "fetched_at": "2026-05-28T01:52:51.837062+00:00",
-      "expires_at": "2026-06-04T01:52:51.837021+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed - will retry next run",
-      "apply": false
-    },
-    {
-      "id": "e9b6fbe4cf7f",
-      "title": "Lead Data Engineer",
-      "company": "Optiver",
-      "location": "Netherlands",
-      "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/8049522002/",
-      "source": "Career Page (Optiver)",
-      "posted_at": "",
-      "fetched_at": "2026-05-28T01:52:52.933512+00:00",
-      "expires_at": "2026-06-04T01:52:52.933473+00:00",
-      "ttl_source": "7d-ttl",
       "status": "new",
       "fit_score": 0,
       "visa_eligible": "unclear",
