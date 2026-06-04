@@ -1,36 +1,8 @@
 {
-  "last_updated": "2026-06-04T14:39:05.246312+00:00",
-  "total": 35,
-  "purged_this_run": 4,
+  "last_updated": "2026-06-04T19:56:08.658553+00:00",
+  "total": 34,
+  "purged_this_run": 1,
   "jobs": [
-    {
-      "id": "8dc5cf42b44d",
-      "title": "Senior Data Engineer",
-      "company": "Optiver",
-      "location": "Netherlands",
-      "apply_url": "https://optiver.com/working-at-optiver/career-opportunities/8223372002/",
-      "source": "Career Page (Optiver)",
-      "posted_at": "",
-      "fetched_at": "2026-05-28T15:31:43.964986+00:00",
-      "expires_at": "2026-06-04T15:31:43.964959+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 8,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Engineer",
-      "match_reasons": [
-        "Extensive production experience in core data engineering technologies like PySpark, Apache Spark, Azure Databricks, Delta Lake, Airflow, and Terraform (IaC).",
-        "Proven experience with cloud platforms (Azure, Databricks, Snowflake, AWS) directly relevant to large-scale data infrastructure.",
-        "Demonstrated ability in data governance, stakeholder management, and building robust data pipelines, aligning with senior engineering responsibilities."
-      ],
-      "gaps": [
-        "Limited depth in Kafka/Confluent and Kubernetes/Helm, which are often key for large-scale, real-time data platforms.",
-        "Limited production depth in dbt, although the core analytics engineering skills are present."
-      ],
-      "one_liner": "Sri Hari Sivashanmugam is a strong candidate for a Senior Data Engineer role, possessing extensive production experience in cloud data engineering, IaC, and data governance, with eligibility for EU Blue Card.",
-      "apply": true
-    },
     {
       "id": "b58e7a6c2576",
       "title": "Senior Analytics Engineer - Run & Grow",
