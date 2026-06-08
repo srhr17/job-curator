@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-05T19:43:39.413393+00:00",
-  "total": 34,
-  "purged_this_run": 0,
+  "last_updated": "2026-06-08T10:20:24.546878+00:00",
+  "total": 36,
+  "purged_this_run": 2,
   "jobs": [
     {
       "id": "b58e7a6c2576",
@@ -63,6 +63,36 @@
         "Deep Kafka/Confluent and Kubernetes/Helm experience are listed as gaps, which are often important for scalable data streaming and deployment in production ML systems."
       ],
       "one_liner": "A strong candidate for the Senior Data Science/ML Engineer role with extensive experience in end-to-end ML pipelines and cloud technologies, though some specific tooling gaps exist.",
+      "apply": true
+    },
+    {
+      "id": "a8cb7fe49b53",
+      "title": "Senior Data Platform Engineer",
+      "company": "Adyen",
+      "location": "Amsterdam",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7068990",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-06-08T05:43:42-04:00",
+      "fetched_at": "2026-06-08T10:20:21.874683+00:00",
+      "expires_at": "2026-07-08T10:20:21.874588+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 8,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Engineer",
+      "match_reasons": [
+        "Extensive experience with big data platforms, including Spark, Databricks, and Snowflake, aligning with Adyen's large-scale data infrastructure.",
+        "Proven expertise in Data Engineering and Analytics Engineering with skills like PySpark, ETL/ELT, Medallion Lakehouse, and dbt (though depth is a gap, foundational knowledge is present).",
+        "Strong cloud skills in Azure and AWS, and experience with infrastructure as code (Terraform) are highly relevant for building and maintaining scalable platforms.",
+        "Experience with MLflow full lifecycle and LLM orchestration shows a forward-thinking approach that could benefit Adyen's data platform development."
+      ],
+      "gaps": [
+        "Limited production depth in dbt.",
+        "Limited production depth in Kafka/Confluent, which is often crucial for streaming processing applications.",
+        "Lack of explicit mention of on-premise private cloud experience, though the candidate has extensive cloud experience which can be transferable."
+      ],
+      "one_liner": "A seasoned Data Engineer with strong production experience in building and managing scalable data platforms across major cloud providers, well-suited for Adyen's Senior Data Platform Engineer role.",
       "apply": true
     },
     {
@@ -333,6 +363,64 @@
       "apply": false
     },
     {
+      "id": "6487b6a5b604",
+      "title": "Online Data Analyst Canada",
+      "company": "TELUS Digital",
+      "location": "Canada",
+      "apply_url": "https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-2090944",
+      "source": "Remotive",
+      "posted_at": "2026-06-04T20:58:10",
+      "fetched_at": "2026-06-08T10:20:18.856879+00:00",
+      "expires_at": "2026-07-08T10:20:18.856772+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong SQL and Python skills align with data analysis needs.",
+        "Experience with Tableau and Power BI supports visualization requirements.",
+        "Skills in dimensional modeling and dbt (though noted as limited prod depth) are relevant to an Analytics Engineer role.",
+        "Experience in data governance and stakeholder management are valuable."
+      ],
+      "gaps": [
+        "The \"Online Data Analyst\" title might imply less focus on the deep data engineering or ML components the candidate excels at.",
+        "Limited production depth in dbt, which is often a core tool for Analytics Engineers.",
+        "Kafka/Confluent, Kubernetes/Helm, Java/Scala, and deep causal inference are not directly required for a typical Data Analyst role."
+      ],
+      "one_liner": "A strong data professional with advanced SQL and Python, and experience in data modeling and visualization, who could transition into an Analytics Engineer role, but the specific Data Analyst focus and required depth in certain tools warrant further investigation.",
+      "apply": true
+    },
+    {
+      "id": "c26eaf1e4996",
+      "title": "Staff Data Analyst",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/staff-data-analyst-in-berlin-germany-jid-9809",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-06-08T10:20:24.546702+00:00",
+      "expires_at": "2026-06-15T10:20:24.546664+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong background in data engineering and analytics engineering skills like dbt (though with limited production depth), dimensional modeling, and data warehousing concepts align well with the Staff Data Analyst role.",
+        "Extensive experience with cloud platforms (Azure, Databricks, Snowflake) and data processing tools (PySpark, Spark) is highly relevant.",
+        "Proven ability in data governance, stakeholder management, and experience with visualization tools are valuable for an analyst role."
+      ],
+      "gaps": [
+        "Limited production depth in dbt.",
+        "The Staff Data Analyst role might require deeper analytical skills than demonstrated in some ML/AI areas, and potentially less focus on pure data engineering."
+      ],
+      "one_liner": "Sri Hari possesses strong data engineering and analytics engineering skills with extensive cloud experience, making him a good candidate for the Staff Data Analyst role with potential areas for growth.",
+      "apply": true
+    },
+    {
       "id": "6fddddab7172",
       "title": "Data Analyst",
       "company": "SumUp",
@@ -452,6 +540,37 @@
         "The candidate's experience is primarily in Data Science and Engineering, not specifically focused on financial analytics or FP&A support."
       ],
       "one_liner": "While Sri Hari has strong data modeling and technical skills, their depth in dbt and specific experience in financial analytics are potential gaps for this Mid Data Analyst role.",
+      "apply": false
+    },
+    {
+      "id": "b7dd2ecb5c8b",
+      "title": "Online Data Analyst Canada (French Language)",
+      "company": "TELUS Digital",
+      "location": "Canada",
+      "apply_url": "https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-french-language-2090945",
+      "source": "Remotive",
+      "posted_at": "2026-06-04T21:05:36",
+      "fetched_at": "2026-06-08T10:20:16.086285+00:00",
+      "expires_at": "2026-07-08T10:20:16.068572+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 4,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong SQL and Python skills are transferable to an analyst role.",
+        "Experience with visualization tools like Tableau and Power BI is relevant.",
+        "Experience in the public health sector (Chicago Department of Public Health) might be relevant to TELUS's customer base.",
+        "Targeting Canada aligns with the job location."
+      ],
+      "gaps": [
+        "The target role is 'Online Data Analyst (French Language)', and there is no mention of French language proficiency.",
+        "The candidate's core strengths lie in Data Engineering, ML Engineering, and advanced Analytics Engineering (MLflow, Medallion Lakehouse, Terraform), which are significantly more complex than a typical Online Data Analyst role.",
+        "The 'gaps' mention limited production depth in dbt, which is a core tool for Analytics Engineers, but this role is likely more focused on direct data analysis and less on engineering complex pipelines.",
+        "There's no explicit mention of experience with customer-facing analytics or direct online data analysis platforms relevant to TELUS Digital."
+      ],
+      "one_liner": "While the candidate possesses strong technical data skills and targets Canada, their experience is highly specialized in data engineering and ML, potentially overqualified and misaligned with the core requirements of an Online Data Analyst role, especially concerning language proficiency.",
       "apply": false
     },
     {
@@ -801,48 +920,6 @@
       "fetched_at": "2026-05-29T20:10:45.458518+00:00",
       "expires_at": "2026-06-28T20:10:45.458419+00:00",
       "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed - will retry next run",
-      "apply": false
-    },
-    {
-      "id": "b0ce809d35f4",
-      "title": "Analytics Engineer I - AI & Data Enablement",
-      "company": "Delivery Hero",
-      "location": "Germany",
-      "apply_url": "https://careers.deliveryhero.com/job/analytics-engineer-i-ai-and-data-enablement-in-barcelona-spain-jid-9727",
-      "source": "Career Page (Delivery Hero)",
-      "posted_at": "",
-      "fetched_at": "2026-05-29T20:10:46.539489+00:00",
-      "expires_at": "2026-06-05T20:10:46.539449+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed - will retry next run",
-      "apply": false
-    },
-    {
-      "id": "ae45ef6f1438",
-      "title": "Senior Data Scientist",
-      "company": "Delivery Hero",
-      "location": "Germany",
-      "apply_url": "https://careers.deliveryhero.com/job/senior-data-scientist-in-barcelona-spain-jid-8732",
-      "source": "Career Page (Delivery Hero)",
-      "posted_at": "",
-      "fetched_at": "2026-05-29T20:10:47.612255+00:00",
-      "expires_at": "2026-06-05T20:10:47.612217+00:00",
-      "ttl_source": "7d-ttl",
       "status": "new",
       "fit_score": 0,
       "visa_eligible": "unclear",
