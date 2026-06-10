@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-08T10:20:24.546878+00:00",
-  "total": 36,
-  "purged_this_run": 2,
+  "last_updated": "2026-06-10T09:42:41.011684+00:00",
+  "total": 38,
+  "purged_this_run": 0,
   "jobs": [
     {
       "id": "b58e7a6c2576",
@@ -419,6 +419,69 @@
       ],
       "one_liner": "Sri Hari possesses strong data engineering and analytics engineering skills with extensive cloud experience, making him a good candidate for the Staff Data Analyst role with potential areas for growth.",
       "apply": true
+    },
+    {
+      "id": "4e67acbde468",
+      "title": "Data Engineer - Platform Engineering ",
+      "company": "N26",
+      "location": "Berlin",
+      "apply_url": "https://n26.com/en-eu/careers/positions/7857802?gh_jid=7857802",
+      "source": "Greenhouse (N26)",
+      "posted_at": "2026-06-09T03:35:47-04:00",
+      "fetched_at": "2026-06-10T09:42:37.815426+00:00",
+      "expires_at": "2026-07-10T09:42:37.798242+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Engineer",
+      "match_reasons": [
+        "Strong experience in Data Engineering core skills like PySpark, Spark, ETL/ELT, Medallion Lakehouse, Databricks, Delta Lake, and Airflow, which are highly relevant for platform engineering.",
+        "Proficient in Python and SQL, essential for Data Engineering roles.",
+        "Hands-on experience with cloud platforms (Azure, Databricks, Snowflake, AWS) and infrastructure as code (Terraform) directly aligns with the job's requirements.",
+        "Experience with Docker and stakeholder management to Director level are valuable assets.",
+        "EU Blue Card eligibility is a significant advantage for the Berlin location."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which is mentioned as a skill to be successful. While not explicitly required for this role, it's a common tool in data platforms.",
+        "Deep Kafka/Confluent, Kubernetes/Helm, and Java/Scala are listed as gaps but are core requirements for this specific role.",
+        "The job description specifically asks for Kubernetes/EKS experience, which is a stated gap for the candidate."
+      ],
+      "one_liner": "A strong Data Engineer with extensive cloud and IaC experience, but with noted gaps in Kubernetes and Kafka that are crucial for this platform engineering role.",
+      "apply": false
+    },
+    {
+      "id": "3c879134b0db",
+      "title": "Data Engineer - Platform Engineering ",
+      "company": "N26",
+      "location": "Barcelona",
+      "apply_url": "https://n26.com/en-eu/careers/positions/7883078?gh_jid=7883078",
+      "source": "Greenhouse (N26)",
+      "posted_at": "2026-06-09T03:35:48-04:00",
+      "fetched_at": "2026-06-10T09:42:41.011481+00:00",
+      "expires_at": "2026-07-10T09:42:41.011346+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Data Engineer",
+      "match_reasons": [
+        "Strong experience in data engineering core skills like PySpark, Apache Spark, ETL/ELT, and cloud platforms (Azure, Databricks, Snowflake, AWS).",
+        "Proficiency in Infrastructure as Code (Terraform) and Docker aligns with platform engineering requirements.",
+        "Experience with cloud migration at scale and stakeholder management up to Director level are valuable strengths for a platform role.",
+        "Python and SQL proficiency are key requirements.",
+        "Experience with MLflow full lifecycle demonstrates strong engineering capabilities relevant to platform development."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which is a growing area for analytics engineering and data platforms.",
+        "Deep Kafka/Confluent and Kubernetes/Helm experience are listed as gaps but are crucial for this platform engineering role.",
+        "Java/Scala experience is also a gap, which can be important in some platform engineering contexts.",
+        "While Terraform is a strength, deeper Kubernetes/Helm experience is a direct requirement for this role."
+      ],
+      "one_liner": "Sri Hari is a solid Data Engineer with strong cloud and data platform skills, but needs to build deeper expertise in Kubernetes and Kafka to fully match this platform engineering role.",
+      "apply": false
     },
     {
       "id": "6fddddab7172",
