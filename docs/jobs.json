@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-10T14:56:17.716771+00:00",
-  "total": 42,
+  "last_updated": "2026-06-11T15:37:57.824509+00:00",
+  "total": 43,
   "purged_this_run": 0,
   "jobs": [
     {
@@ -93,6 +93,36 @@
         "Lack of explicit mention of on-premise private cloud experience, though the candidate has extensive cloud experience which can be transferable."
       ],
       "one_liner": "A seasoned Data Engineer with strong production experience in building and managing scalable data platforms across major cloud providers, well-suited for Adyen's Senior Data Platform Engineer role.",
+      "apply": true
+    },
+    {
+      "id": "5da29b4f8b74",
+      "title": "Senior Data Platform Engineer - OLAP",
+      "company": "Adyen",
+      "location": "Amsterdam",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7068985",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-06-11T05:35:10-04:00",
+      "fetched_at": "2026-06-11T15:37:57.824404+00:00",
+      "expires_at": "2026-07-11T15:37:57.818106+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 8,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Engineer",
+      "match_reasons": [
+        "Extensive production experience with Spark, Databricks, and cloud platforms (Azure, AWS, GCP) aligns well with building and operating big data platforms at scale.",
+        "Strong experience in Data Engineering (ETL/ELT, Medallion Lakehouse, Delta Lake) and Analytics Engineering (dbt, dimensional modeling) directly supports the focus areas of the Data Engineering Ecosystem.",
+        "Experience with IaC (Terraform) and data governance (lineage, data quality) is crucial for developing and maintaining robust data platforms.",
+        "Familiarity with Kafka (working knowledge) and LLM orchestration suggests adaptability to evolving data infrastructure needs."
+      ],
+      "gaps": [
+        "Deep Kafka/Confluent expertise is listed as a gap, but the role requires working with Kafka.",
+        "Limited production depth in dbt is noted as a gap, which could be a challenge given its importance in analytics engineering.",
+        "While the role mentions Java/Scala is used in the OLAP ecosystem, the candidate has no listed experience in these languages."
+      ],
+      "one_liner": "Strong candidate for Senior Data Platform Engineer with extensive big data, cloud, and data engineering skills, but with potential gaps in deep Kafka and dbt production experience.",
       "apply": true
     },
     {
