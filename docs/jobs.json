@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-12T09:58:58.623352+00:00",
-  "total": 46,
+  "last_updated": "2026-06-12T14:38:24.692689+00:00",
+  "total": 47,
   "purged_this_run": 0,
   "jobs": [
     {
@@ -602,6 +602,36 @@
         "While the candidate has production experience, the depth of specific tool usage for fraud/quality analytics in a fast-paced delivery environment is not explicitly detailed."
       ],
       "one_liner": "A Data Scientist with strong cloud and ML skills, EU Blue Card eligibility, and proven stakeholder management, making them a good candidate for a Data Analyst role in Germany.",
+      "apply": true
+    },
+    {
+      "id": "d93c39b7673a",
+      "title": "Senior Machine Learning Engineer (AI focused) - (Logistics, Data & ML)",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/senior-machine-learning-engineer-ai-focused-logistics-data-and-ml-in-berlin-germany-jid-8829",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-06-12T14:38:24.692512+00:00",
+      "expires_at": "2026-06-19T14:38:24.692483+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "ML Engineer",
+      "match_reasons": [
+        "Strong experience in ML lifecycle management with MLflow, aligning with ML Engineer focus.",
+        "Extensive cloud experience (Azure, Databricks, Snowflake, AWS, GCP) is highly relevant for a logistics/data/ML role.",
+        "Proven ability in data engineering (PySpark, ETL/ELT, Medallion Lakehouse) and analytics engineering (dbt, modeling) provides a solid foundation for building ML systems.",
+        "Experience with AI concepts like LLM orchestration, RAG, and multi-agent systems directly matches the 'AI focused' aspect of the role.",
+        "EU Blue Card eligibility is a significant advantage for the Germany location."
+      ],
+      "gaps": [
+        "Limited production depth in dbt.",
+        "Deep Kafka/Confluent and Kubernetes/Helm knowledge not explicitly demonstrated."
+      ],
+      "one_liner": "A data and ML professional with strong cloud and ML lifecycle experience, eligible for EU Blue Card, seeking an AI-focused ML Engineer role in Germany.",
       "apply": true
     },
     {
