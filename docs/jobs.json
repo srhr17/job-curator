@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-11T20:11:45.477017+00:00",
-  "total": 43,
+  "last_updated": "2026-06-12T09:58:58.623352+00:00",
+  "total": 46,
   "purged_this_run": 0,
   "jobs": [
     {
@@ -576,6 +576,35 @@
       "apply": true
     },
     {
+      "id": "3a72517c8458",
+      "title": "Data Analyst - Quality & Fraud (They/She/He)",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/data-analyst-quality-and-fraud-they-she-he-in-barcelona-spain-jid-8886",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-06-12T09:58:56.453901+00:00",
+      "expires_at": "2026-06-19T09:58:56.453879+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Scientist",
+      "match_reasons": [
+        "Strong experience in Python, SQL, and cloud platforms (Azure, Databricks, Snowflake) relevant to data analysis.",
+        "Experience with ML/AI, including LLM orchestration, RAG, and statistical methods applicable to quality and fraud detection.",
+        "Demonstrated ability to manage stakeholder relationships up to Director level, useful for cross-functional collaboration.",
+        "EU Blue Card eligibility directly aligns with the target country (Germany)."
+      ],
+      "gaps": [
+        "The role might require deeper expertise in specific analytical techniques or tools not heavily emphasized in the candidate's profile.",
+        "While the candidate has production experience, the depth of specific tool usage for fraud/quality analytics in a fast-paced delivery environment is not explicitly detailed."
+      ],
+      "one_liner": "A Data Scientist with strong cloud and ML skills, EU Blue Card eligibility, and proven stakeholder management, making them a good candidate for a Data Analyst role in Germany.",
+      "apply": true
+    },
+    {
       "id": "6fddddab7172",
       "title": "Data Analyst",
       "company": "SumUp",
@@ -1116,6 +1145,48 @@
       "posted_at": "",
       "fetched_at": "2026-06-10T14:56:15.228625+00:00",
       "expires_at": "2026-06-17T14:56:15.228595+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 0,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Other",
+      "match_reasons": [],
+      "gaps": [],
+      "one_liner": "Scoring failed - will retry next run",
+      "apply": false
+    },
+    {
+      "id": "f1697bd1311c",
+      "title": "Senior Product Data Scientist",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/senior-product-data-scientist-in-barcelona-spain-jid-8729",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-06-12T09:58:57.544622+00:00",
+      "expires_at": "2026-06-19T09:58:57.544593+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 0,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Other",
+      "match_reasons": [],
+      "gaps": [],
+      "one_liner": "Scoring failed - will retry next run",
+      "apply": false
+    },
+    {
+      "id": "09ab7b0b6543",
+      "title": "Senior Data Analyst (Finance)",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/senior-data-analyst-finance-in-kuala-lumpur-malaysia-jid-10039",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-06-12T09:58:58.623216+00:00",
+      "expires_at": "2026-06-19T09:58:58.623186+00:00",
       "ttl_source": "7d-ttl",
       "status": "new",
       "fit_score": 0,
