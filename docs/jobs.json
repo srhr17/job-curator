@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-14T19:11:47.942409+00:00",
+  "last_updated": "2026-06-15T11:48:31.125473+00:00",
   "total": 48,
-  "purged_this_run": 0,
+  "purged_this_run": 1,
   "jobs": [
     {
       "id": "b58e7a6c2576",
@@ -456,34 +456,6 @@
       "apply": true
     },
     {
-      "id": "c26eaf1e4996",
-      "title": "Staff Data Analyst",
-      "company": "Delivery Hero",
-      "location": "Germany",
-      "apply_url": "https://careers.deliveryhero.com/job/staff-data-analyst-in-berlin-germany-jid-9809",
-      "source": "Career Page (Delivery Hero)",
-      "posted_at": "",
-      "fetched_at": "2026-06-08T10:20:24.546702+00:00",
-      "expires_at": "2026-06-15T10:20:24.546664+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Analytics Engineer",
-      "match_reasons": [
-        "Strong background in data engineering and analytics engineering skills like dbt (though with limited production depth), dimensional modeling, and data warehousing concepts align well with the Staff Data Analyst role.",
-        "Extensive experience with cloud platforms (Azure, Databricks, Snowflake) and data processing tools (PySpark, Spark) is highly relevant.",
-        "Proven ability in data governance, stakeholder management, and experience with visualization tools are valuable for an analyst role."
-      ],
-      "gaps": [
-        "Limited production depth in dbt.",
-        "The Staff Data Analyst role might require deeper analytical skills than demonstrated in some ML/AI areas, and potentially less focus on pure data engineering."
-      ],
-      "one_liner": "Sri Hari possesses strong data engineering and analytics engineering skills with extensive cloud experience, making him a good candidate for the Staff Data Analyst role with potential areas for growth.",
-      "apply": true
-    },
-    {
       "id": "4e67acbde468",
       "title": "Data Engineer - Platform Engineering ",
       "company": "N26",
@@ -665,6 +637,35 @@
         "Deep Kafka/Confluent and Kubernetes/Helm knowledge not explicitly demonstrated."
       ],
       "one_liner": "A data and ML professional with strong cloud and ML lifecycle experience, eligible for EU Blue Card, seeking an AI-focused ML Engineer role in Germany.",
+      "apply": true
+    },
+    {
+      "id": "5e8f50b66c49",
+      "title": "Data Engineer II, Operations - Quick Commerce",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/data-engineer-ii-operations-quick-commerce-in-berlin-germany-jid-10069",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-06-15T11:48:31.125310+00:00",
+      "expires_at": "2026-06-22T11:48:31.125286+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Engineer",
+      "match_reasons": [
+        "Extensive production experience in Data Engineering with PySpark, Apache Spark, Azure Databricks, Delta Lake, Airflow, Docker, and Terraform (prod).",
+        "Strong cloud expertise in Azure and Databricks, aligning with modern data platform requirements.",
+        "Experience with ETL/ELT, Medallion Lakehouse, and dimensional modeling directly applicable to a Data Engineer role."
+      ],
+      "gaps": [
+        "Limited production depth in dbt.",
+        "Deep Kafka/Confluent and Kubernetes/Helm experience is not explicitly detailed.",
+        "Java/Scala proficiency is noted as a gap."
+      ],
+      "one_liner": "Sri Hari Sivashanmugam is a strong candidate for the Data Engineer II role due to his extensive production experience in cloud data engineering and data warehousing technologies, with EU Blue Card eligibility making him a viable international candidate.",
       "apply": true
     },
     {
