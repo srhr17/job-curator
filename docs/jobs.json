@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-15T20:47:45.657493+00:00",
-  "total": 48,
+  "last_updated": "2026-06-16T10:56:38.400488+00:00",
+  "total": 49,
   "purged_this_run": 0,
   "jobs": [
     {
@@ -156,6 +156,35 @@
         "While the candidate has experience with LLM orchestration and RAG, the job description doesn't specifically mention these as requirements, but it's more of an observation than a strict gap."
       ],
       "one_liner": "A highly experienced Data Scientist with a strong foundation in cloud technologies, ML lifecycle management, and a proven track record in production environments, well-suited for a Senior Data Scientist role.",
+      "apply": false
+    },
+    {
+      "id": "2f6365fcf005",
+      "title": "Machine Learning Engineer",
+      "company": "Adyen",
+      "location": "Bengaluru",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7349167",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-06-16T04:31:36-04:00",
+      "fetched_at": "2026-06-16T10:56:38.400371+00:00",
+      "expires_at": "2026-07-16T10:56:38.386909+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 8,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "ML Engineer",
+      "match_reasons": [
+        "Strong experience in full-lifecycle ML pipelines and productionizing models.",
+        "Expertise in Python and relevant ML libraries like Scikit-learn.",
+        "Experience with cloud platforms (Azure, Databricks, AWS) and data engineering tools (Spark, Airflow, Docker) aligns with the role's requirements.",
+        "Experience in stakeholder management to Director level is valuable for partnering with international departments."
+      ],
+      "gaps": [
+        "Limited production depth in dbt.",
+        "Deep Kafka/Confluent, Kubernetes/Helm, Java/Scala are listed as gaps but not explicitly required by the job description for this role."
+      ],
+      "one_liner": "A highly experienced candidate with strong ML engineering skills and a proven track record in productionizing ML pipelines, cloud platforms, and data engineering tools, making them a strong potential fit for the Machine Learning Engineer role.",
       "apply": false
     },
     {
