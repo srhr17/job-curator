@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-16T10:56:38.400488+00:00",
-  "total": 49,
-  "purged_this_run": 0,
+  "last_updated": "2026-06-17T20:02:13.345494+00:00",
+  "total": 48,
+  "purged_this_run": 3,
   "jobs": [
     {
       "id": "b58e7a6c2576",
@@ -580,36 +580,6 @@
       "apply": true
     },
     {
-      "id": "ce332d5cd11e",
-      "title": "Senior Data Engineer - Lounge by Zalando (all genders)\n\nBackend\n\nBerlin\n\nView job",
-      "company": "Zalando",
-      "location": "Germany",
-      "apply_url": "https://jobs.zalando.com/en/jobs/2724044-Senior-Data-Engineer---Lounge-by-Zalando-(all-gend",
-      "source": "Career Page (Zalando)",
-      "posted_at": "",
-      "fetched_at": "2026-06-10T14:56:17.716625+00:00",
-      "expires_at": "2026-06-17T14:56:17.716594+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Engineer",
-      "match_reasons": [
-        "Strong experience in core Data Engineering skills like PySpark, Apache Spark, ETL/ELT, Medallion Lakehouse, Azure Databricks, Delta Lake, and Terraform (prod).",
-        "Experience with cloud platforms relevant to the role (Azure, Databricks, Snowflake, AWS).",
-        "Demonstrated strength in cloud migration at scale and IaC with Terraform, aligning with backend engineering needs.",
-        "Targeting Germany as a country of interest and is EU Blue Card eligible."
-      ],
-      "gaps": [
-        "Deep Kafka/Confluent experience is listed as a gap.",
-        "Limited production depth in dbt.",
-        "Java/Scala is also a noted gap."
-      ],
-      "one_liner": "Sri Hari Sivashanmugam is a strong candidate for the Senior Data Engineer role at Zalando, possessing extensive data engineering and cloud migration experience, and is EU Blue Card eligible for Germany.",
-      "apply": true
-    },
-    {
       "id": "3a72517c8458",
       "title": "Data Analyst - Quality & Fraud (They/She/He)",
       "company": "Delivery Hero",
@@ -787,6 +757,35 @@
         "The candidate's production experience (4+ years) and advanced skills in Python/SQL may be overqualified for a Junior role."
       ],
       "one_liner": "Sri Hari is an experienced Data Scientist with strong analytical and cloud skills, but the Junior Data Analyst role at Catawiki may be a step down from their career trajectory, and visa/relocation clarity is needed.",
+      "apply": false
+    },
+    {
+      "id": "cb1a146e788d",
+      "title": "Data Analytics Engineer - Boulder, Colorado ",
+      "company": "SumUp",
+      "location": "Boulder, Colorado, United States",
+      "apply_url": "https://sumup.com/careers/positions/8596342002?gh_jid=8596342002",
+      "source": "Greenhouse (SumUp)",
+      "posted_at": "2026-06-17T15:20:08-04:00",
+      "fetched_at": "2026-06-17T20:02:12.249526+00:00",
+      "expires_at": "2026-07-17T20:02:12.243944+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 5,
+      "visa_eligible": false,
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong SQL and advanced Python skills, which are transferable to data engineering and analytics.",
+        "Experience with data modeling (dimensional modeling, Data Vault) and ETL/ELT processes aligns with building data foundations.",
+        "Proven ability in stakeholder management to Director level is valuable for gathering requirements and communicating insights.",
+        "Experience with Tableau and Power BI aligns with dashboard development requirements."
+      ],
+      "gaps": [
+        "The job explicitly states 'No visa sponsorship available,' which is a critical blocker for the candidate who requires visa sponsorship or relocation support.",
+        "The candidate lists 'dbt (limited prod depth)' as a gap, while the job heavily emphasizes 'Solid SQL and DBT Core skills' and 'Build, maintain, and document DBT models'."
+      ],
+      "one_liner": "While the candidate possesses strong foundational data skills and experience in stakeholder management, the lack of visa sponsorship and limited dbt production depth make them a poor fit for this specific role.",
       "apply": false
     },
     {
@@ -1208,48 +1207,6 @@
       "apply": false
     },
     {
-      "id": "875f61bf5bf3",
-      "title": "Machine Learning Engineer (all genders)\n\nMachine Learning\n\nBerlin\n\nView job",
-      "company": "Zalando",
-      "location": "Germany",
-      "apply_url": "https://jobs.zalando.com/en/jobs/2724227-Machine-Learning-Engineer-(all-genders)",
-      "source": "Career Page (Zalando)",
-      "posted_at": "",
-      "fetched_at": "2026-06-10T14:56:14.142033+00:00",
-      "expires_at": "2026-06-17T14:56:14.141968+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed - will retry next run",
-      "apply": false
-    },
-    {
-      "id": "d49683dba129",
-      "title": "Senior Machine Learning Engineer (all genders)\n\nMachine Learning\n\nBerlin\n\nView job",
-      "company": "Zalando",
-      "location": "Germany",
-      "apply_url": "https://jobs.zalando.com/en/jobs/2724226-Senior-Machine-Learning-Engineer-(all-genders)",
-      "source": "Career Page (Zalando)",
-      "posted_at": "",
-      "fetched_at": "2026-06-10T14:56:15.228625+00:00",
-      "expires_at": "2026-06-17T14:56:15.228595+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed - will retry next run",
-      "apply": false
-    },
-    {
       "id": "f1697bd1311c",
       "title": "Senior Product Data Scientist",
       "company": "Delivery Hero",
@@ -1280,6 +1237,27 @@
       "posted_at": "",
       "fetched_at": "2026-06-12T09:58:58.623216+00:00",
       "expires_at": "2026-06-19T09:58:58.623186+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 0,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Other",
+      "match_reasons": [],
+      "gaps": [],
+      "one_liner": "Scoring failed - will retry next run",
+      "apply": false
+    },
+    {
+      "id": "7b0da3917458",
+      "title": "Analytics Engineering Manager (AI & Agentic Analytics)",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/analytics-engineering-manager-ai-and-agentic-analytics-in-singapore-jid-10075",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-06-17T20:02:13.345336+00:00",
+      "expires_at": "2026-06-24T20:02:13.345301+00:00",
       "ttl_source": "7d-ttl",
       "status": "new",
       "fit_score": 0,
