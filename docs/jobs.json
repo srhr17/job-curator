@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-17T20:02:13.345494+00:00",
-  "total": 48,
-  "purged_this_run": 3,
+  "last_updated": "2026-06-18T10:08:11.916440+00:00",
+  "total": 49,
+  "purged_this_run": 0,
   "jobs": [
     {
       "id": "b58e7a6c2576",
@@ -665,6 +665,35 @@
         "Java/Scala proficiency is noted as a gap."
       ],
       "one_liner": "Sri Hari Sivashanmugam is a strong candidate for the Data Engineer II role due to his extensive production experience in cloud data engineering and data warehousing technologies, with EU Blue Card eligibility making him a viable international candidate.",
+      "apply": true
+    },
+    {
+      "id": "42c88157a05a",
+      "title": "Senior Data Scientist - (Content, Consumer)",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/senior-data-scientist-content-consumer-in-berlin-germany-jid-10122",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-06-18T10:08:11.916270+00:00",
+      "expires_at": "2026-06-25T10:08:11.916240+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Scientist",
+      "match_reasons": [
+        "Strong experience in ML/AI with focus on LLMs, RAG, and multi-agent systems, which align with a Senior Data Scientist role.",
+        "Extensive cloud experience (Azure, Databricks, Snowflake, AWS, GCP) is a significant asset for a role likely leveraging cloud infrastructure.",
+        "Demonstrated ability in stakeholder management to Director level suggests good communication and collaboration skills required for senior roles.",
+        "Publications and citations indicate strong research and analytical capabilities."
+      ],
+      "gaps": [
+        "The job description emphasizes deep experience in A/B testing, causal inference, and experimentation, while the candidate lists only 'foundations' in causal inference.",
+        "The candidate lists 'dbt (limited prod depth)' as a gap, which might be a concern if the role requires significant dbt expertise for analytics engineering tasks related to content/consumer data."
+      ],
+      "one_liner": "A strong candidate for a Senior Data Scientist role with extensive ML/AI and cloud experience, though deeper causal inference and dbt expertise would further strengthen their profile.",
       "apply": true
     },
     {
