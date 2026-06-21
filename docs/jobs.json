@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-19T10:14:38.574616+00:00",
+  "last_updated": "2026-06-21T09:37:48.708773+00:00",
   "total": 47,
-  "purged_this_run": 3,
+  "purged_this_run": 1,
   "jobs": [
     {
       "id": "b58e7a6c2576",
@@ -580,36 +580,6 @@
       "apply": true
     },
     {
-      "id": "d93c39b7673a",
-      "title": "Senior Machine Learning Engineer (AI focused) - (Logistics, Data & ML)",
-      "company": "Delivery Hero",
-      "location": "Germany",
-      "apply_url": "https://careers.deliveryhero.com/job/senior-machine-learning-engineer-ai-focused-logistics-data-and-ml-in-berlin-germany-jid-8829",
-      "source": "Career Page (Delivery Hero)",
-      "posted_at": "",
-      "fetched_at": "2026-06-12T14:38:24.692512+00:00",
-      "expires_at": "2026-06-19T14:38:24.692483+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "ML Engineer",
-      "match_reasons": [
-        "Strong experience in ML lifecycle management with MLflow, aligning with ML Engineer focus.",
-        "Extensive cloud experience (Azure, Databricks, Snowflake, AWS, GCP) is highly relevant for a logistics/data/ML role.",
-        "Proven ability in data engineering (PySpark, ETL/ELT, Medallion Lakehouse) and analytics engineering (dbt, modeling) provides a solid foundation for building ML systems.",
-        "Experience with AI concepts like LLM orchestration, RAG, and multi-agent systems directly matches the 'AI focused' aspect of the role.",
-        "EU Blue Card eligibility is a significant advantage for the Germany location."
-      ],
-      "gaps": [
-        "Limited production depth in dbt.",
-        "Deep Kafka/Confluent and Kubernetes/Helm knowledge not explicitly demonstrated."
-      ],
-      "one_liner": "A data and ML professional with strong cloud and ML lifecycle experience, eligible for EU Blue Card, seeking an AI-focused ML Engineer role in Germany.",
-      "apply": true
-    },
-    {
       "id": "5e8f50b66c49",
       "title": "Data Engineer II, Operations - Quick Commerce",
       "company": "Delivery Hero",
@@ -665,6 +635,36 @@
         "The candidate lists 'dbt (limited prod depth)' as a gap, which might be a concern if the role requires significant dbt expertise for analytics engineering tasks related to content/consumer data."
       ],
       "one_liner": "A strong candidate for a Senior Data Scientist role with extensive ML/AI and cloud experience, though deeper causal inference and dbt expertise would further strengthen their profile.",
+      "apply": true
+    },
+    {
+      "id": "2e8672e39bb1",
+      "title": "Machine Learning Scientist - Regulatory Reporting Technology",
+      "company": "Adyen",
+      "location": "Amsterdam",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7912710",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-06-19T09:02:50-04:00",
+      "fetched_at": "2026-06-21T09:37:48.708650+00:00",
+      "expires_at": "2026-07-21T09:37:48.694283+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "ML Engineer",
+      "match_reasons": [
+        "Strong experience in building and scaling production-ready ML models across the full lifecycle (MLflow mentioned).",
+        "Extensive experience with big data ecosystems (Spark/Hadoop via PySpark, Azure Databricks) for feature engineering and infrastructure.",
+        "Experience in data governance, regulatory compliance (HIPAA, USCDI), and stakeholder management relevant to a regulated industry.",
+        "Targeting roles with ML engineering overlap and a clear interest in ML/AI."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which might be relevant for building internal infrastructure.",
+        "While Kafka is mentioned as working knowledge, deep Kafka/Confluent expertise is a gap, though likely not critical for the core ML model building.",
+        "Deep causal inference is a gap, but the role seems to focus more on statistical models for reporting and risk evaluation."
+      ],
+      "one_liner": "Sri Hari is a strong candidate for this ML Scientist role with extensive experience in ML model lifecycle management, big data ecosystems, and regulatory compliance, though some depth in dbt would be beneficial.",
       "apply": true
     },
     {
