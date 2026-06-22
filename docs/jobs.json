@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T19:17:28.091289+00:00",
-  "total": 47,
+  "last_updated": "2026-06-22T11:37:48.248425+00:00",
+  "total": 49,
   "purged_this_run": 0,
   "jobs": [
     {
@@ -668,6 +668,35 @@
       "apply": true
     },
     {
+      "id": "823bd44b11e5",
+      "title": "Optimization Data Analyst",
+      "company": "Adyen",
+      "location": "Chicago",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7181026",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-06-22T05:04:57-04:00",
+      "fetched_at": "2026-06-22T11:37:48.248278+00:00",
+      "expires_at": "2026-07-22T11:37:48.248182+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong experience in data analysis and identifying optimization opportunities within large datasets, directly aligning with the 'Data-Driven Optimization' and 'Advanced Problem-Solving & Experimentation' responsibilities.",
+        "Demonstrated ability in building scalable analytics solutions and automation pipelines ('Scalable Tooling & Automation') using tools like PySpark, Azure Databricks, and Airflow.",
+        "Proven experience in stakeholder management and translating business challenges into analytical solutions ('Cross-Functional Collaboration')."
+      ],
+      "gaps": [
+        "The job description for 'Optimization Data Analyst' at Adyen may lean more towards analytics and business impact than deep data engineering or ML engineering, potentially leaving some of Sri Hari's advanced data engineering and ML platform skills underutilized.",
+        "The candidate's stated 'dbt (limited prod depth)' could be a minor gap given the importance of analytics engineering tooling in such a role, though their other analytics engineering skills are strong.",
+        "The job's location in Chicago means the candidate's stated preference for international roles is a mismatch."
+      ],
+      "one_liner": "A highly skilled candidate with strong data analysis, scalable solution building, and stakeholder management capabilities, well-suited for an analytics-focused role but with potential overqualification in pure data engineering.",
+      "apply": false
+    },
+    {
       "id": "6fddddab7172",
       "title": "Data Analyst",
       "company": "SumUp",
@@ -847,6 +876,37 @@
         "There's no explicit mention of experience with customer-facing analytics or direct online data analysis platforms relevant to TELUS Digital."
       ],
       "one_liner": "While the candidate possesses strong technical data skills and targets Canada, their experience is highly specialized in data engineering and ML, potentially overqualified and misaligned with the core requirements of an Online Data Analyst role, especially concerning language proficiency.",
+      "apply": false
+    },
+    {
+      "id": "3dac411a4b53",
+      "title": "Senior Database DevOps Engineer",
+      "company": "SumUp",
+      "location": "Berlin, Germany; Sofia, Bulgaria",
+      "apply_url": "https://sumup.com/careers/positions/8482964002?gh_jid=8482964002",
+      "source": "Greenhouse (SumUp)",
+      "posted_at": "2026-06-22T06:46:13-04:00",
+      "fetched_at": "2026-06-22T11:37:38.587041+00:00",
+      "expires_at": "2026-07-22T11:37:38.571631+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 4,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Engineer",
+      "match_reasons": [
+        "Strong experience with cloud platforms (Azure, Databricks, Snowflake) and infrastructure-as-code (Terraform), which is relevant for building and maintaining cloud platform infrastructure.",
+        "Experience with ETL/ELT and data pipelines (PySpark, Airflow) is transferable to database infrastructure management and automation.",
+        "Familiarity with security and governance concepts (RBAC, data quality, HIPAA) aligns with the role's focus on security guidelines and compliance.",
+        "Targeting Germany makes this role a geographical fit."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which is a key tool for analytics engineering and likely involved in standardizing database usage.",
+        "Lack of deep Kafka/Confluent experience, which might be relevant in a data-intensive financial organization.",
+        "The role specifically asks for 'Deep hands-on knowledge of PostgreSQL' and 'AWS services (RDS, EC2, S3, VP', which Sri Hari does not list as a core strength, though has cloud experience.",
+        "The core focus is Database DevOps, which is distinct from Data Engineering or Data Science, and may require more specific database administration and operational expertise than explicitly listed."
+      ],
+      "one_liner": "Sri Hari has relevant cloud and IaC experience but lacks deep specific database expertise and dbt production depth required for this senior Database DevOps role.",
       "apply": false
     },
     {
