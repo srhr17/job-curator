@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-25T14:06:08.605893+00:00",
-  "total": 49,
-  "purged_this_run": 2,
+  "last_updated": "2026-06-25T19:47:17.004667+00:00",
+  "total": 48,
+  "purged_this_run": 1,
   "jobs": [
     {
       "id": "b58e7a6c2576",
@@ -1198,27 +1198,6 @@
       "fetched_at": "2026-05-29T20:10:45.458518+00:00",
       "expires_at": "2026-06-28T20:10:45.458419+00:00",
       "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed - will retry next run",
-      "apply": false
-    },
-    {
-      "id": "d69982676d2d",
-      "title": "Senior Data Analyst (all genders)\n\nLogistics & Supply Chain\n\nBerlin\n\nView job",
-      "company": "Zalando",
-      "location": "Germany",
-      "apply_url": "https://jobs.zalando.com/en/jobs/2724160-Senior-Data-Analyst-(all-genders)",
-      "source": "Career Page (Zalando)",
-      "posted_at": "",
-      "fetched_at": "2026-06-18T14:50:03.980715+00:00",
-      "expires_at": "2026-06-25T14:50:03.980697+00:00",
-      "ttl_source": "7d-ttl",
       "status": "new",
       "fit_score": 0,
       "visa_eligible": "unclear",
