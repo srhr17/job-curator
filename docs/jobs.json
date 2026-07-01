@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-06-29T10:25:05.772198+00:00",
-  "total": 39,
-  "purged_this_run": 3,
+  "last_updated": "2026-07-01T19:40:56.880727+00:00",
+  "total": 35,
+  "purged_this_run": 5,
   "jobs": [
     {
       "id": "612f4a2fa625",
@@ -181,121 +181,6 @@
         "While Kafka is listed as 'working knowledge', deeper expertise in Kafka/Confluent is a gap."
       ],
       "one_liner": "A seasoned Data Engineer with extensive cloud and production experience, well-suited for a Sr Data Engineer role in Germany, possessing EU Blue Card eligibility.",
-      "apply": true
-    },
-    {
-      "id": "8a7012d4b529",
-      "title": "Marketing Analytics Engineer",
-      "company": "N26",
-      "location": "Berlin",
-      "apply_url": "https://n26.com/en-eu/careers/positions/7962721?gh_jid=7962721",
-      "source": "Greenhouse (N26)",
-      "posted_at": "2026-06-01T03:38:14-04:00",
-      "fetched_at": "2026-06-01T11:12:05.328530+00:00",
-      "expires_at": "2026-07-01T11:12:05.310347+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Analytics Engineer",
-      "match_reasons": [
-        "Strong alignment with Analytics Engineer responsibilities, including data modeling, building data products with software engineering best practices, and improving workflow efficiency.",
-        "Experience in ETL/ELT, dimensional modeling (Kimball), and building robust data pipelines is directly applicable to the role's requirements.",
-        "Proficiency in Python, SQL, and cloud platforms (Azure, Databricks, Snowflake) are essential for building and maintaining scalable pipelines and BI infrastructure support."
-      ],
-      "gaps": [
-        "The candidate has 'dbt (limited prod depth)' which is a core tool for Analytics Engineers, but the job description doesn't explicitly mention dbt.",
-        "Experience specifically in Marketing or Marketing Technology is not explicitly stated, though transferable skills are present."
-      ],
-      "one_liner": "Sri Hari possesses strong data engineering and analytics engineering skills, making him a solid candidate for the Marketing Analytics Engineer role, with his EU Blue Card eligibility being a significant advantage for relocation.",
-      "apply": true
-    },
-    {
-      "id": "dff3d4a306b1",
-      "title": "Marketing Analytics Engineer",
-      "company": "N26",
-      "location": "Barcelona",
-      "apply_url": "https://n26.com/en-eu/careers/positions/7962618?gh_jid=7962618",
-      "source": "Greenhouse (N26)",
-      "posted_at": "2026-06-01T03:38:15-04:00",
-      "fetched_at": "2026-06-01T11:12:07.722725+00:00",
-      "expires_at": "2026-07-01T11:12:07.722603+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Analytics Engineer",
-      "match_reasons": [
-        "Strong background in Data Engineering and Analytics Engineering with experience in ETL/ELT, dimensional modeling (Kimball), and data modeling tools.",
-        "Experience with cloud platforms (Azure, Databricks, Snowflake) aligns with building scalable data pipelines.",
-        "Demonstrated ability to build robust data pipelines, troubleshoot complex issues, and manage BI infrastructure is directly applicable to the role's responsibilities."
-      ],
-      "gaps": [
-        "The job description does not explicitly mention the need for deep Kafka/Confluent, Kubernetes/Helm, Java/Scala, deep causal inference, or specific depth in dbt, which are listed as candidate gaps. However, the role might implicitly require some of these.",
-        "While the candidate has visualization experience, the depth of experience with Tableau/Power BI for BI infrastructure support is not explicitly detailed."
-      ],
-      "one_liner": "Sri Hari possesses strong data engineering and analytics engineering skills, including extensive cloud experience and data modeling, making them a solid candidate for a Marketing Analytics Engineer role, with EU Blue Card eligibility being a significant advantage.",
-      "apply": true
-    },
-    {
-      "id": "4d9bbb5a14c5",
-      "title": "Senior Marketing Data Analyst",
-      "company": "N26",
-      "location": "Berlin",
-      "apply_url": "https://n26.com/en-eu/careers/positions/7522593?gh_jid=7522593",
-      "source": "Greenhouse (N26)",
-      "posted_at": "2026-06-01T03:37:55-04:00",
-      "fetched_at": "2026-06-01T11:12:10.777596+00:00",
-      "expires_at": "2026-07-01T11:12:10.777504+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Analytics Engineer",
-      "match_reasons": [
-        "Strong experience in analytics engineering with dbt (though limited prod depth), dimensional modeling, and building scalable data models.",
-        "Proven ability to partner with stakeholders at various levels, including Director level, which aligns with advising senior leadership and acting as a go-to person for marketing teams.",
-        "Experience with building scalable, reliable, and self-serve resources, including data modeling lineage and designing analytics dashboards, directly maps to the job requirement of building scalable resources.",
-        "Skills in data visualization (Tableau, Power BI) and the ability to drive data literacy are relevant to enriching the knowledge base and sharing insights.",
-        "Experience with ML/AI, including RAG and LLM orchestration, can be leveraged for Marketing Science initiatives like MMM."
-      ],
-      "gaps": [
-        "Limited production depth in dbt, which is a core tool for analytics engineering in this role.",
-        "While 'Marketing Science' is mentioned, the candidate's core ML/AI strengths are not explicitly marketing-focused, and deep causal inference is listed as a gap."
-      ],
-      "one_liner": "Sri Hari has strong analytics engineering foundations and stakeholder management skills that align well with the Senior Marketing Data Analyst role, though deeper dbt experience and specific marketing science expertise would enhance the fit.",
-      "apply": true
-    },
-    {
-      "id": "a1bbeff85c53",
-      "title": "Senior Marketing Data Analyst",
-      "company": "N26",
-      "location": "Barcelona",
-      "apply_url": "https://n26.com/en-eu/careers/positions/7529962?gh_jid=7529962",
-      "source": "Greenhouse (N26)",
-      "posted_at": "2026-06-01T03:37:54-04:00",
-      "fetched_at": "2026-06-01T11:12:13.306260+00:00",
-      "expires_at": "2026-07-01T11:12:13.306172+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Analytics Engineer",
-      "match_reasons": [
-        "Strong experience in data modeling (dimensional modeling, Data Vault) and building scalable data solutions aligns with the role's emphasis on Measurement Frameworks and scalable Data Modeling lineage.",
-        "Proven ability to partner with stakeholders, including to Director level, and present complex analysis strategically is a direct match for collaborating with Senior Leadership and acting as a Partner to Marketing Stakeholders.",
-        "Experience with A/B testing and driving data-driven decision-making (foundations in causal inference, propensity scoring) supports the 'Drive Marketing Science initiatives' requirement, particularly the Test & Learn workstream.",
-        "Proficiency in SQL and Python, coupled with visualization tools like Tableau and Power BI, directly supports the creation and maintenance of analytics dashboards for monitoring campaign performance."
-      ],
-      "gaps": [
-        "Limited production depth in dbt, which is mentioned as a key tool for analytics engineering, could require some ramp-up.",
-        "While the role is Senior Marketing Data Analyst, the candidate's strengths lean more towards engineering and core data science, with less explicit experience in marketing-specific analytics or measurement strategy beyond general data analysis."
-      ],
-      "one_liner": "A strong Analytics Engineer with extensive data modeling and stakeholder management experience, well-suited for building data foundations and driving data-driven marketing insights, though deeper dbt expertise would be beneficial.",
       "apply": true
     },
     {
@@ -814,6 +699,34 @@
       "apply": true
     },
     {
+      "id": "4bb1f61a0883",
+      "title": "Data Analyst II Rider Experience",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/data-analyst-ii-rider-experience-in-barcelona-spain-jid-10316",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-07-01T19:40:56.880611+00:00",
+      "expires_at": "2026-07-08T19:40:56.880589+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 6,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Analyst",
+      "match_reasons": [
+        "Strong analytical skills and experience with Python, SQL, and visualization tools (Tableau, Power BI).",
+        "Experience with data governance and stakeholder management, which are valuable for an analyst role.",
+        "Targeting Germany and EU Blue Card eligibility makes relocation feasible."
+      ],
+      "gaps": [
+        "The role seems more focused on traditional data analysis rather than heavy data engineering or ML engineering, where the candidate's core strengths lie.",
+        "Specific experience with rider experience data or similar domain-specific analytics is not explicitly mentioned."
+      ],
+      "one_liner": "Sri Hari is a data professional with strong cloud and data engineering skills, targeting roles in Germany where EU Blue Card eligibility provides a clear path for visa sponsorship.",
+      "apply": true
+    },
+    {
       "id": "1a2d441e88b7",
       "title": "Junior Data Analyst",
       "company": "Catawiki",
@@ -977,27 +890,6 @@
       "fetched_at": "2026-06-23T14:30:19.678101+00:00",
       "expires_at": "2026-07-23T14:30:19.429824+00:00",
       "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed - will retry next run",
-      "apply": false
-    },
-    {
-      "id": "093a5459f6f1",
-      "title": "Principal ML Engineer (Agentic AI)-Vendor Data Team",
-      "company": "Delivery Hero",
-      "location": "Germany",
-      "apply_url": "https://careers.deliveryhero.com/job/principal-ml-engineer-agentic-ai-vendor-data-team-in-berlin-germany-jid-9214",
-      "source": "Career Page (Delivery Hero)",
-      "posted_at": "",
-      "fetched_at": "2026-06-23T14:30:20.782274+00:00",
-      "expires_at": "2026-06-30T14:30:20.782243+00:00",
-      "ttl_source": "7d-ttl",
       "status": "new",
       "fit_score": 0,
       "visa_eligible": "unclear",
