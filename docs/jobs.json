@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-01T19:40:56.880727+00:00",
-  "total": 35,
-  "purged_this_run": 5,
+  "last_updated": "2026-07-02T08:43:59.631066+00:00",
+  "total": 36,
+  "purged_this_run": 0,
   "jobs": [
     {
       "id": "612f4a2fa625",
@@ -696,6 +696,36 @@
         "This role is more focused on analysis and reporting than the candidate's extensive data engineering or ML engineering background."
       ],
       "one_liner": "Sri Hari is a strong candidate for this Product Data Analyst role due to his extensive SQL, Snowflake, and Tableau experience, with potential to grow into the dbt aspect, but visa/relocation status needs clarification.",
+      "apply": true
+    },
+    {
+      "id": "c0e031d404c0",
+      "title": "Data Scientist II - Analysis, QC",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/data-scientist-ii-analysis-qc-in-dubai-uae-jid-10098",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-07-02T08:43:59.630862+00:00",
+      "expires_at": "2026-07-09T08:43:59.630835+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Scientist",
+      "match_reasons": [
+        "Strong experience in core Data Science areas like ML/AI (Scikit-learn, GLMs, time-series forecasting, LLM orchestration, RAG) and Statistics, aligning with the 'Analysis, QC' focus.",
+        "Proficient in Python and SQL, essential languages for a Data Scientist role.",
+        "Extensive cloud experience (Azure, Databricks, Snowflake, AWS, GCP) and data engineering skills (PySpark, ETL/ELT, Medallion Lakehouse, Delta Lake) provide a solid foundation for data-intensive analysis and quality control.",
+        "Demonstrated ability in stakeholder management up to Director level, which is valuable in any professional role.",
+        "EU Blue Card eligibility makes him a strong candidate for Germany."
+      ],
+      "gaps": [
+        "The job description at Delivery Hero emphasizes 'Data Engineer - Data Quality & Productivity' and mentions 'Experience with data quality tools and frameworks' and 'Strong SQL, Python and Spark skills' which Sri Hari possesses, however, the 'QC' aspect is not explicitly detailed in his skills, and his dbt experience is noted as limited in production depth, which might be relevant for data quality frameworks.",
+        "The description also implies potential need for more robust data pipelines and operationalization, where deeper Kafka/Confluent and Kubernetes/Helm knowledge could be beneficial, though not explicitly listed as requirements."
+      ],
+      "one_liner": "Sri Hari is a strong candidate for a Data Scientist role with a solid foundation in data engineering, cloud technologies, and ML/AI, who is EU Blue Card eligible for relocation to Germany.",
       "apply": true
     },
     {
