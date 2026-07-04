@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-04T08:26:20.599221+00:00",
-  "total": 43,
-  "purged_this_run": 0,
+  "last_updated": "2026-07-04T13:02:48.196095+00:00",
+  "total": 42,
+  "purged_this_run": 1,
   "jobs": [
     {
       "id": "612f4a2fa625",
@@ -154,34 +154,6 @@
       ],
       "one_liner": "A highly experienced candidate with strong ML engineering skills and a proven track record in productionizing ML pipelines, cloud platforms, and data engineering tools, making them a strong potential fit for the Machine Learning Engineer role.",
       "apply": false
-    },
-    {
-      "id": "e6461bb227af",
-      "title": "Sr Data Engineer",
-      "company": "Delivery Hero",
-      "location": "Germany",
-      "apply_url": "https://careers.deliveryhero.com/job/sr-data-engineer-in-buenos-aires-argentina-jid-10255",
-      "source": "Career Page (Delivery Hero)",
-      "posted_at": "",
-      "fetched_at": "2026-06-27T08:28:16.724702+00:00",
-      "expires_at": "2026-07-04T08:28:16.724668+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 8,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Engineer",
-      "match_reasons": [
-        "Strong alignment with Sr Data Engineer role requirements, particularly in data engineering, cloud platforms (Azure, Databricks, Snowflake), and IaC (Terraform).",
-        "Extensive production experience (4+ years) and proven ability in cloud migration at scale and ETL/ELT processes.",
-        "Familiarity with core data warehousing concepts like Medallion Lakehouse, dimensional modeling, and data governance."
-      ],
-      "gaps": [
-        "Limited production depth in dbt.",
-        "While Kafka is listed as 'working knowledge', deeper expertise in Kafka/Confluent is a gap."
-      ],
-      "one_liner": "A seasoned Data Engineer with extensive cloud and production experience, well-suited for a Sr Data Engineer role in Germany, possessing EU Blue Card eligibility.",
-      "apply": true
     },
     {
       "id": "e522d7db5bd5",
