@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-03T13:45:13.347961+00:00",
-  "total": 41,
-  "purged_this_run": 1,
+  "last_updated": "2026-07-04T08:26:20.599221+00:00",
+  "total": 43,
+  "purged_this_run": 0,
   "jobs": [
     {
       "id": "612f4a2fa625",
@@ -695,6 +695,67 @@
         "The description also implies potential need for more robust data pipelines and operationalization, where deeper Kafka/Confluent and Kubernetes/Helm knowledge could be beneficial, though not explicitly listed as requirements."
       ],
       "one_liner": "Sri Hari is a strong candidate for a Data Scientist role with a solid foundation in data engineering, cloud technologies, and ML/AI, who is EU Blue Card eligible for relocation to Germany.",
+      "apply": true
+    },
+    {
+      "id": "a1bbeff85c53",
+      "title": "Senior Marketing Data Analyst",
+      "company": "N26",
+      "location": "Barcelona",
+      "apply_url": "https://n26.com/en-eu/careers/positions/7529962?gh_jid=7529962",
+      "source": "Greenhouse (N26)",
+      "posted_at": "2026-07-03T13:15:00-04:00",
+      "fetched_at": "2026-07-04T08:26:11.511305+00:00",
+      "expires_at": "2026-08-03T08:26:11.505043+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong experience in analytics engineering with dbt, dimensional modeling (Kimball), and data modeling.",
+        "Proven ability to build scalable, reliable, and self-serve resources, including data modeling and dashboards.",
+        "Experience in stakeholder management up to Director level and collaborating with cross-functional teams.",
+        "Experience with measurement, analysis, and driving data-driven decisions for business impact.",
+        "Skills align with the need to establish data-mindsets and foster a culture of learning."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which is a core requirement for an analytics engineering role.",
+        "The role heavily focuses on marketing analytics, where the candidate's direct experience is not explicitly detailed, though their analytical skills are transferable."
+      ],
+      "one_liner": "Sri Hari is a strong candidate for the Senior Marketing Data Analyst role, with solid analytics engineering skills and stakeholder management experience, though dbt production depth and specific marketing analytics experience are areas to explore.",
+      "apply": true
+    },
+    {
+      "id": "4d9bbb5a14c5",
+      "title": "Senior Marketing Data Analyst",
+      "company": "N26",
+      "location": "Berlin",
+      "apply_url": "https://n26.com/en-eu/careers/positions/7522593?gh_jid=7522593",
+      "source": "Greenhouse (N26)",
+      "posted_at": "2026-07-03T13:14:59-04:00",
+      "fetched_at": "2026-07-04T08:26:20.599013+00:00",
+      "expires_at": "2026-08-03T08:26:20.598912+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong alignment with 'Lead Acquisition Measurement' and 'Act as a Partner to Marketing Stakeholders' through extensive experience in stakeholder management and data analysis.",
+        "Experience in 'Build scalable, reliable, and self-serve resources' with skills in data modeling, dashboarding (Tableau, Power BI), and data pipelines.",
+        "Proven ability to 'Drive Marketing Science initiatives' with experience in analytics, hypothesis testing, and potentially MMM/CLV concepts given the ML/AI background.",
+        "Strong analytical and technical foundation with advanced Python and SQL, relevant for data analysis and engineering tasks.",
+        "Experience with data governance and quality is valuable for building reliable resources and knowledge bases."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which is a core tool for analytics engineering and mentioned in the job description.",
+        "The role emphasizes marketing analytics, and while the candidate has statistical foundations, deep marketing-specific analytical frameworks or MMM expertise is not explicitly detailed.",
+        "While the candidate can build dashboards, the job description implies a need for a more specialized focus on marketing performance dashboards."
+      ],
+      "one_liner": "Sri Hari is a strong candidate for a Senior Marketing Data Analyst role with solid data engineering and analytical skills, but with potential gaps in dbt production depth and specific marketing analytics frameworks.",
       "apply": true
     },
     {
