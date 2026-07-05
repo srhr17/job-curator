@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-05T13:10:55.974781+00:00",
-  "total": 39,
+  "last_updated": "2026-07-05T19:04:15.787526+00:00",
+  "total": 40,
   "purged_this_run": 0,
   "jobs": [
     {
@@ -156,6 +156,38 @@
         "Java/Scala and Kubernetes/Helm knowledge are gaps, which might be relevant for production ML systems."
       ],
       "one_liner": "Highly experienced Data Scientist with strong end-to-end ML productionization and cloud skills, well-suited for an ML Engineer role focused on financial crime, with a gap in deep Kafka and dbt production depth.",
+      "apply": true
+    },
+    {
+      "id": "79ee1a8e9eb7",
+      "title": "Machine Learning Scientist",
+      "company": "Adyen",
+      "location": "Amsterdam",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7434460",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-07-05T09:14:45-04:00",
+      "fetched_at": "2026-07-05T19:04:15.787392+00:00",
+      "expires_at": "2026-08-04T19:04:15.781396+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 8,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Machine Learning Scientist",
+      "match_reasons": [
+        "Strong ML/AI skills including LLM orchestration, RAG, and multi-agent systems which are highly relevant for modern ML roles.",
+        "Extensive experience in production ML lifecycle management using MLflow, directly aligning with the job's focus on building, developing, and deploying production-ready ML solutions.",
+        "Experience with cloud platforms (Azure, Databricks, Snowflake, AWS, GCP) and data engineering tools (PySpark, Spark, ETL/ELT, Airflow) essential for developing orchestrated pipelines and working with large datasets.",
+        "Strong analytical and statistical foundation, including hypothesis testing, regression, and causal inference (foundations), which are crucial for researching and designing ML algorithms.",
+        "Experience with stakeholder management to director level is valuable for collaborating with product managers and business stakeholders.",
+        "EU Blue Card eligibility makes him a strong candidate for a role in Amsterdam."
+      ],
+      "gaps": [
+        "Limited production depth in dbt might be a slight drawback for analytics engineering aspects, but not critical for an ML Scientist role.",
+        "Deep Kafka/Confluent, Kubernetes/Helm, Java/Scala are not directly listed as core requirements for the ML Scientist role but would enhance versatility.",
+        "Deep causal inference is listed as a gap, but foundations are present, and the role description mentions causal inference as a possibility, not a strict requirement."
+      ],
+      "one_liner": "A highly experienced ML practitioner with strong production ML lifecycle, data engineering, and cloud skills, well-suited for a Machine Learning Scientist role and eligible for EU visa sponsorship.",
       "apply": true
     },
     {
