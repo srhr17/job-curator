@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-05T19:04:15.787526+00:00",
-  "total": 40,
+  "last_updated": "2026-07-06T09:58:38.742478+00:00",
+  "total": 41,
   "purged_this_run": 0,
   "jobs": [
     {
@@ -1098,6 +1098,27 @@
       "fetched_at": "2026-07-03T13:45:13.347802+00:00",
       "expires_at": "2026-07-10T13:45:13.347770+00:00",
       "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 0,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Other",
+      "match_reasons": [],
+      "gaps": [],
+      "one_liner": "Scoring failed - will retry next run",
+      "apply": false
+    },
+    {
+      "id": "23131042d0aa",
+      "title": "Senior Machine Learning Engineer I",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "apply_url": "https://sumup.com/careers/positions/8498275002?gh_jid=8498275002",
+      "source": "Greenhouse (SumUp)",
+      "posted_at": "2026-07-06T05:32:34-04:00",
+      "fetched_at": "2026-07-06T09:58:38.742371+00:00",
+      "expires_at": "2026-08-05T09:58:38.727921+00:00",
+      "ttl_source": "30d-ttl",
       "status": "new",
       "fit_score": 0,
       "visa_eligible": "unclear",
