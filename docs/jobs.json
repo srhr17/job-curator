@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-08T19:10:12.182492+00:00",
-  "total": 44,
-  "purged_this_run": 0,
+  "last_updated": "2026-07-09T09:28:21.796374+00:00",
+  "total": 42,
+  "purged_this_run": 2,
   "jobs": [
     {
       "id": "5da29b4f8b74",
@@ -554,36 +554,6 @@
       "apply": true
     },
     {
-      "id": "c0e031d404c0",
-      "title": "Data Scientist II - Analysis, QC",
-      "company": "Delivery Hero",
-      "location": "Germany",
-      "apply_url": "https://careers.deliveryhero.com/job/data-scientist-ii-analysis-qc-in-dubai-uae-jid-10098",
-      "source": "Career Page (Delivery Hero)",
-      "posted_at": "",
-      "fetched_at": "2026-07-02T08:43:59.630862+00:00",
-      "expires_at": "2026-07-09T08:43:59.630835+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Scientist",
-      "match_reasons": [
-        "Strong experience in core Data Science areas like ML/AI (Scikit-learn, GLMs, time-series forecasting, LLM orchestration, RAG) and Statistics, aligning with the 'Analysis, QC' focus.",
-        "Proficient in Python and SQL, essential languages for a Data Scientist role.",
-        "Extensive cloud experience (Azure, Databricks, Snowflake, AWS, GCP) and data engineering skills (PySpark, ETL/ELT, Medallion Lakehouse, Delta Lake) provide a solid foundation for data-intensive analysis and quality control.",
-        "Demonstrated ability in stakeholder management up to Director level, which is valuable in any professional role.",
-        "EU Blue Card eligibility makes him a strong candidate for Germany."
-      ],
-      "gaps": [
-        "The job description at Delivery Hero emphasizes 'Data Engineer - Data Quality & Productivity' and mentions 'Experience with data quality tools and frameworks' and 'Strong SQL, Python and Spark skills' which Sri Hari possesses, however, the 'QC' aspect is not explicitly detailed in his skills, and his dbt experience is noted as limited in production depth, which might be relevant for data quality frameworks.",
-        "The description also implies potential need for more robust data pipelines and operationalization, where deeper Kafka/Confluent and Kubernetes/Helm knowledge could be beneficial, though not explicitly listed as requirements."
-      ],
-      "one_liner": "Sri Hari is a strong candidate for a Data Scientist role with a solid foundation in data engineering, cloud technologies, and ML/AI, who is EU Blue Card eligible for relocation to Germany.",
-      "apply": true
-    },
-    {
       "id": "a1bbeff85c53",
       "title": "Senior Marketing Data Analyst",
       "company": "N26",
@@ -642,34 +612,6 @@
         "While the candidate can build dashboards, the job description implies a need for a more specialized focus on marketing performance dashboards."
       ],
       "one_liner": "Sri Hari is a strong candidate for a Senior Marketing Data Analyst role with solid data engineering and analytical skills, but with potential gaps in dbt production depth and specific marketing analytics frameworks.",
-      "apply": true
-    },
-    {
-      "id": "4bb1f61a0883",
-      "title": "Data Analyst II Rider Experience",
-      "company": "Delivery Hero",
-      "location": "Germany",
-      "apply_url": "https://careers.deliveryhero.com/job/data-analyst-ii-rider-experience-in-barcelona-spain-jid-10316",
-      "source": "Career Page (Delivery Hero)",
-      "posted_at": "",
-      "fetched_at": "2026-07-01T19:40:56.880611+00:00",
-      "expires_at": "2026-07-08T19:40:56.880589+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 6,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Analyst",
-      "match_reasons": [
-        "Strong analytical skills and experience with Python, SQL, and visualization tools (Tableau, Power BI).",
-        "Experience with data governance and stakeholder management, which are valuable for an analyst role.",
-        "Targeting Germany and EU Blue Card eligibility makes relocation feasible."
-      ],
-      "gaps": [
-        "The role seems more focused on traditional data analysis rather than heavy data engineering or ML engineering, where the candidate's core strengths lie.",
-        "Specific experience with rider experience data or similar domain-specific analytics is not explicitly mentioned."
-      ],
-      "one_liner": "Sri Hari is a data professional with strong cloud and data engineering skills, targeting roles in Germany where EU Blue Card eligibility provides a clear path for visa sponsorship.",
       "apply": true
     },
     {
