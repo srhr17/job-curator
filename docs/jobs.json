@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-13T08:51:29.657219+00:00",
-  "total": 40,
-  "purged_this_run": 6,
+  "last_updated": "2026-07-13T14:08:45.042138+00:00",
+  "total": 41,
+  "purged_this_run": 0,
   "jobs": [
     {
       "id": "8b514647431f",
@@ -1055,6 +1055,27 @@
       "posted_at": "",
       "fetched_at": "2026-07-08T13:43:14.577439+00:00",
       "expires_at": "2026-07-15T13:43:14.577351+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 0,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Other",
+      "match_reasons": [],
+      "gaps": [],
+      "one_liner": "Scoring failed - will retry next run",
+      "apply": false
+    },
+    {
+      "id": "fe962bfb32d2",
+      "title": "Data Analyst Recommerce (all genders)\n\nFinance, Analytics & Controlling\n\nBerlin\n\nView job",
+      "company": "Zalando",
+      "location": "Germany",
+      "apply_url": "https://jobs.zalando.com/en/jobs/2724728-Data-Analyst-Recommerce-(all-genders)",
+      "source": "Career Page (Zalando)",
+      "posted_at": "",
+      "fetched_at": "2026-07-13T14:08:45.041985+00:00",
+      "expires_at": "2026-07-20T14:08:45.041959+00:00",
       "ttl_source": "7d-ttl",
       "status": "new",
       "fit_score": 0,
