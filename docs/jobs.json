@@ -1,41 +1,8 @@
 {
-  "last_updated": "2026-07-13T14:08:45.042138+00:00",
-  "total": 41,
-  "purged_this_run": 0,
+  "last_updated": "2026-07-14T19:04:26.428818+00:00",
+  "total": 40,
+  "purged_this_run": 1,
   "jobs": [
-    {
-      "id": "8b514647431f",
-      "title": "Senior Data Scientist",
-      "company": "Lemon.io",
-      "location": "Americas, Europe, Asia, Oceania",
-      "apply_url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2090982",
-      "source": "Remotive",
-      "posted_at": "2026-06-11T13:24:37",
-      "fetched_at": "2026-06-14T13:31:05.074556+00:00",
-      "expires_at": "2026-07-14T13:31:05.059102+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 8,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Data Scientist",
-      "match_reasons": [
-        "4+ years of production experience aligns with the 4+ years commercial experience requirement for a Senior Data Scientist.",
-        "Strong Python and SQL skills are foundational for data science roles.",
-        "Extensive cloud experience (Azure, Databricks, Snowflake, AWS, GCP) meets the cloud provider requirement.",
-        "Experience with ML lifecycle (MLflow) and various ML/AI techniques (Scikit-learn, time-series forecasting, LLM orchestration) directly aligns with a Senior Data Scientist role.",
-        "Experience building projects from scratch and understanding application architecture is implied by their production experience and breadth of skills.",
-        "Stakeholder management to Director level suggests strong communication and presentation skills.",
-        "Publications and citations indicate a strong academic and research background, often valued in data science.",
-        "Target roles include Senior Data Scientist, making this a direct match."
-      ],
-      "gaps": [
-        "The job description does not specify visa or relocation support, which is a key consideration given the candidate's current H-1B status and target countries.",
-        "While the candidate has experience with LLM orchestration and RAG, the job description doesn't specifically mention these as requirements, but it's more of an observation than a strict gap."
-      ],
-      "one_liner": "A highly experienced Data Scientist with a strong foundation in cloud technologies, ML lifecycle management, and a proven track record in production environments, well-suited for a Senior Data Scientist role.",
-      "apply": false
-    },
     {
       "id": "2f6365fcf005",
       "title": "Machine Learning Engineer",
