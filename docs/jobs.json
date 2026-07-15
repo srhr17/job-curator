@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-15T13:15:32.326283+00:00",
+  "last_updated": "2026-07-15T18:57:08.246733+00:00",
   "total": 41,
-  "purged_this_run": 0,
+  "purged_this_run": 1,
   "jobs": [
     {
       "id": "2f6365fcf005",
@@ -607,6 +607,34 @@
       "apply": true
     },
     {
+      "id": "03efe983af2a",
+      "title": "Sr Analytics Engineer",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/sr-analytics-engineer-in-montevideo-uruguay-jid-10498",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-07-15T18:57:08.246557+00:00",
+      "expires_at": "2026-07-22T18:57:08.246506+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong alignment with core skills in data engineering (PySpark, Spark, ETL/ELT, Databricks, Delta Lake), analytics engineering (dbt, dimensional modeling, Kimball), cloud (Azure, Databricks, Snowflake), and SQL/Python.",
+        "Experience with concepts relevant to the role such as data quality, lineage, and data catalogs.",
+        "Demonstrated success in stakeholder management to Director level, which is crucial for a senior role."
+      ],
+      "gaps": [
+        "dbt (limited prod depth)",
+        "While Kafka is listed as working knowledge, deep Kafka/Confluent experience is noted as a gap, which can be relevant for data pipelines."
+      ],
+      "one_liner": "Sri Hari is a strong candidate for the Sr Analytics Engineer role with robust data engineering and analytics engineering skills, though further development in dbt production depth would be beneficial.",
+      "apply": true
+    },
+    {
       "id": "cb1a146e788d",
       "title": "Data Analytics Engineer - Boulder, Colorado ",
       "company": "SumUp",
@@ -1033,27 +1061,6 @@
       "fetched_at": "2026-07-08T13:43:13.481824+00:00",
       "expires_at": "2026-08-07T13:43:13.476031+00:00",
       "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed - will retry next run",
-      "apply": false
-    },
-    {
-      "id": "d23b91bafc37",
-      "title": "Senior Data Analyst - AdTech",
-      "company": "Delivery Hero",
-      "location": "Germany",
-      "apply_url": "https://careers.deliveryhero.com/job/senior-data-analyst-adtech-in-berlin-germany-jid-10407",
-      "source": "Career Page (Delivery Hero)",
-      "posted_at": "",
-      "fetched_at": "2026-07-08T13:43:14.577439+00:00",
-      "expires_at": "2026-07-15T13:43:14.577351+00:00",
-      "ttl_source": "7d-ttl",
       "status": "new",
       "fit_score": 0,
       "visa_eligible": "unclear",
