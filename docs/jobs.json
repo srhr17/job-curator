@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-14T19:04:26.428818+00:00",
-  "total": 40,
-  "purged_this_run": 1,
+  "last_updated": "2026-07-15T07:52:23.636575+00:00",
+  "total": 41,
+  "purged_this_run": 0,
   "jobs": [
     {
       "id": "2f6365fcf005",
@@ -573,6 +573,37 @@
         "dbt production depth is listed as a gap, and while not the primary focus of this specific role, dbt is a common tool in data platforms."
       ],
       "one_liner": "Sri Hari is a strong candidate for the Senior Data Platform Engineer role due to extensive production experience in data engineering, cloud, and IaC, with a minor gap in specific technologies like Java and deep Kafka expertise.",
+      "apply": true
+    },
+    {
+      "id": "55cd605c338d",
+      "title": "Staff Data Scientist, Dmarts - Quick Commerce",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/staff-data-scientist-dmarts-quick-commerce-in-berlin-germany-jid-10479",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-07-15T07:52:23.636402+00:00",
+      "expires_at": "2026-07-22T07:52:23.636374+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Scientist",
+      "match_reasons": [
+        "Strong experience in Data Science with publications and citations.",
+        "Extensive cloud experience (Azure, Databricks, Snowflake, AWS, GCP) highly relevant for a global company like Delivery Hero.",
+        "Proficiency in ML/AI, including LLM orchestration and RAG, which are increasingly important.",
+        "Experience with stakeholder management to Director level is valuable for a Staff role.",
+        "EU Blue Card eligibility aligns with the target location (Germany)."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which might be important for the Analytics Engineering aspects of the role.",
+        "Deep Kafka/Confluent and Kubernetes/Helm knowledge is listed as a gap, which can be crucial for production ML platforms.",
+        "While foundational causal inference is mentioned, the role might require deeper expertise depending on the specific projects."
+      ],
+      "one_liner": "Sri Hari possesses strong Data Science and cloud expertise with EU Blue Card eligibility, making them a good candidate for a Staff Data Scientist role at Delivery Hero, despite some gaps in specific engineering technologies.",
       "apply": true
     },
     {
