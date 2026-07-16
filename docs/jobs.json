@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-16T13:23:13.503201+00:00",
-  "total": 43,
-  "purged_this_run": 1,
+  "last_updated": "2026-07-16T18:58:12.762790+00:00",
+  "total": 44,
+  "purged_this_run": 0,
   "jobs": [
     {
       "id": "612f4a2fa625",
@@ -632,6 +632,35 @@
         "The job description does not explicitly mention visa sponsorship or relocation support, which are critical for this candidate."
       ],
       "one_liner": "This candidate is a strong fit for the ML Engineer role due to extensive production experience and relevant ML/data engineering skills, but visa/relocation support needs clarification.",
+      "apply": false
+    },
+    {
+      "id": "78d58f722275",
+      "title": "Senior Data Analyst",
+      "company": "Adyen",
+      "location": "San Francisco",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/8059340",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-07-16T14:29:55-04:00",
+      "fetched_at": "2026-07-16T18:58:12.762679+00:00",
+      "expires_at": "2026-08-15T18:58:12.749124+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong experience in data engineering and analytics engineering principles (ETL/ELT, dimensional modeling, dbt mentioned, though limited prod depth noted as a gap).",
+        "Proven ability to manage stakeholders up to Director level, crucial for a strategic Senior Data Analyst role.",
+        "Experience with cloud platforms (Azure, Databricks, Snowflake) and data visualization tools (Tableau, Power BI) directly applicable to analyzing interface performance.",
+        "Skills in A/B testing and experiment design align with the job description's requirements."
+      ],
+      "gaps": [
+        "Limited production depth in dbt.",
+        "The target role is Senior Data Analyst in San Francisco, while the candidate is looking for roles in Canada and Europe and currently on H-1B. Visa sponsorship and relocation support are not specified for this role."
+      ],
+      "one_liner": "A data professional with strong engineering and analytics capabilities, well-suited for driving interface performance analysis, but requiring clarity on visa and relocation for a US-based role.",
       "apply": false
     },
     {
