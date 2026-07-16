@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-15T18:57:08.246733+00:00",
+  "last_updated": "2026-07-16T07:57:54.104408+00:00",
   "total": 41,
   "purged_this_run": 1,
   "jobs": [
@@ -95,35 +95,6 @@
         "Deep causal inference is listed as a gap, but foundations are present, and the role description mentions causal inference as a possibility, not a strict requirement."
       ],
       "one_liner": "A highly experienced ML practitioner with strong production ML lifecycle, data engineering, and cloud skills, well-suited for a Machine Learning Scientist role and eligible for EU visa sponsorship.",
-      "apply": true
-    },
-    {
-      "id": "0dbad3ec73b3",
-      "title": "Senior Machine Learning Scientist / Data Engineer - Logistics Algorithms (all genders)\n\nApplied Science & Research\n\nBerlin\n\nView job",
-      "company": "Zalando",
-      "location": "Germany",
-      "apply_url": "https://jobs.zalando.com/en/jobs/2724616-Senior-Machine-Learning-Scientist-%2F-Data-Engineer-",
-      "source": "Career Page (Zalando)",
-      "posted_at": "",
-      "fetched_at": "2026-07-08T19:10:12.182350+00:00",
-      "expires_at": "2026-07-15T19:10:12.182328+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 8,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "ML Engineer",
-      "match_reasons": [
-        "Strong overlap in ML/AI skills including LLM orchestration, RAG, and multi-agent systems which align with the 'Applied Science & Research' aspect.",
-        "Extensive experience with ML platform (MLflow full lifecycle) and cloud platforms (Azure, Databricks) relevant for building and deploying ML solutions.",
-        "Solid data engineering foundation with PySpark, Spark, ETL/ELT, Medallion Lakehouse, and IaC (Terraform) which is crucial for a hybrid ML Scientist/Data Engineer role.",
-        "Experience with governance and stakeholder management aligns with senior-level expectations."
-      ],
-      "gaps": [
-        "Limited production depth in dbt.",
-        "Deep Kafka/Confluent, Kubernetes/Helm, Java/Scala, and deep causal inference are noted gaps but may not be critical for all aspects of the role given the strong ML/Data Engineering overlap."
-      ],
-      "one_liner": "Sri Hari demonstrates a strong profile for a Senior Machine Learning Scientist / Data Engineer role, particularly with extensive ML platform and cloud data engineering experience, and is EU Blue Card eligible.",
       "apply": true
     },
     {
@@ -632,6 +603,34 @@
         "While Kafka is listed as working knowledge, deep Kafka/Confluent experience is noted as a gap, which can be relevant for data pipelines."
       ],
       "one_liner": "Sri Hari is a strong candidate for the Sr Analytics Engineer role with robust data engineering and analytics engineering skills, though further development in dbt production depth would be beneficial.",
+      "apply": true
+    },
+    {
+      "id": "0dbad3ec73b3",
+      "title": "Senior Machine Learning Scientist / Data Engineer - Logistics Algorithms (all genders)\n\nApplied Science & Research\n\nBerlin\n\nView job",
+      "company": "Zalando",
+      "location": "Germany",
+      "apply_url": "https://jobs.zalando.com/en/jobs/2724616-Senior-Machine-Learning-Scientist-%2F-Data-Engineer-",
+      "source": "Career Page (Zalando)",
+      "posted_at": "",
+      "fetched_at": "2026-07-16T07:57:54.104261+00:00",
+      "expires_at": "2026-07-23T07:57:54.104237+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "ML Engineer",
+      "match_reasons": [
+        "Strong overlap in ML platform (MLflow full lifecycle), cloud (Azure, Databricks), and core ML/AI skills, directly applicable to ML algorithm development.",
+        "Extensive data engineering experience with PySpark, Spark, ETL/ELT, Medallion Lakehouse, Databricks, Delta Lake, and IaC (Terraform), aligning with the Data Engineer aspect of the role.",
+        "Demonstrated stakeholder management to Director level, valuable for a senior role involving cross-functional collaboration."
+      ],
+      "gaps": [
+        "Limited production depth in dbt.",
+        "Deep Kafka/Confluent, Kubernetes/Helm, Java/Scala, and deep causal inference are listed as gaps but may not be critical for all aspects of the role given the strong ML focus."
+      ],
+      "one_liner": "A candidate with strong ML platform and data engineering expertise, well-suited for a Senior ML Scientist/Data Engineer role with a desire to work in Germany.",
       "apply": true
     },
     {
