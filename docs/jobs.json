@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-16T18:58:12.762790+00:00",
-  "total": 44,
+  "last_updated": "2026-07-17T07:54:25.632039+00:00",
+  "total": 46,
   "purged_this_run": 0,
   "jobs": [
     {
@@ -96,6 +96,35 @@
         "No mention of specific Java/Scala experience, though Python/PySpark are strong."
       ],
       "one_liner": "A strong Data Engineer with extensive cloud and data engineering experience, targeting a role in Germany with EU Blue Card eligibility.",
+      "apply": true
+    },
+    {
+      "id": "b53596c2758b",
+      "title": "Data Engineer II - (Tech Foundations, Finops and Tech Metrics)",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/data-engineer-ii-tech-foundations-finops-and-tech-metrics-in-berlin-germany-jid-10516",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-07-17T07:54:22.456601+00:00",
+      "expires_at": "2026-07-24T07:54:22.456570+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 8,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Engineer",
+      "match_reasons": [
+        "Extensive experience with core Data Engineering tools like PySpark, Apache Spark, Azure Databricks, Delta Lake, and Airflow, which align well with the job description.",
+        "Strong cloud proficiency in Azure, Databricks, and Snowflake, directly relevant to building robust data platforms.",
+        "Demonstrated ability in IaC with Terraform and Git, crucial for foundational tech roles.",
+        "Experience with stakeholder management to Director level is a plus for a role involving Finops and Tech Metrics."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which is often a core component of modern data engineering and analytics engineering.",
+        "While Kafka is mentioned as 'working knowledge', deep Kafka/Confluent expertise is listed as a gap, which might be important for real-time data processing aspects."
+      ],
+      "one_liner": "Sri Hari is a strong candidate for the Data Engineer II role due to his extensive production experience in data engineering, cloud platforms, and IaC, with EU Blue Card eligibility being a significant advantage.",
       "apply": true
     },
     {
@@ -662,6 +691,36 @@
       ],
       "one_liner": "A data professional with strong engineering and analytics capabilities, well-suited for driving interface performance analysis, but requiring clarity on visa and relocation for a US-based role.",
       "apply": false
+    },
+    {
+      "id": "324a1766b4d1",
+      "title": "Associate Data Analyst - (Tech Foundations, Finops and Tech Metrics)",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/associate-data-analyst-tech-foundations-finops-and-tech-metrics-in-berlin-germany-jid-10515",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-07-17T07:54:25.631870+00:00",
+      "expires_at": "2026-07-24T07:54:25.631829+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 6,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong experience with data modeling (dimensional, Data Vault) and ETL/ELT, aligning with the 'Tech Foundations' aspect of the role.",
+        "Proficiency in Python, SQL, and visualization tools like Tableau/Power BI are directly applicable to data analysis and reporting.",
+        "Experience with cloud platforms (Azure, Databricks, Snowflake) and data governance concepts (data quality, catalogs) is valuable for building robust data foundations.",
+        "The candidate's target roles include Analytics Engineer and Data Analytics Engineer, which closely align with the responsibilities of an Associate Data Analyst focusing on tech foundations and metrics."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which is a core tool for analytics engineering.",
+        "The role's focus on 'Finops' and specific 'Tech Metrics' might require learning new domain-specific knowledge.",
+        "The description does not explicitly mention the need for deep ML/AI skills which is a strong area for the candidate, implying a potential mismatch in focus."
+      ],
+      "one_liner": "A strong candidate with excellent data engineering and analytics foundations, well-suited for the technical foundations aspect of the role, though deeper dbt experience and domain-specific Finops knowledge would enhance the fit.",
+      "apply": true
     },
     {
       "id": "cb1a146e788d",
