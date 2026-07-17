@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T07:54:25.632039+00:00",
-  "total": 46,
+  "last_updated": "2026-07-17T18:55:01.332186+00:00",
+  "total": 48,
   "purged_this_run": 0,
   "jobs": [
     {
@@ -693,6 +693,34 @@
       "apply": false
     },
     {
+      "id": "8a7012d4b529",
+      "title": "Marketing Analytics Engineer",
+      "company": "N26",
+      "location": "Berlin",
+      "apply_url": "https://n26.com/en-eu/careers/positions/7962721?gh_jid=7962721",
+      "source": "Greenhouse (N26)",
+      "posted_at": "2026-07-17T04:11:24-04:00",
+      "fetched_at": "2026-07-17T18:55:00.207245+00:00",
+      "expires_at": "2026-08-16T18:55:00.187047+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong experience in data modeling, ETL/ELT, and building data pipelines align directly with the core responsibilities of an Analytics Engineer.",
+        "Proficiency in Python, SQL, and cloud platforms (Azure, Databricks, Snowflake) are essential for building and maintaining scalable data infrastructure.",
+        "Experience with stakeholder management and a focus on providing clean, reliable data for business users are key strengths for this role."
+      ],
+      "gaps": [
+        "Limited production depth in dbt is a potential area for development, though core analytics engineering principles are present.",
+        "While Kafka is listed as working knowledge, deep Kafka/Confluent expertise is a noted gap."
+      ],
+      "one_liner": "Sri Hari is a strong candidate for the Marketing Analytics Engineer role, possessing extensive data engineering and analytics skills with a clear path for visa sponsorship.",
+      "apply": true
+    },
+    {
       "id": "324a1766b4d1",
       "title": "Associate Data Analyst - (Tech Foundations, Finops and Tech Metrics)",
       "company": "Delivery Hero",
@@ -1220,6 +1248,27 @@
       "posted_at": "2026-07-16T08:52:47-04:00",
       "fetched_at": "2026-07-16T13:23:13.503019+00:00",
       "expires_at": "2026-08-15T13:23:13.502925+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 0,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Other",
+      "match_reasons": [],
+      "gaps": [],
+      "one_liner": "Scoring failed - will retry next run",
+      "apply": false
+    },
+    {
+      "id": "dff3d4a306b1",
+      "title": "Marketing Analytics Engineer",
+      "company": "N26",
+      "location": "Barcelona",
+      "apply_url": "https://n26.com/en-eu/careers/positions/7962618?gh_jid=7962618",
+      "source": "Greenhouse (N26)",
+      "posted_at": "2026-07-17T04:11:23-04:00",
+      "fetched_at": "2026-07-17T18:55:01.332009+00:00",
+      "expires_at": "2026-08-16T18:55:01.331918+00:00",
       "ttl_source": "30d-ttl",
       "status": "new",
       "fit_score": 0,
