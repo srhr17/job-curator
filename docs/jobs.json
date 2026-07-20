@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-17T18:55:01.332186+00:00",
-  "total": 48,
-  "purged_this_run": 0,
+  "last_updated": "2026-07-20T19:26:58.709786+00:00",
+  "total": 47,
+  "purged_this_run": 3,
   "jobs": [
     {
       "id": "612f4a2fa625",
@@ -66,36 +66,6 @@
         "Deep causal inference is listed as a gap, but foundations are present, and the role description mentions causal inference as a possibility, not a strict requirement."
       ],
       "one_liner": "A highly experienced ML practitioner with strong production ML lifecycle, data engineering, and cloud skills, well-suited for a Machine Learning Scientist role and eligible for EU visa sponsorship.",
-      "apply": true
-    },
-    {
-      "id": "a363b7242235",
-      "title": "Senior Data Engineer - Marketing Platform (all genders)\n\nBackend\n\nBerlin\n\nView job",
-      "company": "Zalando",
-      "location": "Germany",
-      "apply_url": "https://jobs.zalando.com/en/jobs/2724020-Senior-Data-Engineer---Marketing-Platform-(all-gen",
-      "source": "Career Page (Zalando)",
-      "posted_at": "",
-      "fetched_at": "2026-07-13T08:51:29.657053+00:00",
-      "expires_at": "2026-07-20T08:51:29.657020+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 8,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Engineer",
-      "match_reasons": [
-        "Extensive experience in cloud platforms (Azure, Databricks, Snowflake) aligning with typical data engineering needs.",
-        "Strong skills in data engineering tools like PySpark, Spark, ETL/ELT, Medallion Lakehouse, and IaC (Terraform).",
-        "Experience with data modeling (dimensional, Data Vault) and data governance concepts.",
-        "Targeting Germany and EU Blue Card eligibility makes relocation feasible."
-      ],
-      "gaps": [
-        "Limited production depth in dbt.",
-        "Working knowledge of Kafka/Confluent, not deep.",
-        "No mention of specific Java/Scala experience, though Python/PySpark are strong."
-      ],
-      "one_liner": "A strong Data Engineer with extensive cloud and data engineering experience, targeting a role in Germany with EU Blue Card eligibility.",
       "apply": true
     },
     {
@@ -751,35 +721,6 @@
       "apply": true
     },
     {
-      "id": "cb1a146e788d",
-      "title": "Data Analytics Engineer - Boulder, Colorado ",
-      "company": "SumUp",
-      "location": "Boulder, Colorado, United States",
-      "apply_url": "https://sumup.com/careers/positions/8596342002?gh_jid=8596342002",
-      "source": "Greenhouse (SumUp)",
-      "posted_at": "2026-06-17T15:20:08-04:00",
-      "fetched_at": "2026-06-17T20:02:12.249526+00:00",
-      "expires_at": "2026-07-17T20:02:12.243944+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 5,
-      "visa_eligible": false,
-      "relocation_support": "unclear",
-      "role_category": "Analytics Engineer",
-      "match_reasons": [
-        "Strong SQL and advanced Python skills, which are transferable to data engineering and analytics.",
-        "Experience with data modeling (dimensional modeling, Data Vault) and ETL/ELT processes aligns with building data foundations.",
-        "Proven ability in stakeholder management to Director level is valuable for gathering requirements and communicating insights.",
-        "Experience with Tableau and Power BI aligns with dashboard development requirements."
-      ],
-      "gaps": [
-        "The job explicitly states 'No visa sponsorship available,' which is a critical blocker for the candidate who requires visa sponsorship or relocation support.",
-        "The candidate lists 'dbt (limited prod depth)' as a gap, while the job heavily emphasizes 'Solid SQL and DBT Core skills' and 'Build, maintain, and document DBT models'."
-      ],
-      "one_liner": "While the candidate possesses strong foundational data skills and experience in stakeholder management, the lack of visa sponsorship and limited dbt production depth make them a poor fit for this specific role.",
-      "apply": false
-    },
-    {
       "id": "6327525bb6f1",
       "title": "Data Analyst - CoreOps ",
       "company": "SumUp",
@@ -808,6 +749,37 @@
         "Limited production depth in dbt, which is often a core tool for Analytics Engineers, might be a minor concern if analysis leans towards data modeling for reporting."
       ],
       "one_liner": "The candidate possesses strong analytical foundations and data handling skills, but the Data Analyst role in Chile may not fully leverage their extensive Data Engineering and Data Science experience, and visa/relocation remains a significant unknown.",
+      "apply": false
+    },
+    {
+      "id": "cb1a146e788d",
+      "title": "Data Analytics Engineer - Boulder, Colorado ",
+      "company": "SumUp",
+      "location": "Boulder, Colorado, United States",
+      "apply_url": "https://sumup.com/careers/positions/8596342002?gh_jid=8596342002",
+      "source": "Greenhouse (SumUp)",
+      "posted_at": "2026-06-30T11:27:01-04:00",
+      "fetched_at": "2026-07-20T19:26:57.609376+00:00",
+      "expires_at": "2026-08-19T19:26:57.603189+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 5,
+      "visa_eligible": false,
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong experience in core Analytics Engineering skills like dimensional modeling, ETL/ELT, and data modeling (Kimball, Data Vault).",
+        "Proficient with visualization tools (Tableau) and cloud data warehouses (Snowflake).",
+        "Experience with stakeholder management and gathering requirements.",
+        "Familiarity with AI-assisted tooling is a plus.",
+        "Experience with data quality, governance, and maintaining reliable data pipelines."
+      ],
+      "gaps": [
+        "The job explicitly states 'No visa sponsorship available', and the candidate is currently on H-1B requiring sponsorship. This is a major blocker.",
+        "The candidate lists 'dbt (limited prod depth)' as a gap, while the job emphasizes 'Solid SQL and DBT Core skills' and 'Advanced DBT experience' as bonus points.",
+        "The candidate's target countries do not include the United States. This role is in the US and requires no visa sponsorship."
+      ],
+      "one_liner": "While the candidate possesses strong analytical and data engineering foundations, the explicit lack of visa sponsorship for this US-based role, coupled with limited dbt production depth, makes them a poor fit.",
       "apply": false
     },
     {
@@ -1218,27 +1190,6 @@
       "apply": false
     },
     {
-      "id": "fe962bfb32d2",
-      "title": "Data Analyst Recommerce (all genders)\n\nFinance, Analytics & Controlling\n\nBerlin\n\nView job",
-      "company": "Zalando",
-      "location": "Germany",
-      "apply_url": "https://jobs.zalando.com/en/jobs/2724728-Data-Analyst-Recommerce-(all-genders)",
-      "source": "Career Page (Zalando)",
-      "posted_at": "",
-      "fetched_at": "2026-07-13T14:08:45.041985+00:00",
-      "expires_at": "2026-07-20T14:08:45.041959+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed - will retry next run",
-      "apply": false
-    },
-    {
       "id": "4394ca994406",
       "title": "Senior Financial Data Analyst",
       "company": "Adyen",
@@ -1270,6 +1221,27 @@
       "fetched_at": "2026-07-17T18:55:01.332009+00:00",
       "expires_at": "2026-08-16T18:55:01.331918+00:00",
       "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 0,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Other",
+      "match_reasons": [],
+      "gaps": [],
+      "one_liner": "Scoring failed - will retry next run",
+      "apply": false
+    },
+    {
+      "id": "e05b84d227a9",
+      "title": "Data Engineer (All genders)\n\nData\n\nBerlin\n\nView job",
+      "company": "Zalando",
+      "location": "Germany",
+      "apply_url": "https://jobs.zalando.com/en/jobs/2724318-Data-Engineer-(All-genders)",
+      "source": "Career Page (Zalando)",
+      "posted_at": "",
+      "fetched_at": "2026-07-20T19:26:58.709643+00:00",
+      "expires_at": "2026-07-27T19:26:58.709612+00:00",
+      "ttl_source": "7d-ttl",
       "status": "new",
       "fit_score": 0,
       "visa_eligible": "unclear",
