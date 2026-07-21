@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-07-20T19:26:58.709786+00:00",
-  "total": 47,
-  "purged_this_run": 3,
+  "last_updated": "2026-07-21T19:05:28.262821+00:00",
+  "total": 48,
+  "purged_this_run": 1,
   "jobs": [
     {
       "id": "612f4a2fa625",
@@ -98,33 +98,34 @@
       "apply": true
     },
     {
-      "id": "2e8672e39bb1",
-      "title": "Machine Learning Scientist - Regulatory Reporting Technology",
-      "company": "Adyen",
-      "location": "Amsterdam",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7912710",
-      "source": "Greenhouse (Adyen)",
-      "posted_at": "2026-06-19T09:02:50-04:00",
-      "fetched_at": "2026-06-21T09:37:48.708650+00:00",
-      "expires_at": "2026-07-21T09:37:48.694283+00:00",
-      "ttl_source": "30d-ttl",
+      "id": "6906f0aef3db",
+      "title": "Data Engineer II - (Tech Foundations, Finops and Tech Metrics - 12 month maternity cover)",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/data-engineer-ii-tech-foundations-finops-and-tech-metrics-12-month-maternity-cover-in-berlin-germany-jid-10516",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-07-21T19:05:28.262649+00:00",
+      "expires_at": "2026-07-28T19:05:28.262619+00:00",
+      "ttl_source": "7d-ttl",
       "status": "new",
-      "fit_score": 7,
+      "fit_score": 8,
       "visa_eligible": true,
       "relocation_support": "unclear",
-      "role_category": "ML Engineer",
+      "role_category": "Data Engineer",
       "match_reasons": [
-        "Strong experience in building and scaling production-ready ML models across the full lifecycle (MLflow mentioned).",
-        "Extensive experience with big data ecosystems (Spark/Hadoop via PySpark, Azure Databricks) for feature engineering and infrastructure.",
-        "Experience in data governance, regulatory compliance (HIPAA, USCDI), and stakeholder management relevant to a regulated industry.",
-        "Targeting roles with ML engineering overlap and a clear interest in ML/AI."
+        "Extensive production experience (4+ years) directly aligns with a Data Engineer II role.",
+        "Strong core skills in Data Engineering (PySpark, Spark, ETL/ELT, Azure Databricks, Delta Lake, Airflow, Terraform) are highly relevant to the job description.",
+        "Experience with cloud platforms (Azure, Databricks, Snowflake) and IaC (Terraform) is a significant plus.",
+        "Targeting Germany aligns with the job location.",
+        "EU Blue Card eligibility makes visa sponsorship potentially less complex."
       ],
       "gaps": [
-        "Limited production depth in dbt, which might be relevant for building internal infrastructure.",
-        "While Kafka is mentioned as working knowledge, deep Kafka/Confluent expertise is a gap, though likely not critical for the core ML model building.",
-        "Deep causal inference is a gap, but the role seems to focus more on statistical models for reporting and risk evaluation."
+        "Limited production depth in dbt.",
+        "Kafka/Confluent and Kubernetes/Helm knowledge is working or foundational, not deep.",
+        "Java/Scala is not listed as a core skill."
       ],
-      "one_liner": "Sri Hari is a strong candidate for this ML Scientist role with extensive experience in ML model lifecycle management, big data ecosystems, and regulatory compliance, though some depth in dbt would be beneficial.",
+      "one_liner": "Sri Hari Sivashanmugam is a strong candidate for the Data Engineer II role with extensive production experience in data engineering and cloud technologies, and is EU Blue Card eligible for Germany.",
       "apply": true
     },
     {
@@ -688,6 +689,35 @@
         "While Kafka is listed as working knowledge, deep Kafka/Confluent expertise is a noted gap."
       ],
       "one_liner": "Sri Hari is a strong candidate for the Marketing Analytics Engineer role, possessing extensive data engineering and analytics skills with a clear path for visa sponsorship.",
+      "apply": true
+    },
+    {
+      "id": "a363b7242235",
+      "title": "Senior Data Engineer - Marketing Platform (all genders)\n\nBackend\n\nBerlin\n\nView job",
+      "company": "Zalando",
+      "location": "Germany",
+      "apply_url": "https://jobs.zalando.com/en/jobs/2724020-Senior-Data-Engineer---Marketing-Platform-(all-gen",
+      "source": "Career Page (Zalando)",
+      "posted_at": "",
+      "fetched_at": "2026-07-21T19:05:25.717811+00:00",
+      "expires_at": "2026-07-28T19:05:25.717784+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Engineer",
+      "match_reasons": [
+        "Strong experience in data engineering tools like PySpark, Apache Spark, Azure Databricks, Delta Lake, and Airflow, directly relevant to backend data engineering roles.",
+        "Proficient with cloud platforms (Azure, AWS, GCP) and IaC (Terraform), which are crucial for large-scale data platforms.",
+        "Experience with data modeling (dimensional, Data Vault) and ETL/ELT processes aligns well with data engineering responsibilities.",
+        "H-1B and EU Blue Card eligibility make him a viable candidate for a Germany-based role, assuming Zalando offers sponsorship or relocation."
+      ],
+      "gaps": [
+        "Limited production depth in dbt.",
+        "Deep Kafka/Confluent and Kubernetes/Helm experience is noted as a gap, which might be relevant for a marketing platform."
+      ],
+      "one_liner": "Sri Hari is a strong Data Engineer candidate with extensive cloud and Spark experience, who is EU Blue Card eligible and targets Germany.",
       "apply": true
     },
     {
