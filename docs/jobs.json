@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-29T18:59:13.868149+00:00",
-  "total": 37,
+  "last_updated": "2026-07-30T08:09:29.999858+00:00",
+  "total": 38,
   "purged_this_run": 0,
   "jobs": [
     {
@@ -333,6 +333,34 @@
       ],
       "one_liner": "Sri Hari is a strong candidate for this Data Analyst role due to his extensive stakeholder management, data visualization, and analytical skills, with EU Blue Card eligibility making him a viable candidate for Germany.",
       "apply": true
+    },
+    {
+      "id": "41218d6e9eb3",
+      "title": "Senior Marketing and Experimentation Data Analyst",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/senior-marketing-and-experimentation-data-analyst-in-kuala-lumpur-malaysia-jid-10651",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-07-30T08:09:29.999644+00:00",
+      "expires_at": "2026-08-06T08:09:29.999619+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Scientist",
+      "match_reasons": [
+        "Strong experience in ML/AI, including LLM orchestration and RAG, which are highly relevant for experimentation and advanced analytics.",
+        "Extensive cloud experience (Azure, Databricks, Snowflake, AWS) aligns with the typical tech stack of a large company like Delivery Hero.",
+        "Proven ability in data governance and stakeholder management is valuable for a senior analytical role."
+      ],
+      "gaps": [
+        "Limited production depth in dbt might be a challenge for a role heavily focused on analytics engineering aspects.",
+        "The job description appears to be for a Kuala Lumpur, Malaysia location, which contradicts the target country of Germany. This needs clarification."
+      ],
+      "one_liner": "A skilled Data Scientist with strong ML and cloud expertise, potentially a good fit for advanced analytics and experimentation roles, pending clarification on location and dbt proficiency.",
+      "apply": false
     },
     {
       "id": "cb1a146e788d",
