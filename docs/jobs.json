@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-03T19:20:53.948294+00:00",
-  "total": 33,
-  "purged_this_run": 8,
+  "last_updated": "2026-08-04T08:23:05.089424+00:00",
+  "total": 34,
+  "purged_this_run": 0,
   "jobs": [
     {
       "id": "79ee1a8e9eb7",
@@ -33,6 +33,36 @@
         "Deep causal inference is listed as a gap, but foundations are present, and the role description mentions causal inference as a possibility, not a strict requirement."
       ],
       "one_liner": "A highly experienced ML practitioner with strong production ML lifecycle, data engineering, and cloud skills, well-suited for a Machine Learning Scientist role and eligible for EU visa sponsorship.",
+      "apply": true
+    },
+    {
+      "id": "03ca3e5e1233",
+      "title": "Senior Data Engineer",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/senior-data-engineer-in-berlin-germany-jid-10715",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-08-04T08:23:05.089283+00:00",
+      "expires_at": "2026-08-11T08:23:05.089260+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 8,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Engineer",
+      "match_reasons": [
+        "Extensive experience in Data Engineering technologies like PySpark, Apache Spark, Azure Databricks, Delta Lake, and Terraform IaC.",
+        "Strong cloud proficiency across Azure, Databricks, Snowflake, AWS, and GCP, which are common in large data environments like Delivery Hero.",
+        "Experience with ETL/ELT, Medallion Lakehouse architecture, and data governance aligns well with a Senior Data Engineer role.",
+        "Proven track record in cloud migration at scale and stakeholder management."
+      ],
+      "gaps": [
+        "Deep Kafka/Confluent knowledge is listed as a gap, which can be crucial for streaming data pipelines.",
+        "Limited production depth in dbt, while listed as a core skill, suggests potential room for growth in its application.",
+        "Java/Scala proficiency is a gap, often valuable in large-scale distributed systems."
+      ],
+      "one_liner": "A seasoned Data Engineer with strong cloud and big data experience, well-suited for a Senior Data Engineer role, and eligible for an EU Blue Card.",
       "apply": true
     },
     {
