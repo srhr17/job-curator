@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-07T18:42:18.031416+00:00",
-  "total": 43,
-  "purged_this_run": 4,
+  "last_updated": "2026-08-08T12:28:26.747903+00:00",
+  "total": 44,
+  "purged_this_run": 0,
   "jobs": [
     {
       "id": "03ca3e5e1233",
@@ -621,6 +621,36 @@
         "While the candidate has broad cloud and data skills, the specific requirements for 'Data Analyst Strategy' might lean more towards strategic analysis and business interpretation than pure engineering/ML implementation."
       ],
       "one_liner": "Sri Hari demonstrates a strong foundation in data engineering and cloud technologies with potential to apply analytical skills to strategy, particularly in a German context.",
+      "apply": true
+    },
+    {
+      "id": "79ee1a8e9eb7",
+      "title": "Machine Learning Scientist",
+      "company": "Adyen",
+      "location": "Amsterdam",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7434460",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-08-08T04:56:49-04:00",
+      "fetched_at": "2026-08-08T12:28:26.747795+00:00",
+      "expires_at": "2026-09-07T12:28:26.743043+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Machine Learning Scientist",
+      "match_reasons": [
+        "Extensive ML/AI skills including LLM orchestration, RAG, and multi-agent systems align with the Machine Learning Scientist role.",
+        "Production experience in ML platforms (MLflow full lifecycle) and cloud environments (Azure, Databricks, Snowflake) is highly relevant.",
+        "Experience with various ML algorithms and techniques like time-series forecasting and anomaly detection directly maps to the job description.",
+        "Proven ability to research, design, implement, deploy, and monitor ML algorithms.",
+        "EU Blue Card eligibility is a significant advantage for the Amsterdam location."
+      ],
+      "gaps": [
+        "The candidate's 'dbt (limited prod depth)' is a minor gap for a role that might involve data pipelines.",
+        "While Kafka is listed as 'working knowledge', deeper expertise in Kafka/Confluent is noted as a gap, which could be relevant for real-time data processing."
+      ],
+      "one_liner": "A well-rounded candidate with strong ML/AI and production experience, EU Blue Card eligibility, and a good understanding of data engineering principles, making them a solid fit for the Machine Learning Scientist role at Adyen.",
       "apply": true
     },
     {
