@@ -1,38 +1,8 @@
 {
-  "last_updated": "2026-08-09T18:26:50.869058+00:00",
+  "last_updated": "2026-08-12T12:47:09.605265+00:00",
   "total": 44,
-  "purged_this_run": 0,
+  "purged_this_run": 5,
   "jobs": [
-    {
-      "id": "03ca3e5e1233",
-      "title": "Senior Data Engineer",
-      "company": "Delivery Hero",
-      "location": "Germany",
-      "apply_url": "https://careers.deliveryhero.com/job/senior-data-engineer-in-berlin-germany-jid-10715",
-      "source": "Career Page (Delivery Hero)",
-      "posted_at": "",
-      "fetched_at": "2026-08-04T08:23:05.089283+00:00",
-      "expires_at": "2026-08-11T08:23:05.089260+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 8,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Engineer",
-      "match_reasons": [
-        "Extensive experience in Data Engineering technologies like PySpark, Apache Spark, Azure Databricks, Delta Lake, and Terraform IaC.",
-        "Strong cloud proficiency across Azure, Databricks, Snowflake, AWS, and GCP, which are common in large data environments like Delivery Hero.",
-        "Experience with ETL/ELT, Medallion Lakehouse architecture, and data governance aligns well with a Senior Data Engineer role.",
-        "Proven track record in cloud migration at scale and stakeholder management."
-      ],
-      "gaps": [
-        "Deep Kafka/Confluent knowledge is listed as a gap, which can be crucial for streaming data pipelines.",
-        "Limited production depth in dbt, while listed as a core skill, suggests potential room for growth in its application.",
-        "Java/Scala proficiency is a gap, often valuable in large-scale distributed systems."
-      ],
-      "one_liner": "A seasoned Data Engineer with strong cloud and big data experience, well-suited for a Senior Data Engineer role, and eligible for an EU Blue Card.",
-      "apply": true
-    },
     {
       "id": "740706191d94",
       "title": "Data Engineer",
@@ -152,95 +122,6 @@
         "Deep Kafka/Confluent and Kubernetes/Helm experience is listed as a gap, but the role description mentions developing streaming applications and working with distributed systems which may require some of this."
       ],
       "one_liner": "A highly experienced Data Engineer with strong cloud and production skills in Spark, Databricks, and IaC, well-suited for building scalable data platforms.",
-      "apply": true
-    },
-    {
-      "id": "6487b6a5b604",
-      "title": "Online Data Analyst Canada",
-      "company": "TELUS Digital",
-      "location": "Canada",
-      "apply_url": "https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-2091047",
-      "source": "Remotive",
-      "posted_at": "2026-07-08T13:02:27",
-      "fetched_at": "2026-07-13T08:51:17.651145+00:00",
-      "expires_at": "2026-08-12T08:51:17.628513+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Analytics Engineer",
-      "match_reasons": [
-        "Strong background in data engineering and analytics engineering tools like PySpark, Databricks, and dbt (though noted as a gap in depth).",
-        "Experience with dimensional modeling and data quality validation aligns well with an analyst role.",
-        "Proficient in Python and SQL, which are core to data analysis.",
-        "Experience with visualization tools like Tableau and Power BI is a plus for an analyst role."
-      ],
-      "gaps": [
-        "The target role is 'Online Data Analyst', which is a more specific analyst role that may require deeper domain knowledge or specific analytics tools not detailed in the candidate's profile.",
-        "Limited production depth in dbt, which might be a core tool for an Analytics Engineer or Analyst role depending on the company's stack."
-      ],
-      "one_liner": "A strong data professional with solid data engineering and analytics engineering skills, well-suited for an analytics-focused role, but visa/relocation status needs clarification.",
-      "apply": false
-    },
-    {
-      "id": "6348a13ddd34",
-      "title": "Data Analyst - Regulatory Reporting",
-      "company": "Adyen",
-      "location": "Amsterdam",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7903556",
-      "source": "Greenhouse (Adyen)",
-      "posted_at": "2026-07-13T03:36:37-04:00",
-      "fetched_at": "2026-07-13T08:51:21.138345+00:00",
-      "expires_at": "2026-08-12T08:51:21.138244+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Analytics Engineer",
-      "match_reasons": [
-        "Strong experience in data engineering and analytics engineering aligns with building and automating data pipelines for reporting.",
-        "Experience with cloud platforms (Azure, Databricks) and data modeling techniques (dimensional modeling, Kimball) is highly relevant.",
-        "The role requires end-to-end project ownership and stakeholder management to Director level, which the candidate possesses.",
-        "The candidate's statistics background (hypothesis testing, regression) will be beneficial for regulatory reporting logic.",
-        "EU Blue Card eligibility makes relocation to Amsterdam feasible."
-      ],
-      "gaps": [
-        "The job description does not explicitly mention a need for deep Kafka/Confluent, Kubernetes/Helm, or advanced causal inference, which are listed as candidate gaps.",
-        "The candidate's dbt production depth is noted as limited, which might be a factor in a role focused on building and automating reporting."
-      ],
-      "one_liner": "Sri Hari is a strong candidate for the Data Analyst - Regulatory Reporting role due to their robust data engineering and analytics engineering background, cloud expertise, and EU visa eligibility, with minor concerns regarding dbt production depth.",
-      "apply": true
-    },
-    {
-      "id": "5da29b4f8b74",
-      "title": "Senior Data Platform Engineer - OLAP",
-      "company": "Adyen",
-      "location": "Amsterdam",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7068985",
-      "source": "Greenhouse (Adyen)",
-      "posted_at": "2026-07-02T17:16:36-04:00",
-      "fetched_at": "2026-07-13T08:51:26.411646+00:00",
-      "expires_at": "2026-08-12T08:51:26.411514+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Engineer",
-      "match_reasons": [
-        "Strong experience in core data engineering skills like PySpark, Spark, ETL/ELT, Azure Databricks, Delta Lake, Airflow, Docker, and Terraform in production.",
-        "Experience with cloud platforms (Azure, Databricks, Snowflake, AWS) is highly relevant for a big data platform role.",
-        "Demonstrated ability to manage projects and stakeholder relationships up to Director level, suggesting senior-level capabilities.",
-        "The job description emphasizes scaling big data platforms and working with distributed systems, aligning with Sri Hari's strengths in cloud migration at scale.",
-        "The target role falls within Sri Hari's desired roles (Data Engineer, Senior Data Engineer)."
-      ],
-      "gaps": [
-        "The role specifically mentions OLAP Ecosystem focus with Druid, FastAPI, and Java/Kafka, where Sri Hari has limited depth in Kafka/Confluent and no mention of Java.",
-        "dbt production depth is listed as a gap, and while not the primary focus of this specific role, dbt is a common tool in data platforms."
-      ],
-      "one_liner": "Sri Hari is a strong candidate for the Senior Data Platform Engineer role due to extensive production experience in data engineering, cloud, and IaC, with a minor gap in specific technologies like Java and deep Kafka expertise.",
       "apply": true
     },
     {
@@ -654,6 +535,153 @@
       "apply": true
     },
     {
+      "id": "d5397ea1c14c",
+      "title": "CoreOPS Payments - Analytics Engineer",
+      "company": "SumUp",
+      "location": "Santiago, Chile",
+      "apply_url": "https://sumup.com/careers/positions/8644921002?gh_jid=8644921002",
+      "source": "Greenhouse (SumUp)",
+      "posted_at": "2026-08-11T10:05:03-04:00",
+      "fetched_at": "2026-08-12T12:46:57.969309+00:00",
+      "expires_at": "2026-09-11T12:46:57.963339+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong experience in data modeling, ETL/ELT, and pipeline development using SQL and Python, aligning with the core responsibilities of an Analytics Engineer.",
+        "Hands-on experience with cloud platforms (Azure, Databricks, Snowflake, AWS) and data governance practices is relevant for building and stabilizing data infrastructure.",
+        "Experience with stakeholder management and translating needs into data solutions is crucial for bridging technical and operational teams.",
+        "Familiarity with financial data and a detail-oriented approach is beneficial given the role's focus on payments reconciliation and cost visibility."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which is explicitly mentioned as a core requirement.",
+        "The job is in Santiago, Chile, and the candidate's target countries and visa eligibility (EU Blue Card) do not align with this location, making relocation and sponsorship unclear."
+      ],
+      "one_liner": "A strong candidate for an Analytics Engineer role with solid data engineering and modeling skills, though dbt depth and the specific job location present potential challenges.",
+      "apply": false
+    },
+    {
+      "id": "6348a13ddd34",
+      "title": "Data Analyst - Regulatory Reporting",
+      "company": "Adyen",
+      "location": "Amsterdam",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7903556",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-08-10T06:57:08-04:00",
+      "fetched_at": "2026-08-12T12:47:00.702325+00:00",
+      "expires_at": "2026-09-11T12:47:00.702221+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong experience in data engineering and analytics engineering is highly relevant for building and automating data pipelines for regulatory reporting.",
+        "Experience with Azure Databricks, Delta Lake, and Airflow aligns well with modern data platform needs for building reliable reporting frameworks.",
+        "Familiarity with governance, data quality validation, and stakeholder management is crucial for ensuring the accuracy and trustworthiness of regulatory reports.",
+        "The role's emphasis on end-to-end project ownership and translating regulatory mandates into technical solutions aligns with the candidate's production experience and analytical skills."
+      ],
+      "gaps": [
+        "Limited production depth in dbt could be a challenge for implementing robust reporting logic.",
+        "The job description doesn't explicitly mention the technologies used for data pipelines and reporting automation, which might be a gap if they differ significantly from the candidate's core skills."
+      ],
+      "one_liner": "Sri Hari is a strong candidate for this Data Analyst role with a solid foundation in data engineering and analytics, though some depth in specific tools like dbt might need further development.",
+      "apply": true
+    },
+    {
+      "id": "5da29b4f8b74",
+      "title": "Senior Data Platform Engineer - OLAP",
+      "company": "Adyen",
+      "location": "Amsterdam",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7068985",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-07-30T04:53:01-04:00",
+      "fetched_at": "2026-08-12T12:47:03.733668+00:00",
+      "expires_at": "2026-09-11T12:47:03.733574+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Engineer",
+      "match_reasons": [
+        "Strong experience with Spark, Databricks, Delta Lake, and cloud platforms (Azure, AWS, GCP) aligns with building and maintaining big data platforms at scale.",
+        "Experience with IaC (Terraform) and MLOps (MLflow) demonstrates ability to build and improve infrastructure and tooling.",
+        "Skills in ETL/ELT, dimensional modeling, and data quality validation are directly applicable to the Data Engineering Ecosystem and OLAP focus areas.",
+        "Experience with stakeholder management to Director level is valuable for collaboration within Adyen."
+      ],
+      "gaps": [
+        "Limited production depth in dbt could be a challenge for a role that might leverage it extensively.",
+        "The job description explicitly mentions Java/Scala and Kubernetes/Helm, which are identified as gaps for the candidate. While Kafka is mentioned as working knowledge, deep Kafka/Confluent expertise is also noted as a gap."
+      ],
+      "one_liner": "A strong candidate with extensive big data and cloud experience, well-suited for data engineering roles with some development in critical technologies.",
+      "apply": true
+    },
+    {
+      "id": "89a88e156abe",
+      "title": "Sr. Data Scientist (AI & ML)",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/sr-data-scientist-ai-and-ml-in-dubai-uae-jid-7182",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-08-12T12:47:09.605098+00:00",
+      "expires_at": "2026-08-19T12:47:09.605062+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Scientist",
+      "match_reasons": [
+        "Strong experience in ML/AI, including LLM orchestration, RAG, and multi-agent systems, aligns well with the AI & ML focus.",
+        "Extensive cloud experience (Azure, Databricks, Snowflake, AWS, GCP) and data engineering skills (PySpark, Spark, ETL/ELT, Medallion Lakehouse) are highly relevant.",
+        "Proven track record with MLflow full lifecycle management is a significant advantage for an ML Engineer role.",
+        "Experience with stakeholder management up to Director level is valuable.",
+        "EU Blue Card eligibility makes him a strong candidate for a German position."
+      ],
+      "gaps": [
+        "Deep Kafka/Confluent experience is listed as a gap.",
+        "The job description specifies Dubai, UAE, while the candidate's target countries are in Europe. Visa/Relocation details for the Dubai role are critical.",
+        "Limited production depth in dbt.",
+        "Java/Scala and Kubernetes/Helm are not highlighted as strengths but might be beneficial."
+      ],
+      "one_liner": "Sri Hari is a well-rounded Data Scientist with strong ML/AI and cloud data engineering skills, who is EU Blue Card eligible and targets roles in Germany, making him a good fit for this role in Germany if the location is flexible or the Dubai role is a typo and intended for Germany.",
+      "apply": true
+    },
+    {
+      "id": "4bb1f61a0883",
+      "title": "Data Analyst II Rider Experience",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/data-analyst-ii-rider-experience-in-barcelona-spain-jid-10316",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-08-12T12:47:06.197273+00:00",
+      "expires_at": "2026-08-19T12:47:06.197237+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 6,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Analyst",
+      "match_reasons": [
+        "Strong analytics and data visualization skills (Tableau, Power BI, Streamlit) are transferable to a Data Analyst role.",
+        "Advanced Python and SQL skills are fundamental for data analysis.",
+        "Experience with governance and stakeholder management is valuable in any data role."
+      ],
+      "gaps": [
+        "The role description heavily emphasizes SQL, Excel, and BI tools, with less emphasis on advanced ML/Data Engineering skills that are the candidate's primary strengths.",
+        "The candidate's core experience is in Data Engineering and ML Engineering, which are more advanced than a typical Data Analyst II role."
+      ],
+      "one_liner": "While the candidate possesses strong analytical and technical skills, their experience leans more towards Data/ML Engineering than a typical Data Analyst II role focused on rider experience analytics.",
+      "apply": true
+    },
+    {
       "id": "cb1a146e788d",
       "title": "Data Analytics Engineer - Boulder, Colorado ",
       "company": "SumUp",
@@ -1040,27 +1068,6 @@
       "fetched_at": "2026-08-03T19:20:52.869677+00:00",
       "expires_at": "2026-09-02T19:20:52.869565+00:00",
       "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed - will retry next run",
-      "apply": false
-    },
-    {
-      "id": "ce332d5cd11e",
-      "title": "Senior Data Engineer - Lounge by Zalando (all genders)\n\nBackend\n\nBerlin\n\nView job",
-      "company": "Zalando",
-      "location": "Germany",
-      "apply_url": "https://jobs.zalando.com/en/jobs/2724044-Senior-Data-Engineer---Lounge-by-Zalando-(all-gend",
-      "source": "Career Page (Zalando)",
-      "posted_at": "",
-      "fetched_at": "2026-08-03T19:20:53.948148+00:00",
-      "expires_at": "2026-08-10T19:20:53.948115+00:00",
-      "ttl_source": "7d-ttl",
       "status": "new",
       "fit_score": 0,
       "visa_eligible": "unclear",
