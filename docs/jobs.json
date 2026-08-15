@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-12T12:47:09.605265+00:00",
-  "total": 44,
-  "purged_this_run": 5,
+  "last_updated": "2026-08-15T18:16:01.680204+00:00",
+  "total": 41,
+  "purged_this_run": 6,
   "jobs": [
     {
       "id": "740706191d94",
@@ -123,36 +123,6 @@
       ],
       "one_liner": "A highly experienced Data Engineer with strong cloud and production skills in Spark, Databricks, and IaC, well-suited for building scalable data platforms.",
       "apply": true
-    },
-    {
-      "id": "2f6365fcf005",
-      "title": "Machine Learning Engineer",
-      "company": "Adyen",
-      "location": "Bengaluru",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7349167",
-      "source": "Greenhouse (Adyen)",
-      "posted_at": "2026-07-14T02:06:37-04:00",
-      "fetched_at": "2026-07-16T13:23:12.427807+00:00",
-      "expires_at": "2026-08-15T13:23:12.427703+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "ML Engineer",
-      "match_reasons": [
-        "Strong overlap between target roles (ML Engineer, Data Scientist) and the job description.",
-        "Extensive production experience (4+ years) aligns with the role's requirements.",
-        "Demonstrated experience with full-lifecycle ML pipelines (MLflow) and productionizing models.",
-        "Core skills in Python, cloud platforms (Azure, Databricks), and data engineering are highly relevant.",
-        "Experience with LLM orchestration and RAG aligns with the 'Architect the Intelligence Layer' responsibility."
-      ],
-      "gaps": [
-        "Limited production depth in dbt, which is a key tool for analytics engineering and pipeline development.",
-        "The job description does not explicitly mention visa sponsorship or relocation support, which are critical for this candidate."
-      ],
-      "one_liner": "This candidate is a strong fit for the ML Engineer role due to extensive production experience and relevant ML/data engineering skills, but visa/relocation support needs clarification.",
-      "apply": false
     },
     {
       "id": "78d58f722275",
@@ -359,34 +329,6 @@
       "apply": true
     },
     {
-      "id": "0dbad3ec73b3",
-      "title": "Senior Machine Learning Scientist / Data Engineer - Logistics Algorithms (all genders)\n\nApplied Science & Research\n\nBerlin\n\nView job",
-      "company": "Zalando",
-      "location": "Germany",
-      "apply_url": "https://jobs.zalando.com/en/jobs/2724616-Senior-Machine-Learning-Scientist-%2F-Data-Engineer-",
-      "source": "Career Page (Zalando)",
-      "posted_at": "",
-      "fetched_at": "2026-08-06T13:43:52.010889+00:00",
-      "expires_at": "2026-08-13T13:43:52.010854+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "ML Engineer",
-      "match_reasons": [
-        "Strong overlap between the ML Engineer role and the candidate's experience with MLflow full lifecycle, ML/AI skills, and production data engineering capabilities.",
-        "Extensive experience with cloud platforms (Azure, Databricks, Snowflake, AWS, GCP) and data engineering tools (PySpark, Spark, ETL/ELT, Medallion Lakehouse) aligns well with the job requirements.",
-        "Demonstrated success in cloud migration at scale and stakeholder management to Director level is valuable for a senior role."
-      ],
-      "gaps": [
-        "Deep Kafka/Confluent knowledge is a listed gap, but the candidate has working knowledge.",
-        "Limited production depth in dbt is noted, which is a core skill in analytics engineering."
-      ],
-      "one_liner": "A seasoned Data Scientist with strong ML Engineering and Data Engineering skills, well-suited for a Senior ML Scientist/Data Engineer role, especially given EU Blue Card eligibility.",
-      "apply": true
-    },
-    {
       "id": "fd2aa3880214",
       "title": "Machine Learning Scientist I - Protect",
       "company": "Adyen",
@@ -444,64 +386,6 @@
         "While having working knowledge of Kafka, deep Kafka/Confluent experience is listed as a gap, which could be relevant for real-time data processing in payments."
       ],
       "one_liner": "Sri Hari is a promising candidate with strong ML engineering and data platform skills, including MLflow and cloud technologies, aligning well with the Senior Machine Learning Scientist role at Adyen.",
-      "apply": true
-    },
-    {
-      "id": "dcd536bbf851",
-      "title": "Senior Data Analyst, Quick Commerce & Partnerships",
-      "company": "Delivery Hero",
-      "location": "Germany",
-      "apply_url": "https://careers.deliveryhero.com/job/senior-data-analyst-quick-commerce-and-partnerships-in-kuala-lumpur-malaysia-jid-10756",
-      "source": "Career Page (Delivery Hero)",
-      "posted_at": "",
-      "fetched_at": "2026-08-07T18:42:16.132129+00:00",
-      "expires_at": "2026-08-14T18:42:16.132095+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Analytics Engineer",
-      "match_reasons": [
-        "Strong background in data engineering, analytics engineering (dbt, dimensional modeling), and cloud platforms (Azure, Databricks, Snowflake) aligns well with the data infrastructure and analytics needs of a Senior Data Analyst role.",
-        "Experience with ETL/ELT, medallion lakehouse architecture, and data governance principles are highly relevant.",
-        "Proven ability to manage stakeholders up to Director level indicates good communication and collaboration skills, essential for a role involving partnerships."
-      ],
-      "gaps": [
-        "The job description is for Kuala Lumpur, Malaysia, while the candidate targets Germany and other European countries. This is a significant location mismatch.",
-        "The candidate has limited production depth in dbt, which is often a core requirement for analytics engineering roles, and the job description may require this.",
-        "While the candidate has 'working knowledge' of Kafka, deeper expertise might be preferred for real-time data pipelines in quick commerce."
-      ],
-      "one_liner": "A strong data professional with extensive data engineering and analytics experience, but significant location mismatch for the described role.",
-      "apply": false
-    },
-    {
-      "id": "75529efee54d",
-      "title": "Data Analyst Strategy Spain",
-      "company": "Delivery Hero",
-      "location": "Germany",
-      "apply_url": "https://careers.deliveryhero.com/job/data-analyst-strategy-spain-in-barcelona-spain-jid-10755",
-      "source": "Career Page (Delivery Hero)",
-      "posted_at": "",
-      "fetched_at": "2026-08-07T18:42:18.031235+00:00",
-      "expires_at": "2026-08-14T18:42:18.031201+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Analyst",
-      "match_reasons": [
-        "Strong experience in data engineering and cloud platforms relevant to data analysis strategy.",
-        "Experience with stakeholder management to Director level is valuable for strategy roles.",
-        "Willingness to relocate to target countries aligns with the Germany location.",
-        "MS in Data Science provides a strong analytical foundation."
-      ],
-      "gaps": [
-        "The job description emphasizes 'business acumen' and 'strategic thinking' which are not explicitly detailed in the candidate's core skills.",
-        "While the candidate has broad cloud and data skills, the specific requirements for 'Data Analyst Strategy' might lean more towards strategic analysis and business interpretation than pure engineering/ML implementation."
-      ],
-      "one_liner": "Sri Hari demonstrates a strong foundation in data engineering and cloud technologies with potential to apply analytical skills to strategy, particularly in a German context.",
       "apply": true
     },
     {
@@ -710,57 +594,6 @@
         "The candidate's target countries do not include the United States. This role is in the US and requires no visa sponsorship."
       ],
       "one_liner": "While the candidate possesses strong analytical and data engineering foundations, the explicit lack of visa sponsorship for this US-based role, coupled with limited dbt production depth, makes them a poor fit.",
-      "apply": false
-    },
-    {
-      "id": "ed1ff0196c9c",
-      "title": "Online Data Analyst Canada (French Language) (C)",
-      "company": "TELUS Digital",
-      "location": "Canada",
-      "apply_url": "https://remotive.com/remote-jobs/all-others/online-data-analyst-canada-french-language-c-2091047",
-      "source": "Remotive",
-      "posted_at": "2026-07-08T13:02:27",
-      "fetched_at": "2026-07-16T13:23:07.112730+00:00",
-      "expires_at": "2026-08-15T13:23:07.095347+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 4,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Analytics Engineer",
-      "match_reasons": [
-        "Strong analytical and data engineering skills (PySpark, Spark, Azure Databricks, Snowflake, SQL, Python).",
-        "Experience with visualization tools (Tableau, Power BI).",
-        "Familiarity with dimensional modeling and data modeling concepts."
-      ],
-      "gaps": [
-        "The role specifically requires French language proficiency, which is not mentioned in the candidate's profile.",
-        "The job title 'Online Data Analyst' suggests a focus that might differ from the candidate's core strengths in Data Engineering, Data Science, and ML Engineering.",
-        "The role may not leverage the candidate's advanced ML/AI skills or deep data engineering expertise.",
-        "Visa/relocation support is unclear for this specific role."
-      ],
-      "one_liner": "Sri Hari possesses strong data engineering and analytical skills but lacks explicit mention of French language proficiency, which is a key requirement for this role.",
-      "apply": false
-    },
-    {
-      "id": "4394ca994406",
-      "title": "Senior Financial Data Analyst",
-      "company": "Adyen",
-      "location": "Amsterdam",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7383039",
-      "source": "Greenhouse (Adyen)",
-      "posted_at": "2026-07-16T08:52:47-04:00",
-      "fetched_at": "2026-07-16T13:23:13.503019+00:00",
-      "expires_at": "2026-08-15T13:23:13.502925+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed - will retry next run",
       "apply": false
     },
     {
@@ -1130,6 +963,69 @@
       "posted_at": "2026-08-04T07:02:41-04:00",
       "fetched_at": "2026-08-04T13:50:24.948182+00:00",
       "expires_at": "2026-09-03T13:50:24.948070+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 0,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Other",
+      "match_reasons": [],
+      "gaps": [],
+      "one_liner": "Scoring failed - will retry next run",
+      "apply": false
+    },
+    {
+      "id": "be0a8e44009f",
+      "title": "Junior Data Analyst - Customer Identity",
+      "company": "N26",
+      "location": "Berlin",
+      "apply_url": "https://n26.com/en-eu/careers/positions/8127483?gh_jid=8127483",
+      "source": "Greenhouse (N26)",
+      "posted_at": "2026-08-14T09:27:22-04:00",
+      "fetched_at": "2026-08-15T18:15:59.464730+00:00",
+      "expires_at": "2026-09-14T18:15:59.426366+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 0,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Other",
+      "match_reasons": [],
+      "gaps": [],
+      "one_liner": "Scoring failed - will retry next run",
+      "apply": false
+    },
+    {
+      "id": "eaea626c057a",
+      "title": "Product Data Analyst",
+      "company": "SumUp",
+      "location": "London, England, United Kingdom",
+      "apply_url": "https://sumup.com/careers/positions/8559467002?gh_jid=8559467002",
+      "source": "Greenhouse (SumUp)",
+      "posted_at": "2026-08-14T16:21:06-04:00",
+      "fetched_at": "2026-08-15T18:16:00.571084+00:00",
+      "expires_at": "2026-09-14T18:16:00.570940+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 0,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Other",
+      "match_reasons": [],
+      "gaps": [],
+      "one_liner": "Scoring failed - will retry next run",
+      "apply": false
+    },
+    {
+      "id": "2f6365fcf005",
+      "title": "Machine Learning Engineer",
+      "company": "Adyen",
+      "location": "Bengaluru",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7349167",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-07-14T02:06:37-04:00",
+      "fetched_at": "2026-08-15T18:16:01.680049+00:00",
+      "expires_at": "2026-09-14T18:16:01.679934+00:00",
       "ttl_source": "30d-ttl",
       "status": "new",
       "fit_score": 0,
