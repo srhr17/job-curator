@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-23T18:16:54.370230+00:00",
-  "total": 44,
-  "purged_this_run": 2,
+  "last_updated": "2026-08-24T18:27:30.451477+00:00",
+  "total": 45,
+  "purged_this_run": 0,
   "jobs": [
     {
       "id": "740706191d94",
@@ -544,6 +544,35 @@
       ],
       "one_liner": "A strong Data Engineer with extensive cloud and data platform experience, but would need to deepen Kubernetes and dbt skills for this specific platform engineering role.",
       "apply": false
+    },
+    {
+      "id": "42c88157a05a",
+      "title": "Senior Data Scientist - (Content, Consumer)",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/senior-data-scientist-content-consumer-in-berlin-germany-jid-10122",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-08-24T18:27:30.451344+00:00",
+      "expires_at": "2026-08-31T18:27:30.451319+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Scientist",
+      "match_reasons": [
+        "Strong experience in core Data Science skills including ML/AI (Scikit-learn, time-series, LLM orchestration, RAG), Statistics, and Analytics Engineering (dbt, dimensional modeling).",
+        "Extensive cloud experience on Azure, Databricks, and Snowflake, which are likely relevant for a company like Delivery Hero.",
+        "Proven ability in stakeholder management and experience with production pipelines and ML platforms (MLflow full lifecycle).",
+        "EU Blue Card eligibility aligns with the target location (Germany)."
+      ],
+      "gaps": [
+        "While the candidate has 'working knowledge' of Kafka, a 'deep Kafka/Confluent' gap is noted, which might be relevant for real-time data processing.",
+        "Limited production depth in dbt is mentioned as a gap, which could be a core tool for an Analytics Engineer role if that were the primary focus."
+      ],
+      "one_liner": "A well-rounded Data Scientist with strong cloud, ML, and analytics engineering skills and EU Blue Card eligibility, fitting the Senior Data Scientist profile despite minor gaps in Kafka and dbt production depth.",
+      "apply": true
     },
     {
       "id": "1e7ab6ce72ad",
