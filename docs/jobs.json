@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-24T18:27:30.451477+00:00",
-  "total": 45,
+  "last_updated": "2026-08-26T06:32:22.846029+00:00",
+  "total": 46,
   "purged_this_run": 0,
   "jobs": [
     {
@@ -122,6 +122,34 @@
         "Deep Kafka/Confluent and Kubernetes/Helm experience is listed as a gap, but the role description mentions developing streaming applications and working with distributed systems which may require some of this."
       ],
       "one_liner": "A highly experienced Data Engineer with strong cloud and production skills in Spark, Databricks, and IaC, well-suited for building scalable data platforms.",
+      "apply": true
+    },
+    {
+      "id": "1e45b731a8e7",
+      "title": "Analytics Engineer I - AI & Data Enablement (They/She/He)",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/analytics-engineer-i-ai-and-data-enablement-they-she-he-in-barcelona-spain-jid-9727",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-08-26T06:32:22.845888+00:00",
+      "expires_at": "2026-09-02T06:32:22.845862+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 8,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong alignment with Analytics Engineer role and core skills in dbt, dimensional modeling, and data warehousing.",
+        "Extensive experience with cloud platforms (Azure, Databricks, Snowflake) and data engineering tools like PySpark and Airflow are highly relevant.",
+        "Experience with ML/AI technologies and a proven ability to manage stakeholders to Director level are valuable for an AI & Data Enablement role."
+      ],
+      "gaps": [
+        "Limited production depth in dbt as per candidate's self-assessment.",
+        "While Kafka is listed as working knowledge, deep Kafka/Confluent experience is noted as a gap."
+      ],
+      "one_liner": "A highly skilled candidate with strong analytics engineering, data engineering, and ML foundations, well-suited for an Analytics Engineer role with EU Blue Card eligibility.",
       "apply": true
     },
     {
