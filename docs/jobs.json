@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T06:32:22.846029+00:00",
-  "total": 46,
+  "last_updated": "2026-08-26T12:32:15.592703+00:00",
+  "total": 47,
   "purged_this_run": 0,
   "jobs": [
     {
@@ -600,6 +600,36 @@
         "Limited production depth in dbt is mentioned as a gap, which could be a core tool for an Analytics Engineer role if that were the primary focus."
       ],
       "one_liner": "A well-rounded Data Scientist with strong cloud, ML, and analytics engineering skills and EU Blue Card eligibility, fitting the Senior Data Scientist profile despite minor gaps in Kafka and dbt production depth.",
+      "apply": true
+    },
+    {
+      "id": "bb15405aae7e",
+      "title": "Analytics Engineer",
+      "company": "Celonis",
+      "location": "Madrid, Spain",
+      "apply_url": "https://job-boards.greenhouse.io/celonis/jobs/7886074003?gh_jid=7886074003",
+      "source": "Greenhouse (Celonis)",
+      "posted_at": "2026-08-26T07:06:24-04:00",
+      "fetched_at": "2026-08-26T12:32:15.592577+00:00",
+      "expires_at": "2026-09-25T12:32:15.587185+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong alignment with the 'Analytics Engineer' role category and the core responsibilities outlined in the job description, particularly building data products and analyses to support business decisions.",
+        "Extensive experience with core technologies mentioned like SQL, Python, and cloud platforms (Azure, Databricks, Snowflake), which are fundamental for an Analytics Engineer.",
+        "Demonstrated ability in stakeholder management to Director level, which is crucial for a role embedded with business partners.",
+        "Experience with dimensional modeling and data modeling techniques (Kimball, Data Vault) directly relevant to analytics engineering.",
+        "The candidate's target roles explicitly include Analytics Engineer and Data Analytics Engineer."
+      ],
+      "gaps": [
+        "The job description mentions a need to 'raise the technical and analytical bar' and move towards 'predictive, prescriptive, and AI-augmented insights', which may require deeper statistical or ML skills than the candidate's stated foundational knowledge.",
+        "The candidate's 'dbt (limited prod depth)' is a direct gap for an Analytics Engineer role, where dbt is often a primary tool."
+      ],
+      "one_liner": "A strong candidate for an Analytics Engineer role with extensive data engineering and analytics skills, particularly in cloud environments, though with limited direct production experience in dbt.",
       "apply": true
     },
     {
