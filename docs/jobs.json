@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-08-31T12:13:16.316340+00:00",
-  "total": 45,
-  "purged_this_run": 0,
+  "last_updated": "2026-09-02T15:40:43.423415+00:00",
+  "total": 48,
+  "purged_this_run": 2,
   "jobs": [
     {
       "id": "740706191d94",
@@ -122,34 +122,6 @@
         "Deep Kafka/Confluent and Kubernetes/Helm experience is listed as a gap, but the role description mentions developing streaming applications and working with distributed systems which may require some of this."
       ],
       "one_liner": "A highly experienced Data Engineer with strong cloud and production skills in Spark, Databricks, and IaC, well-suited for building scalable data platforms.",
-      "apply": true
-    },
-    {
-      "id": "1e45b731a8e7",
-      "title": "Analytics Engineer I - AI & Data Enablement (They/She/He)",
-      "company": "Delivery Hero",
-      "location": "Germany",
-      "apply_url": "https://careers.deliveryhero.com/job/analytics-engineer-i-ai-and-data-enablement-they-she-he-in-barcelona-spain-jid-9727",
-      "source": "Career Page (Delivery Hero)",
-      "posted_at": "",
-      "fetched_at": "2026-08-26T06:32:22.845888+00:00",
-      "expires_at": "2026-09-02T06:32:22.845862+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 8,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Analytics Engineer",
-      "match_reasons": [
-        "Strong alignment with Analytics Engineer role and core skills in dbt, dimensional modeling, and data warehousing.",
-        "Extensive experience with cloud platforms (Azure, Databricks, Snowflake) and data engineering tools like PySpark and Airflow are highly relevant.",
-        "Experience with ML/AI technologies and a proven ability to manage stakeholders to Director level are valuable for an AI & Data Enablement role."
-      ],
-      "gaps": [
-        "Limited production depth in dbt as per candidate's self-assessment.",
-        "While Kafka is listed as working knowledge, deep Kafka/Confluent experience is noted as a gap."
-      ],
-      "one_liner": "A highly skilled candidate with strong analytics engineering, data engineering, and ML foundations, well-suited for an Analytics Engineer role with EU Blue Card eligibility.",
       "apply": true
     },
     {
@@ -633,35 +605,6 @@
       "apply": false
     },
     {
-      "id": "42c88157a05a",
-      "title": "Senior Data Scientist - (Content, Consumer)",
-      "company": "Delivery Hero",
-      "location": "Germany",
-      "apply_url": "https://careers.deliveryhero.com/job/senior-data-scientist-content-consumer-in-berlin-germany-jid-10122",
-      "source": "Career Page (Delivery Hero)",
-      "posted_at": "",
-      "fetched_at": "2026-08-24T18:27:30.451344+00:00",
-      "expires_at": "2026-08-31T18:27:30.451319+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Scientist",
-      "match_reasons": [
-        "Strong experience in core Data Science skills including ML/AI (Scikit-learn, time-series, LLM orchestration, RAG), Statistics, and Analytics Engineering (dbt, dimensional modeling).",
-        "Extensive cloud experience on Azure, Databricks, and Snowflake, which are likely relevant for a company like Delivery Hero.",
-        "Proven ability in stakeholder management and experience with production pipelines and ML platforms (MLflow full lifecycle).",
-        "EU Blue Card eligibility aligns with the target location (Germany)."
-      ],
-      "gaps": [
-        "While the candidate has 'working knowledge' of Kafka, a 'deep Kafka/Confluent' gap is noted, which might be relevant for real-time data processing.",
-        "Limited production depth in dbt is mentioned as a gap, which could be a core tool for an Analytics Engineer role if that were the primary focus."
-      ],
-      "one_liner": "A well-rounded Data Scientist with strong cloud, ML, and analytics engineering skills and EU Blue Card eligibility, fitting the Senior Data Scientist profile despite minor gaps in Kafka and dbt production depth.",
-      "apply": true
-    },
-    {
       "id": "bb15405aae7e",
       "title": "Analytics Engineer",
       "company": "Celonis",
@@ -979,6 +922,157 @@
       ],
       "one_liner": "Sri Hari possesses strong production-level data engineering skills, cloud expertise, and IaC experience, making them a strong candidate for a Senior Data Engineer role, with EU Blue Card eligibility simplifying visa requirements.",
       "apply": true
+    },
+    {
+      "id": "4256fb708901",
+      "title": "Machine Learning Engineering Manager, Personalize Intelligence",
+      "company": "Adyen",
+      "location": "Chicago",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/8113712",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-08-31T11:29:26-04:00",
+      "fetched_at": "2026-09-02T15:40:33.911528+00:00",
+      "expires_at": "2026-10-02T15:40:33.896837+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "ML Engineer",
+      "match_reasons": [
+        "Strong experience in ML platform (MLflow full lifecycle) aligns with ML engineering focus.",
+        "Experience with cloud platforms (Azure, Databricks, Snowflake, AWS, GCP) and IaC (Terraform) is highly relevant for building and managing ML systems at scale.",
+        "Demonstrated leadership potential through stakeholder management up to Director level and mentoring experience.",
+        "Hands-on experience with Python and SQL is crucial for ML engineering tasks.",
+        "Interest in LLM orchestration, RAG, and multi-agent systems aligns with modern ML applications."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which is a common tool for data preparation in ML pipelines.",
+        "No explicit mention of Kubernetes/Helm experience, which is often crucial for deploying and managing ML models in production.",
+        "While Kafka is listed as working knowledge, deep Kafka/Confluent expertise is a stated gap.",
+        "The role is an Engineering Manager position, and while the candidate has stakeholder management experience, direct management of ML scientists and data engineers is not explicitly detailed."
+      ],
+      "one_liner": "A strong candidate with extensive ML platform and cloud experience, showing potential for an ML Engineering Manager role, though with some gaps in specific technologies and direct management experience.",
+      "apply": false
+    },
+    {
+      "id": "254db91063a0",
+      "title": "Senior Data Engineer",
+      "company": "Adyen",
+      "location": "Sao Jose dos Campos",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/8173310",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-09-02T08:32:32-04:00",
+      "fetched_at": "2026-09-02T15:40:36.176956+00:00",
+      "expires_at": "2026-10-02T15:40:36.176889+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Data Engineer",
+      "match_reasons": [
+        "Extensive production experience in Data Engineering with PySpark, Apache Spark, Azure Databricks, Delta Lake, and Airflow.",
+        "Strong cloud experience with Azure and Databricks aligns well with building a state-of-the-art data platform.",
+        "Experience with stakeholder management up to Director level is crucial for collaborative solution development.",
+        "Proven ability in building production ELT pipelines and designing scalable architectures."
+      ],
+      "gaps": [
+        "Limited production depth in dbt.",
+        "The job description does not specify visa or relocation support, which is a critical factor for the candidate."
+      ],
+      "one_liner": "Sri Hari demonstrates strong foundational Data Engineering skills and cloud experience relevant to building robust data pipelines, but his production depth in dbt and Adyen's visa/relocation policies require further clarification.",
+      "apply": false
+    },
+    {
+      "id": "75529efee54d",
+      "title": "Data Analyst Strategy Spain",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/data-analyst-strategy-spain-in-barcelona-spain-jid-10755",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-09-02T15:40:43.423308+00:00",
+      "expires_at": "2026-09-09T15:40:43.423288+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Analyst Strategy",
+      "match_reasons": [
+        "Strong analytics and data science background with advanced Python and SQL skills.",
+        "Experience with cloud platforms (Azure, Databricks, Snowflake) relevant to a large tech company.",
+        "Demonstrated ability to manage stakeholders up to Director level, which is valuable for a strategy role.",
+        "EU Blue Card eligibility makes him a strong candidate for Germany."
+      ],
+      "gaps": [
+        "The role title is 'Data Analyst Strategy' which might be more business-focused than the candidate's core technical strengths.",
+        "Limited depth in dbt for production environments.",
+        "The job description emphasizes strategic thinking and business acumen, which are not explicitly detailed in the provided profile."
+      ],
+      "one_liner": "A data scientist with strong engineering and cloud skills, EU Blue Card eligible, who could be a good fit for a strategic data role at Delivery Hero, though specific strategy experience is not detailed.",
+      "apply": true
+    },
+    {
+      "id": "614668ad8d67",
+      "title": "Operations Data Analyst - Specialist",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/operations-data-analyst-specialist-in-barcelona-spain-jid-10369",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-09-02T15:40:38.661719+00:00",
+      "expires_at": "2026-09-09T15:40:38.661696+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 6,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Scientist",
+      "match_reasons": [
+        "Strong experience in data engineering and ML platform, which are relevant for an Operations Data Analyst role that likely involves data pipelines and analysis.",
+        "Extensive cloud experience (Azure, Databricks, Snowflake, AWS, GCP) aligns well with modern data infrastructure requirements.",
+        "Demonstrated ability in stakeholder management and experience with healthcare data governance (HIPAA, USCDI) suggests a good understanding of operational data requirements and compliance.",
+        "Targeting Germany and EU Blue Card eligibility makes this a viable option."
+      ],
+      "gaps": [
+        "The 'Operations Data Analyst - Specialist' role might require more specific operational domain knowledge than explicitly detailed.",
+        "While Kafka is listed as working knowledge, deep Kafka/Confluent is noted as a gap, which could be important for real-time data streams in an operations context."
+      ],
+      "one_liner": "A strong candidate with robust data engineering and ML experience, targeting Germany and EU Blue Card eligible, making them a good fit for an operations-focused data role.",
+      "apply": true
+    },
+    {
+      "id": "4bb1f61a0883",
+      "title": "Data Analyst II Rider Experience",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/data-analyst-ii-rider-experience-in-barcelona-spain-jid-10316",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-09-02T15:40:41.130268+00:00",
+      "expires_at": "2026-09-09T15:40:41.130249+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 5,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Scientist",
+      "match_reasons": [
+        "Strong background in data science and ML/AI, with experience relevant to Rider Experience analysis.",
+        "Extensive cloud experience with Azure and Databricks, aligning with modern data stacks.",
+        "Good analytical and visualization skills (Tableau, Power BI) relevant for data analysis.",
+        "Experience in stakeholder management is beneficial for any role."
+      ],
+      "gaps": [
+        "The target role is Data Analyst II, which may be a step down from Data Scientist/Engineer.",
+        "Specific experience in Rider Experience domain is not explicitly detailed.",
+        "The job description is for Barcelona, Spain, while the target country is Germany, creating a potential location mismatch.",
+        "Limited depth in dbt, which is often a core tool for data analysts/analytics engineers."
+      ],
+      "one_liner": "Sri Hari possesses strong data science and cloud engineering skills but may be overqualified or misaligned with the specific analyst role and location at Delivery Hero.",
+      "apply": false
     },
     {
       "id": "612f4a2fa625",
