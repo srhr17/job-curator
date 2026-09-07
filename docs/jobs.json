@@ -1,129 +1,8 @@
 {
-  "last_updated": "2026-09-04T10:12:58.301849+00:00",
-  "total": 46,
-  "purged_this_run": 5,
+  "last_updated": "2026-09-07T11:05:37.055003+00:00",
+  "total": 36,
+  "purged_this_run": 11,
   "jobs": [
-    {
-      "id": "740706191d94",
-      "title": "Data Engineer",
-      "company": "Adyen",
-      "location": "Amsterdam",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/6720006",
-      "source": "Greenhouse (Adyen)",
-      "posted_at": "2026-08-07T11:50:39-04:00",
-      "fetched_at": "2026-08-07T18:42:01.713948+00:00",
-      "expires_at": "2026-09-06T18:42:01.709190+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 8,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Engineer",
-      "match_reasons": [
-        "Strong production experience in Data Engineering with PySpark, Spark, ETL/ELT, Azure Databricks, Delta Lake, and Airflow.",
-        "Experience with cloud platforms (Azure, AWS, GCP) and big data technologies aligns well with the role description.",
-        "Experience with data governance, data quality validation, and stakeholder management to Director level are valuable for Adyen's data-centric approach.",
-        "Interest in contributing to data best practices, code quality, and data validation aligns with the job description."
-      ],
-      "gaps": [
-        "Deep Kafka/Confluent knowledge is listed as a gap.",
-        "Limited production depth in dbt is noted as a gap.",
-        "Experience with Kubernetes/Helm and Java/Scala are not explicitly mentioned."
-      ],
-      "one_liner": "Sri Hari is a strong candidate for the Data Engineer role at Adyen, possessing extensive production experience in data engineering, cloud technologies, and data governance, with a notable ability to manage stakeholders at senior levels.",
-      "apply": true
-    },
-    {
-      "id": "17d1216d2f51",
-      "title": "Data Engineer I - Payment Lifecycle Data",
-      "company": "Adyen",
-      "location": "Amsterdam",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/8114306",
-      "source": "Greenhouse (Adyen)",
-      "posted_at": "2026-08-07T11:42:02-04:00",
-      "fetched_at": "2026-08-07T18:42:03.850405+00:00",
-      "expires_at": "2026-09-06T18:42:03.850293+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 8,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Engineer",
-      "match_reasons": [
-        "Extensive experience in building and maintaining ETL/ELT pipelines with PySpark and SQL.",
-        "Strong cloud skills in Azure and Databricks, aligning with big data platform needs.",
-        "Proven ability in end-to-end data product ownership and stakeholder management, including to Director level.",
-        "Experience with data modeling techniques (dimensional modeling, Data Vault) relevant for data product development.",
-        "EU Blue Card eligibility makes visa sponsorship more feasible for a European role."
-      ],
-      "gaps": [
-        "Limited production depth in dbt.",
-        "While Kafka is listed as 'working knowledge,' the job description might imply deeper expertise is preferred."
-      ],
-      "one_liner": "A strong candidate for the Data Engineer I role, with extensive ETL/ELT and cloud experience, aligning well with the core requirements and benefiting from EU Blue Card eligibility.",
-      "apply": true
-    },
-    {
-      "id": "3062eb153c5f",
-      "title": "Machine Learning Engineer (II and Senior)",
-      "company": "Adyen",
-      "location": "Amsterdam",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7954164",
-      "source": "Greenhouse (Adyen)",
-      "posted_at": "2026-08-07T07:57:38-04:00",
-      "fetched_at": "2026-08-07T18:42:05.957044+00:00",
-      "expires_at": "2026-09-06T18:42:05.956960+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 8,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "ML Engineer",
-      "match_reasons": [
-        "Strong production experience in ML systems at scale (4+ years production experience, MLflow full lifecycle, production ML pipelines).",
-        "Core skills align well with ML Engineer responsibilities (Python, ML/AI, cloud platforms, data engineering).",
-        "Experience with relevant ML domains like time-series forecasting, anomaly detection, and risk patterns.",
-        "Demonstrated ability to manage stakeholder relationships up to Director level, crucial for collaboration.",
-        "EU Blue Card eligibility makes visa sponsorship less of a hurdle for an EU role."
-      ],
-      "gaps": [
-        "Deep Kafka/Confluent knowledge is listed as a gap.",
-        "dbt production depth is limited.",
-        "Java/Scala experience is not mentioned, which can be common in production ML systems."
-      ],
-      "one_liner": "A strong candidate for an ML Engineer role with significant production experience in ML systems and a solid foundation in relevant technologies, though some specific production depths in Kafka and dbt are noted.",
-      "apply": true
-    },
-    {
-      "id": "a8cb7fe49b53",
-      "title": "Senior Data Platform Engineer",
-      "company": "Adyen",
-      "location": "Amsterdam",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7068990",
-      "source": "Greenhouse (Adyen)",
-      "posted_at": "2026-06-30T04:31:54-04:00",
-      "fetched_at": "2026-08-07T18:42:11.137128+00:00",
-      "expires_at": "2026-09-06T18:42:11.137047+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 8,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Engineer",
-      "match_reasons": [
-        "Strong production experience (4+ years) aligns with the role's need for experienced engineers.",
-        "Extensive experience with core data engineering tools like PySpark, Apache Spark, Azure Databricks, Delta Lake, and Airflow are directly relevant.",
-        "Experience with IaC (Terraform) and cloud platforms (Azure, Databricks, Snowflake) are highly valuable for building and managing large-scale data platforms.",
-        "Experience with governance and stakeholder management to Director level are beneficial for collaboration and platform adoption.",
-        "The target role is a Senior Data Platform Engineer, and Sri Hari is targeting Senior Data Engineer and ML Engineer roles with data engineering overlap."
-      ],
-      "gaps": [
-        "Limited production depth in dbt.",
-        "Deep Kafka/Confluent and Kubernetes/Helm experience is listed as a gap, but the role description mentions developing streaming applications and working with distributed systems which may require some of this."
-      ],
-      "one_liner": "A highly experienced Data Engineer with strong cloud and production skills in Spark, Databricks, and IaC, well-suited for building scalable data platforms.",
-      "apply": true
-    },
     {
       "id": "1e7ab6ce72ad",
       "title": "Data Scientist - Machine Learning ",
@@ -212,184 +91,6 @@
         "While foundations are mentioned, deep causal inference may be a gap depending on the specific ML problems at Zalando."
       ],
       "one_liner": "Highly experienced Data Scientist with strong ML platform and cloud engineering skills, well-suited for a Senior ML Engineer role in Germany, possessing EU Blue Card eligibility.",
-      "apply": true
-    },
-    {
-      "id": "23131042d0aa",
-      "title": "Senior Machine Learning Engineer I",
-      "company": "SumUp",
-      "location": "Berlin, Germany",
-      "apply_url": "https://sumup.com/careers/positions/8498275002?gh_jid=8498275002",
-      "source": "Greenhouse (SumUp)",
-      "posted_at": "2026-07-24T11:11:41-04:00",
-      "fetched_at": "2026-08-05T13:45:18.829210+00:00",
-      "expires_at": "2026-09-04T13:45:18.815035+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "ML Engineer",
-      "match_reasons": [
-        "Strong experience with ML infrastructure and pipelines (MLflow full lifecycle, Databricks, Airflow) aligns with the role's need to develop and maintain ML infrastructure and pipelines.",
-        "Experience with LLM orchestration, RAG, and multi-agent systems directly addresses the job description's focus on AI and LLMs for customer support.",
-        "Experience in production environments with cloud platforms (Azure, AWS, GCP) and IaC (Terraform) supports the architectural and deployment requirements of the role."
-      ],
-      "gaps": [
-        "The job requires 8+ years of experience, while Sri Hari has 4+ years of production experience. The listed experience is 'production experience' which might not equate to the same as 'Machine Learning Engineer' experience.",
-        "The job description doesn't explicitly state a need for deep Kafka/Confluent or Kubernetes/Helm, but these are common in ML Engineering roles and are listed as gaps for the candidate."
-      ],
-      "one_liner": "Sri Hari is a strong candidate for the Senior Machine Learning Engineer role with solid experience in ML infrastructure, LLMs, and cloud deployment, though their years of specific ML Engineering experience and deeper Kafka/Kubernetes knowledge could be areas to probe.",
-      "apply": true
-    },
-    {
-      "id": "a5c661541be0",
-      "title": "Marketing Analytics Engineer (dbt)",
-      "company": "N26",
-      "location": "Berlin",
-      "apply_url": "https://n26.com/en-eu/careers/positions/7962721?gh_jid=7962721",
-      "source": "Greenhouse (N26)",
-      "posted_at": "2026-08-05T13:49:45-04:00",
-      "fetched_at": "2026-08-06T13:43:42.282533+00:00",
-      "expires_at": "2026-09-05T13:43:42.234991+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Analytics Engineer",
-      "match_reasons": [
-        "Directly targets the Analytics Engineer role, a key target role for the candidate.",
-        "Strong alignment with the core technologies required, especially dbt (despite a noted 'limited prod depth' gap, the candidate has experience and is targeting this skill).",
-        "Experience with Python and SQL are advanced, matching the job description's needs for automation and complex data handling.",
-        "Cloud experience (AWS is listed as the company's provider, and the candidate has experience across Azure, Databricks, Snowflake, AWS, GCP) is a significant plus.",
-        "The candidate's strength in data modeling (dimensional, Data Vault) aligns with the need to 'Provide clean data models' and 'Design data models in dbt'."
-      ],
-      "gaps": [
-        "Limited production depth in dbt, which is a core technology for this role.",
-        "While Kafka is listed as 'working knowledge', the 'deep Kafka/Confluent' gap means they might not be an expert in potential data ingestion pipelines."
-      ],
-      "one_liner": "A strong candidate for the Marketing Analytics Engineer role at N26, possessing core data engineering and analytics engineering skills, with the primary gap being dbt production depth, and the primary strength being EU Blue Card eligibility.",
-      "apply": true
-    },
-    {
-      "id": "131a228ebedc",
-      "title": "Marketing Analytics Engineer (dbt)",
-      "company": "N26",
-      "location": "Barcelona",
-      "apply_url": "https://n26.com/en-eu/careers/positions/7962618?gh_jid=7962618",
-      "source": "Greenhouse (N26)",
-      "posted_at": "2026-08-05T13:48:38-04:00",
-      "fetched_at": "2026-08-06T13:43:45.752310+00:00",
-      "expires_at": "2026-09-05T13:43:45.752200+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Analytics Engineer",
-      "match_reasons": [
-        "Strong emphasis on dbt for data modeling and transformation, aligning with the candidate's target role and a key skill for the job.",
-        "Experience in building data pipelines and models for business growth, which is central to the Marketing Analytics Engineer role.",
-        "Proficiency in Python and SQL, core languages for data engineering and analytics.",
-        "Experience with cloud platforms (AWS mentioned in job, candidate has AWS experience) and data warehousing concepts.",
-        "Understanding of data governance and quality, important for providing a 'single source of truth'."
-      ],
-      "gaps": [
-        "The job explicitly states dbt is the main tool for data transformations, while the candidate lists 'dbt (limited prod depth)' as a gap.",
-        "The candidate has working knowledge of Kafka but the job description doesn't mention Kafka.",
-        "The candidate has no direct experience with Redshift, which is the primary data warehouse for the job."
-      ],
-      "one_liner": "A strong candidate for an Analytics Engineer role with a focus on dbt, provided their limited dbt production depth can be addressed and visa/relocation requirements are met.",
-      "apply": true
-    },
-    {
-      "id": "2df26a92592c",
-      "title": "Senior Data Engineer",
-      "company": "Adyen",
-      "location": "Amsterdam",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/6919020",
-      "source": "Greenhouse (Adyen)",
-      "posted_at": "2026-08-06T03:50:41-04:00",
-      "fetched_at": "2026-08-06T13:43:49.187031+00:00",
-      "expires_at": "2026-09-05T13:43:49.186937+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Engineer",
-      "match_reasons": [
-        "Strong experience in designing and operating high-quality production ELT pipelines and data architectures, aligning with Adyen's focus on data as a first-class citizen.",
-        "Demonstrated ability to collaborate with diverse stakeholders, including data scientists, analysts, and product managers, to understand requirements and craft solutions.",
-        "Extensive experience with cloud platforms (Azure, Databricks, Snowflake, AWS) and data engineering tools (PySpark, Delta Lake, Airflow, Terraform) which are crucial for building scalable data infrastructure.",
-        "Commitment to championing data best practices in performance, code quality, data validation, and governance, which is a key expectation for a Senior Data Engineer at Adyen."
-      ],
-      "gaps": [
-        "Limited production depth in dbt, which is often a core component of modern data engineering stacks.",
-        "While Kafka is listed as working knowledge, deeper expertise (as suggested by 'deep Kafka/Confluent' gap) might be beneficial given the scale of Adyen."
-      ],
-      "one_liner": "Sri Hari Sivashanmugam is a strong candidate for the Senior Data Engineer role at Adyen, possessing extensive production experience in data pipelines, cloud infrastructure, and data governance, with the ability to support EU Blue Card eligibility.",
-      "apply": true
-    },
-    {
-      "id": "fd2aa3880214",
-      "title": "Machine Learning Scientist I - Protect",
-      "company": "Adyen",
-      "location": "Amsterdam",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/8113747",
-      "source": "Greenhouse (Adyen)",
-      "posted_at": "2026-08-07T05:39:48-04:00",
-      "fetched_at": "2026-08-07T18:42:08.287650+00:00",
-      "expires_at": "2026-09-06T18:42:08.287568+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Machine Learning Scientist",
-      "match_reasons": [
-        "Strong experience with ML lifecycle management (MLflow full lifecycle).",
-        "Experience with real-time systems through Kafka (working knowledge) and building data pipelines (ETL/ELT, Airflow).",
-        "Proficiency in Python and SQL, essential for ML development.",
-        "Experience with large-scale data processing and cloud platforms (Azure, Databricks, Snowflake).",
-        "Relevant ML/AI skills including Scikit-learn, GLMs, time-series forecasting, and LLM orchestration which are transferable to fraud prevention."
-      ],
-      "gaps": [
-        "Deep Kafka/Confluent knowledge required for real-time streaming.",
-        "dbt production depth is limited, which might be relevant for pipeline development.",
-        "While the role is ML Scientist, the company is Adyen, a financial technology firm, and the 'Protect' team specifically targets fraud prevention which is a specialized ML domain.",
-        "No explicit mention of experience in fraud detection or real-time risk assessment."
-      ],
-      "one_liner": "A strong candidate with extensive ML lifecycle and data engineering experience, well-suited for ML development roles, but may require upskilling in deep streaming and fraud-specific ML techniques.",
-      "apply": true
-    },
-    {
-      "id": "0f605a9c36c4",
-      "title": "Senior Machine Learning Scientist",
-      "company": "Adyen",
-      "location": "Amsterdam",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7864993",
-      "source": "Greenhouse (Adyen)",
-      "posted_at": "2026-08-06T12:52:38-04:00",
-      "fetched_at": "2026-08-07T18:42:13.623762+00:00",
-      "expires_at": "2026-09-06T18:42:13.623680+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "ML Engineer",
-      "match_reasons": [
-        "Strong overlap in ML/AI skills including time-series forecasting, GLMs, and LLM orchestration relevant to Adyen's domain.",
-        "Extensive experience with ML platform tools like MLflow for full lifecycle management, which is crucial for production ML deployments.",
-        "Demonstrated ability to design and implement production-ready ML solutions and work with complex datasets."
-      ],
-      "gaps": [
-        "Limited production depth in dbt, which is often used for building analytical pipelines and data transformations.",
-        "While having working knowledge of Kafka, deep Kafka/Confluent experience is listed as a gap, which could be relevant for real-time data processing in payments."
-      ],
-      "one_liner": "Sri Hari is a promising candidate with strong ML engineering and data platform skills, including MLflow and cloud technologies, aligning well with the Senior Machine Learning Scientist role at Adyen.",
       "apply": true
     },
     {
@@ -783,34 +484,6 @@
       "apply": false
     },
     {
-      "id": "0dbad3ec73b3",
-      "title": "Senior Machine Learning Scientist / Data Engineer - Logistics Algorithms (all genders)\n\nApplied Science & Research\n\nBerlin\n\nView job",
-      "company": "Zalando",
-      "location": "Germany",
-      "apply_url": "https://jobs.zalando.com/en/jobs/2724616-Senior-Machine-Learning-Scientist-%2F-Data-Engineer-",
-      "source": "Career Page (Zalando)",
-      "posted_at": "",
-      "fetched_at": "2026-08-28T17:55:50.097690+00:00",
-      "expires_at": "2026-09-04T17:55:50.097654+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "ML Engineer",
-      "match_reasons": [
-        "Strong experience in ML platforms (MLflow full lifecycle) and ML/AI techniques relevant to logistics algorithms.",
-        "Solid data engineering skills (PySpark, Spark, ETL/ELT, Databricks, Delta Lake, Airflow, Terraform) align well with the Data Engineer aspect of the role.",
-        "Experience with cloud platforms (Azure, AWS, GCP) and data governance (RBAC, lineage, data quality) are valuable for a senior role."
-      ],
-      "gaps": [
-        "Limited production depth in dbt.",
-        "Deep Kafka/Confluent, Kubernetes/Helm, Java/Scala, and deep causal inference are listed as gaps."
-      ],
-      "one_liner": "Sri Hari Sivashanmugam is a strong candidate for the Senior Machine Learning Scientist / Data Engineer role at Zalando, with excellent ML platform and data engineering experience, and EU Blue Card eligibility.",
-      "apply": true
-    },
-    {
       "id": "ea51d304feee",
       "title": "Senior Data Scientist - Product Insights",
       "company": "Catawiki",
@@ -1101,6 +774,36 @@
         "Limited depth in Kafka/Confluent, Kubernetes/Helm, and Java/Scala, which could be beneficial for a backend role."
       ],
       "one_liner": "A seasoned Data Engineer with a strong foundation in big data technologies, cloud platforms, and IaC, well-suited for a Senior Data Engineer role in Germany with EU Blue Card eligibility.",
+      "apply": true
+    },
+    {
+      "id": "23131042d0aa",
+      "title": "Senior Machine Learning Engineer I",
+      "company": "SumUp",
+      "location": "Berlin, Germany",
+      "apply_url": "https://sumup.com/careers/positions/8498275002?gh_jid=8498275002",
+      "source": "Greenhouse (SumUp)",
+      "posted_at": "2026-08-13T05:17:14-04:00",
+      "fetched_at": "2026-09-07T11:05:37.054891+00:00",
+      "expires_at": "2026-10-07T11:05:37.050175+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "ML Engineer",
+      "match_reasons": [
+        "Strong experience with ML infrastructure and pipelines, including MLflow full lifecycle.",
+        "Experience with LLM orchestration, RAG, and multi-agent systems aligns with the job description's focus on AI solutions for customer support.",
+        "Proven experience with cloud platforms (Azure, AWS, GCP) and IaC (Terraform) is valuable for deploying and managing AI solutions.",
+        "Experience with data engineering skills (PySpark, ETL/ELT) is beneficial for data preprocessing and model training."
+      ],
+      "gaps": [
+        "Requires +8 years of experience, candidate has 4+ years of production experience. While the quality of experience is high, the quantity is lower.",
+        "The job description mentions Java/Scala, which are not listed as core skills for the candidate.",
+        "Deep Kafka/Confluent, Kubernetes/Helm, and deep causal inference are listed as gaps for the candidate and may be relevant for production ML systems."
+      ],
+      "one_liner": "A strong candidate for a Senior ML Engineer role with solid ML platform and cloud experience, though slightly short on years of experience and some specific tech stack requirements.",
       "apply": true
     },
     {
