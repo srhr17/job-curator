@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-07T11:05:37.055003+00:00",
-  "total": 36,
-  "purged_this_run": 11,
+  "last_updated": "2026-09-08T10:19:52.699900+00:00",
+  "total": 35,
+  "purged_this_run": 2,
   "jobs": [
     {
       "id": "1e7ab6ce72ad",
@@ -94,33 +94,33 @@
       "apply": true
     },
     {
-      "id": "79ee1a8e9eb7",
-      "title": "Machine Learning Scientist",
-      "company": "Adyen",
-      "location": "Amsterdam",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7434460",
-      "source": "Greenhouse (Adyen)",
-      "posted_at": "2026-08-08T04:56:49-04:00",
-      "fetched_at": "2026-08-08T12:28:26.747795+00:00",
-      "expires_at": "2026-09-07T12:28:26.743043+00:00",
-      "ttl_source": "30d-ttl",
+      "id": "aa4b8810bb4a",
+      "title": "Senior Data Engineer - (Fintech)",
+      "company": "Delivery Hero",
+      "location": "Germany",
+      "apply_url": "https://careers.deliveryhero.com/job/senior-data-engineer-fintech-in-berlin-germany-jid-10715",
+      "source": "Career Page (Delivery Hero)",
+      "posted_at": "",
+      "fetched_at": "2026-09-08T10:19:52.699714+00:00",
+      "expires_at": "2026-09-15T10:19:52.699689+00:00",
+      "ttl_source": "7d-ttl",
       "status": "new",
-      "fit_score": 7,
+      "fit_score": 8,
       "visa_eligible": true,
       "relocation_support": "unclear",
-      "role_category": "Machine Learning Scientist",
+      "role_category": "Data Engineer",
       "match_reasons": [
-        "Extensive ML/AI skills including LLM orchestration, RAG, and multi-agent systems align with the Machine Learning Scientist role.",
-        "Production experience in ML platforms (MLflow full lifecycle) and cloud environments (Azure, Databricks, Snowflake) is highly relevant.",
-        "Experience with various ML algorithms and techniques like time-series forecasting and anomaly detection directly maps to the job description.",
-        "Proven ability to research, design, implement, deploy, and monitor ML algorithms.",
-        "EU Blue Card eligibility is a significant advantage for the Amsterdam location."
+        "Extensive production experience (4+ years) in data engineering concepts like ETL/ELT, Medallion Lakehouse, Azure Databricks, Delta Lake, and Azure cloud services align well with the Senior Data Engineer role.",
+        "Proficiency in PySpark, Spark, Airflow, Docker, and Terraform (prod) are highly relevant for building and managing robust data pipelines.",
+        "Experience with data governance (RBAC, lineage, data quality) and stakeholder management to Director level are valuable assets for a senior role.",
+        "Targeting Germany and being EU Blue Card eligible makes relocation feasible."
       ],
       "gaps": [
-        "The candidate's 'dbt (limited prod depth)' is a minor gap for a role that might involve data pipelines.",
-        "While Kafka is listed as 'working knowledge', deeper expertise in Kafka/Confluent is noted as a gap, which could be relevant for real-time data processing."
+        "Deep Kafka/Confluent knowledge is listed as a gap.",
+        "Limited production depth in dbt is noted.",
+        "Java/Scala experience is not a primary strength mentioned."
       ],
-      "one_liner": "A well-rounded candidate with strong ML/AI and production experience, EU Blue Card eligibility, and a good understanding of data engineering principles, making them a solid fit for the Machine Learning Scientist role at Adyen.",
+      "one_liner": "Sri Hari Sivashanmugam is a strong candidate for the Senior Data Engineer role with extensive production experience in data engineering and cloud technologies, and is EU Blue Card eligible for Germany.",
       "apply": true
     },
     {
@@ -597,34 +597,6 @@
         "The role specifies 'Supply Chain Data Engineer & Integration Specialist', and while Sri Hari has integration experience, specific supply chain domain experience is not explicitly mentioned."
       ],
       "one_liner": "Sri Hari is a strong candidate for the Supply Chain Data Engineer & Integration Specialist role at Adyen due to extensive data engineering experience, cloud expertise, and integration capabilities, with visa eligibility being a key advantage.",
-      "apply": true
-    },
-    {
-      "id": "08bcea44dc57",
-      "title": "Senior Data Engineer (all genders) - Tradebyte\n\nData\n\nAnsbach\n\nView job",
-      "company": "Zalando",
-      "location": "Germany",
-      "apply_url": "https://jobs.zalando.com/en/jobs/2724601-Senior-Data-Engineer-(all-genders)---Tradebyte",
-      "source": "Career Page (Zalando)",
-      "posted_at": "",
-      "fetched_at": "2026-08-31T12:13:16.316177+00:00",
-      "expires_at": "2026-09-07T12:13:16.316145+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Engineer",
-      "match_reasons": [
-        "Strong experience in core data engineering skills like PySpark, Apache Spark, ETL/ELT, Medallion Lakehouse, Azure Databricks, Delta Lake, Databricks Asset Bundles, Airflow, and Terraform (prod) align well with a Senior Data Engineer role.",
-        "Extensive cloud experience across Azure, Databricks, Snowflake, AWS, and GCP is highly relevant.",
-        "Experience with governance aspects like RBAC, lineage tracking, and data quality validation is valuable for a senior role."
-      ],
-      "gaps": [
-        "Limited production depth in dbt.",
-        "Deep Kafka/Confluent, Kubernetes/Helm, and Java/Scala are noted gaps but not necessarily critical for all Senior Data Engineer roles."
-      ],
-      "one_liner": "Sri Hari possesses strong production-level data engineering skills, cloud expertise, and IaC experience, making them a strong candidate for a Senior Data Engineer role, with EU Blue Card eligibility simplifying visa requirements.",
       "apply": true
     },
     {
