@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-11T20:15:04.420464+00:00",
-  "total": 37,
-  "purged_this_run": 8,
+  "last_updated": "2026-09-16T10:31:47.033865+00:00",
+  "total": 40,
+  "purged_this_run": 4,
   "jobs": [
     {
       "id": "1e7ab6ce72ad",
@@ -60,36 +60,6 @@
         "Deep Kafka/Confluent: While Kafka is listed as 'working knowledge', the 'deep' aspect of Kafka/Confluent is noted as a gap, which could be relevant for high-throughput data streaming."
       ],
       "one_liner": "Sri Hari is a strong candidate for the Data Scientist - Machine Learning role at Catawiki, possessing extensive ML/AI and cloud data engineering skills, with a clear path to relocation in the Netherlands.",
-      "apply": true
-    },
-    {
-      "id": "aa4b8810bb4a",
-      "title": "Senior Data Engineer - (Fintech)",
-      "company": "Delivery Hero",
-      "location": "Germany",
-      "apply_url": "https://careers.deliveryhero.com/job/senior-data-engineer-fintech-in-berlin-germany-jid-10715",
-      "source": "Career Page (Delivery Hero)",
-      "posted_at": "",
-      "fetched_at": "2026-09-08T10:19:52.699714+00:00",
-      "expires_at": "2026-09-15T10:19:52.699689+00:00",
-      "ttl_source": "7d-ttl",
-      "status": "new",
-      "fit_score": 8,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Engineer",
-      "match_reasons": [
-        "Extensive production experience (4+ years) in data engineering concepts like ETL/ELT, Medallion Lakehouse, Azure Databricks, Delta Lake, and Azure cloud services align well with the Senior Data Engineer role.",
-        "Proficiency in PySpark, Spark, Airflow, Docker, and Terraform (prod) are highly relevant for building and managing robust data pipelines.",
-        "Experience with data governance (RBAC, lineage, data quality) and stakeholder management to Director level are valuable assets for a senior role.",
-        "Targeting Germany and being EU Blue Card eligible makes relocation feasible."
-      ],
-      "gaps": [
-        "Deep Kafka/Confluent knowledge is listed as a gap.",
-        "Limited production depth in dbt is noted.",
-        "Java/Scala experience is not a primary strength mentioned."
-      ],
-      "one_liner": "Sri Hari Sivashanmugam is a strong candidate for the Senior Data Engineer role with extensive production experience in data engineering and cloud technologies, and is EU Blue Card eligible for Germany.",
       "apply": true
     },
     {
@@ -841,66 +811,211 @@
       "apply": true
     },
     {
-      "id": "be0a8e44009f",
-      "title": "Junior Data Analyst - Customer Identity",
+      "id": "69d6700ea5c5",
+      "title": "Data Analyst - Investments ",
+      "company": "N26",
+      "location": "Barcelona",
+      "apply_url": "https://n26.com/en-eu/careers/positions/8204177?gh_jid=8204177",
+      "source": "Greenhouse (N26)",
+      "posted_at": "2026-09-15T10:36:59-04:00",
+      "fetched_at": "2026-09-16T10:31:36.784257+00:00",
+      "expires_at": "2026-10-16T10:31:36.784158+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong experience in data analysis, stakeholder management, and driving data-driven decisions.",
+        "Experience in building monitoring tools (dashboards) and improving data literacy aligns with role responsibilities.",
+        "Skills in SQL, Python, and potentially dbt (though with limited prod depth) are relevant for analytics foundations.",
+        "Experience with experimentation and a foundational understanding of causal inference are directly applicable."
+      ],
+      "gaps": [
+        "The job description doesn't explicitly mention visa sponsorship or relocation support, which are key for the candidate's immigration needs.",
+        "While the candidate has foundational causal inference, the role emphasizes its application, suggesting a potential learning curve.",
+        "The role is Data Analyst, and while the candidate has Data Scientist experience, the focus here is more on supporting a specific business unit than broad ML development."
+      ],
+      "one_liner": "Sri Hari is a strong candidate for this Data Analyst role due to their extensive data analysis and stakeholder management experience, with potential gaps in deep causal inference and clarity on relocation support.",
+      "apply": false
+    },
+    {
+      "id": "f8d1a25ad3dd",
+      "title": "Data Analyst - Ops Automation & Enablement",
       "company": "N26",
       "location": "Berlin",
-      "apply_url": "https://n26.com/en-eu/careers/positions/8127483?gh_jid=8127483",
+      "apply_url": "https://n26.com/en-eu/careers/positions/8187984?gh_jid=8187984",
       "source": "Greenhouse (N26)",
-      "posted_at": "2026-08-14T09:27:22-04:00",
-      "fetched_at": "2026-08-15T18:15:59.464730+00:00",
-      "expires_at": "2026-09-14T18:15:59.426366+00:00",
+      "posted_at": "2026-09-15T06:25:12-04:00",
+      "fetched_at": "2026-09-16T10:31:39.625859+00:00",
+      "expires_at": "2026-10-16T10:31:39.625762+00:00",
       "ttl_source": "30d-ttl",
       "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
+      "fit_score": 7,
+      "visa_eligible": true,
       "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed - will retry next run",
-      "apply": false
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong experience in data analysis, stakeholder management, and evaluating AI/automation initiatives aligns well with the role's responsibilities.",
+        "Proficiency in SQL, Python, and visualization tools (Tableau, Power BI) are crucial for querying, analyzing, and presenting data.",
+        "Experience with ETL/ELT and building analytics foundations (medallion Lakehouse, dbt) is directly applicable to contributing to the self-serve data platform.",
+        "Familiarity with regulatory standards (HIPAA, USCDI) is a plus for a role in a regulated industry like finance.",
+        "Previous experience in a large organization (Chicago Department of Public Health) suggests adaptability to enterprise environments."
+      ],
+      "gaps": [
+        "Limited production depth in dbt might require some ramp-up time.",
+        "While the role is Data Analyst, the candidate's experience leans more towards Data Engineering and Analytics Engineering, which might be an overqualification or require adjustment in focus."
+      ],
+      "one_liner": "Sri Hari is a strong candidate for this Data Analyst role due to extensive data analysis and stakeholder management experience, though some ramp-up in dbt might be needed.",
+      "apply": true
     },
     {
-      "id": "eaea626c057a",
-      "title": "Product Data Analyst",
-      "company": "SumUp",
-      "location": "London, England, United Kingdom",
-      "apply_url": "https://sumup.com/careers/positions/8559467002?gh_jid=8559467002",
-      "source": "Greenhouse (SumUp)",
-      "posted_at": "2026-08-14T16:21:06-04:00",
-      "fetched_at": "2026-08-15T18:16:00.571084+00:00",
-      "expires_at": "2026-09-14T18:16:00.570940+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 0,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed - will retry next run",
-      "apply": false
-    },
-    {
-      "id": "2f6365fcf005",
-      "title": "Machine Learning Engineer",
+      "id": "3b21c4895cf8",
+      "title": "Optimisation Data Analyst",
       "company": "Adyen",
-      "location": "Bengaluru",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/7349167",
+      "location": "Singapore",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/8059209",
       "source": "Greenhouse (Adyen)",
-      "posted_at": "2026-07-14T02:06:37-04:00",
-      "fetched_at": "2026-08-15T18:16:01.680049+00:00",
-      "expires_at": "2026-09-14T18:16:01.679934+00:00",
+      "posted_at": "2026-09-14T02:45:23-04:00",
+      "fetched_at": "2026-09-16T10:31:42.248388+00:00",
+      "expires_at": "2026-10-16T10:31:42.248291+00:00",
       "ttl_source": "30d-ttl",
       "status": "new",
-      "fit_score": 0,
+      "fit_score": 7,
       "visa_eligible": "unclear",
       "relocation_support": "unclear",
-      "role_category": "Other",
-      "match_reasons": [],
-      "gaps": [],
-      "one_liner": "Scoring failed - will retry next run",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong analytical skills demonstrated by experience with complex analyses, A/B testing, and data investigations relevant to optimization.",
+        "Experience in building scalable analytics solutions and automation pipelines aligns with the 'Scalable Tooling & Automation' requirement.",
+        "Proven ability to translate business challenges into analytical solutions and collaborate with cross-functional teams is a key strength.",
+        "Experience with large-scale datasets and identifying performance trends is directly applicable to analyzing payment data.",
+        "SQL and Python proficiency at an advanced level are essential for this role."
+      ],
+      "gaps": [
+        "The target role is 'Optimization Data Analyst', which leans more towards analytics and less towards core data engineering or ML engineering, where the candidate's strengths are more pronounced.",
+        "The candidate's 'dbt (limited prod depth)' is a potential gap for an Analytics Engineer role, though the job description doesn't explicitly mention dbt.",
+        "Location in Singapore is outside the candidate's target countries, and visa/relocation support is unclear, making the practical feasibility of applying uncertain."
+      ],
+      "one_liner": "A strong candidate for an analytics-focused role with proven experience in scalable solutions and data-driven optimization, though location and specific tooling depth require consideration.",
+      "apply": false
+    },
+    {
+      "id": "47db395b7d4f",
+      "title": "Senior Machine Learning Engineer, Financial Products",
+      "company": "Adyen",
+      "location": "San Francisco",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/8160970",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-09-15T19:09:53-04:00",
+      "fetched_at": "2026-09-16T10:31:44.629495+00:00",
+      "expires_at": "2026-10-16T10:31:44.629400+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "ML Engineer",
+      "match_reasons": [
+        "Extensive experience with ML lifecycle management (MLflow full lifecycle) aligns with the role's focus on productionizing and operating ML models.",
+        "Strong Python and SQL skills are essential for ML model development and data manipulation.",
+        "Experience with cloud platforms (Azure, Databricks, Snowflake, AWS) is crucial for building scalable production systems.",
+        "Experience with IaC (Terraform) and data pipelines (Airflow, ETL/ELT) is relevant to building robust ML infrastructure.",
+        "Target roles include ML Engineer with data engineering overlap, which fits this position well."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which might be used for feature engineering or data preparation.",
+        "The role is in San Francisco, and the candidate's target countries and visa situation (H-1B, EU Blue Card eligible) do not directly align with a US-based role without further clarification on sponsorship."
+      ],
+      "one_liner": "A strong ML Engineer candidate with extensive experience in the ML lifecycle and cloud infrastructure, but with potential gaps in specific technologies and an unclear visa/relocation situation for the US.",
+      "apply": false
+    },
+    {
+      "id": "993dd4652aca",
+      "title": "Staff Machine Learning Engineer, Financial Products",
+      "company": "Adyen",
+      "location": "San Francisco",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/8160968",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-09-15T19:09:27-04:00",
+      "fetched_at": "2026-09-16T10:31:47.033713+00:00",
+      "expires_at": "2026-10-16T10:31:47.033583+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "ML Engineer",
+      "match_reasons": [
+        "Strong ML platform experience with MLflow full lifecycle aligns well with the role's focus on production ML pipelines and model lifecycle.",
+        "Extensive cloud experience (Azure, Databricks, Snowflake, AWS, GCP) is crucial for building scalable production systems.",
+        "Production experience with data engineering tools like PySpark, Spark, and Airflow is highly relevant for building scalable ML pipelines.",
+        "Experience with data governance (RBAC, lineage, quality) is valuable for high-integrity financial systems."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which is a common tool for data preparation in ML pipelines.",
+        "While Kafka is listed as working knowledge, deep Kafka/Confluent experience is a gap.",
+        "No specific mention of experience with financial products or credit risk modeling, though ML principles are transferable."
+      ],
+      "one_liner": "A strong candidate with solid ML platform and cloud engineering skills, well-suited for productionizing ML models, but with potential gaps in dbt and specific financial domain experience.",
+      "apply": false
+    },
+    {
+      "id": "cc1c6d38d66e",
+      "title": "Data Analyst - Everyday Banking ",
+      "company": "N26",
+      "location": "Barcelona",
+      "apply_url": "https://n26.com/en-eu/careers/positions/8203686?gh_jid=8203686",
+      "source": "Greenhouse (N26)",
+      "posted_at": "2026-09-15T09:09:45-04:00",
+      "fetched_at": "2026-09-16T10:31:32.107814+00:00",
+      "expires_at": "2026-10-16T10:31:32.086132+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 6,
+      "visa_eligible": "unclear",
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong experience in data analysis, stakeholder management, and building data foundations, aligning with the Data Analyst role.",
+        "Proficiency in SQL, Python, and visualization tools like Tableau and Power BI are directly applicable to building dashboards and providing insights.",
+        "Experience in working with product teams and fostering a data-driven culture is a strong match for the 'About the opportunity' and 'In this role, you will' sections."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which is a core component of analytics engineering.",
+        "The job description doesn't explicitly mention FinTech or banking domain experience, which might be a slight disadvantage."
+      ],
+      "one_liner": "Sri Hari is a strong candidate for the Data Analyst role with extensive experience in data analysis and stakeholder management, though deeper dbt experience would enhance the fit.",
+      "apply": true
+    },
+    {
+      "id": "7b02e3dfc1f8",
+      "title": "Data Analyst - Finance ",
+      "company": "N26",
+      "location": "Berlin",
+      "apply_url": "https://n26.com/en-eu/careers/positions/8203660?gh_jid=8203660",
+      "source": "Greenhouse (N26)",
+      "posted_at": "2026-09-15T06:25:09-04:00",
+      "fetched_at": "2026-09-16T10:31:34.215711+00:00",
+      "expires_at": "2026-10-16T10:31:34.215563+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 5,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong analytical and data modeling skills relevant to finance (dimensional modeling, Data Vault).",
+        "Experience in building dashboards (Tableau, Power BI) and contributing to self-serve data platforms aligns with role responsibilities.",
+        "Stakeholder management experience to Director level is beneficial for partnering with finance leadership."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which is often central to analytics engineering roles in FinTech.",
+        "While skilled in data engineering, the core of this role is finance-focused analysis, not deep data engineering.",
+        "No direct experience mentioned in FinTech or financial analysis specifically."
+      ],
+      "one_liner": "Sri Hari has strong analytical and data modeling foundations that could be applied to finance, but lacks specific depth in dbt and finance domain knowledge for a strong fit.",
       "apply": false
     },
     {
