@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-16T10:31:47.033865+00:00",
-  "total": 40,
-  "purged_this_run": 4,
+  "last_updated": "2026-09-17T10:41:48.106396+00:00",
+  "total": 42,
+  "purged_this_run": 0,
   "jobs": [
     {
       "id": "1e7ab6ce72ad",
@@ -962,6 +962,35 @@
       "apply": false
     },
     {
+      "id": "9b542d7326f9",
+      "title": "Data analyst - AML",
+      "company": "SumUp",
+      "location": "Dublin, Dublin, Ireland",
+      "apply_url": "https://sumup.com/careers/positions/8750629002?gh_jid=8750629002",
+      "source": "Greenhouse (SumUp)",
+      "posted_at": "2026-09-16T09:38:37-04:00",
+      "fetched_at": "2026-09-17T10:41:48.106243+00:00",
+      "expires_at": "2026-10-17T10:41:48.106153+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong SQL and Python skills align with core job requirements for data analysis and automation.",
+        "Experience with Snowflake is a direct match for the cloud data warehouse requirement.",
+        "Experience in regulated environments (public health) and knowledge of governance principles (HIPAA, USCDI) are transferable to AML.",
+        "Ability to build dashboards, operational reports, and self-service analytics resources matches key responsibilities."
+      ],
+      "gaps": [
+        "Limited direct experience in financial services/fintech AML specifically, though transferable skills exist.",
+        "The job description doesn't explicitly mention requirements for ML/AI, which is a core strength of the candidate, making it potentially overqualified or misaligned if pure analytics is the focus."
+      ],
+      "one_liner": "A skilled data analyst with strong SQL and Python capabilities, experience in regulated environments and Snowflake, who can build impactful AML dashboards and drive data-driven insights.",
+      "apply": true
+    },
+    {
       "id": "cc1c6d38d66e",
       "title": "Data Analyst - Everyday Banking ",
       "company": "N26",
@@ -987,6 +1016,35 @@
         "The job description doesn't explicitly mention FinTech or banking domain experience, which might be a slight disadvantage."
       ],
       "one_liner": "Sri Hari is a strong candidate for the Data Analyst role with extensive experience in data analysis and stakeholder management, though deeper dbt experience would enhance the fit.",
+      "apply": true
+    },
+    {
+      "id": "be0a8e44009f",
+      "title": "Junior Data Analyst - Customer Identity",
+      "company": "N26",
+      "location": "Berlin",
+      "apply_url": "https://n26.com/en-eu/careers/positions/8127483?gh_jid=8127483",
+      "source": "Greenhouse (N26)",
+      "posted_at": "2026-09-17T06:16:47-04:00",
+      "fetched_at": "2026-09-17T10:41:30.016807+00:00",
+      "expires_at": "2026-10-17T10:41:30.010416+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 6,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong analytics and data modeling experience (dbt, dimensional modeling, Data Vault, Kimball) aligns well with building analytics foundations and supporting data-driven decisions.",
+        "Experience with stakeholder management up to Director level is a strong asset for being an internal go-to person.",
+        "Proven ability to improve data literacy and foster a data-driven culture through training and workshops.",
+        "Experience in building dashboards (Tableau, Power BI, Streamlit) directly matches the need for monitoring tools."
+      ],
+      "gaps": [
+        "The \"Junior Data Analyst\" title might not fully leverage Sri Hari's extensive production experience (4+ years) and seniority.",
+        "While dbt is listed, the description notes \"limited prod depth\" as a gap, which might be a concern for a role focused on building analytics foundations."
+      ],
+      "one_liner": "Sri Hari is a strong candidate for this role with solid analytics engineering skills and stakeholder management experience, though the junior title might not fully capture their production expertise.",
       "apply": true
     },
     {
