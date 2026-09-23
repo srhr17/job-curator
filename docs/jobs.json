@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-09-22T10:37:48.924579+00:00",
-  "total": 45,
-  "purged_this_run": 0,
+  "last_updated": "2026-09-23T15:49:22.088763+00:00",
+  "total": 42,
+  "purged_this_run": 3,
   "jobs": [
     {
       "id": "1e7ab6ce72ad",
@@ -276,101 +276,6 @@
       ],
       "one_liner": "A strong candidate for the Senior Data Scientist/ML Engineer role, with extensive production ML lifecycle experience and EU Blue Card eligibility, though with some gaps in core MLOps infrastructure.",
       "apply": true
-    },
-    {
-      "id": "51b4146a84b9",
-      "title": "Senior Data Engineer",
-      "company": "Lemon.io",
-      "location": "LATAM, Europe, USA, Canada, APAC",
-      "apply_url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
-      "source": "Remotive",
-      "posted_at": "2026-08-19T12:12:11",
-      "fetched_at": "2026-08-23T18:16:49.637017+00:00",
-      "expires_at": "2026-09-22T18:16:49.599832+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": true,
-      "relocation_support": "unclear",
-      "role_category": "Data Engineer",
-      "match_reasons": [
-        "Significant production experience (4+ years vs 5+ required)",
-        "Strong Azure Databricks experience (meets 2+ years requirement)",
-        "Experience with relevant cloud platforms (Azure, Databricks, Snowflake)",
-        "Advanced Python and SQL skills align with requirements",
-        "Airflow experience listed as a plus and candidate has it",
-        "Terraform IaC experience aligns with potential DevOps needs"
-      ],
-      "gaps": [
-        "dbt: Listed as having 'limited prod depth' but 2+ years required.",
-        "Azure DevOps: Not explicitly mentioned, but candidate has strong Azure experience and IaC skills.",
-        "Kafka/Confluent: Candidate has 'working knowledge', job doesn't specify Kafka but often relevant for Data Engineers."
-      ],
-      "one_liner": "A strong candidate with extensive cloud and data platform experience, particularly in Azure and Databricks, who meets most but not all specific requirements for a Senior Data Engineer role.",
-      "apply": true
-    },
-    {
-      "id": "be84a2ab01ce",
-      "title": "Data Engineer - Platform Engineering",
-      "company": "N26",
-      "location": "Barcelona",
-      "apply_url": "https://n26.com/en-eu/careers/positions/8147446?gh_jid=8147446",
-      "source": "Greenhouse (N26)",
-      "posted_at": "2026-08-21T11:29:45-04:00",
-      "fetched_at": "2026-08-23T18:16:51.894083+00:00",
-      "expires_at": "2026-09-22T18:16:51.893974+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Data Engineer",
-      "match_reasons": [
-        "Strong experience with cloud platforms (Azure, Databricks, Snowflake, AWS), aligning with the job's focus on cloud-based infrastructure.",
-        "Proficient in Infrastructure as Code (Terraform) which is a core requirement.",
-        "Demonstrates experience with Docker and relevant data engineering skills like ETL/ELT, Medallion Lakehouse, which are valuable for platform engineering.",
-        "Experience with CI/CD concepts through Airflow and Git, and a willingness to learn/grow in this area.",
-        "Strong Python skills align with the preferred programming language."
-      ],
-      "gaps": [
-        "Limited production depth in Kubernetes/EKS, which is a key requirement for container orchestration.",
-        "Limited production depth in dbt, which is mentioned as a 'modern data transformation tool' (though this might be a stretch as it's more analytics-focused, but still a gap in related tooling).",
-        "Kafka/Confluent experience is noted as 'working knowledge' rather than deep expertise, though not explicitly a requirement in the job description, it's a common tool in platform engineering."
-      ],
-      "one_liner": "A strong Data Engineer with solid cloud and IaC skills, who would require further development in Kubernetes for this specific platform engineering role.",
-      "apply": true
-    },
-    {
-      "id": "af1e8b077483",
-      "title": "Data Engineer - Platform Engineering",
-      "company": "N26",
-      "location": "Berlin",
-      "apply_url": "https://n26.com/en-eu/careers/positions/8138777?gh_jid=8138777",
-      "source": "Greenhouse (N26)",
-      "posted_at": "2026-08-21T11:28:51-04:00",
-      "fetched_at": "2026-08-23T18:16:54.370018+00:00",
-      "expires_at": "2026-09-22T18:16:54.369919+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Data Engineer",
-      "match_reasons": [
-        "Strong experience in Data Engineering core skills like PySpark, Spark, ETL/ELT, Azure Databricks, Delta Lake, Airflow, and Git.",
-        "Proficient in cloud platforms, particularly Azure and Databricks, with exposure to AWS which is required by the job.",
-        "Demonstrates experience with IaC using Terraform, which is a key requirement for platform engineering.",
-        "Experience with Docker is a direct match for container technologies.",
-        "Advanced Python and SQL skills are essential for a Data Engineer role.",
-        "Experience with stakeholder management to Director level suggests good collaboration and communication skills required for the role."
-      ],
-      "gaps": [
-        "Limited production depth in dbt, which is mentioned as a 'modern data transformation tool' requirement.",
-        "While Docker experience is present, deep Kafka/Confluent, Kubernetes/Helm, and CI/CD pipeline experience (beyond Git) are listed as gaps, which are critical for platform engineering.",
-        "Java/Scala, mentioned as a gap, might be relevant for some platform engineering tasks."
-      ],
-      "one_liner": "A strong Data Engineer with extensive cloud and data platform experience, but would need to deepen Kubernetes and dbt skills for this specific platform engineering role.",
-      "apply": false
     },
     {
       "id": "bb15405aae7e",
