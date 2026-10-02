@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-02T17:05:39.075135+00:00",
-  "total": 42,
-  "purged_this_run": 14,
+  "last_updated": "2026-10-02T21:37:34.282419+00:00",
+  "total": 43,
+  "purged_this_run": 0,
   "jobs": [
     {
       "id": "740706191d94",
@@ -927,6 +927,37 @@
       ],
       "one_liner": "A strong Data Engineer with extensive cloud and data platform experience, though potential concerns exist regarding relocation to Bangalore and specific tool depth for this role.",
       "apply": false
+    },
+    {
+      "id": "c8df1f6d2713",
+      "title": "Data Engineer: Sales&Revenue Data (all genders)\n\nData\n\nBerlin\n\nView job",
+      "company": "Zalando",
+      "location": "Germany",
+      "apply_url": "https://jobs.zalando.com/en/jobs/2724676-Data-Engineer%3A-Sales%26Revenue-Data-(all-genders)",
+      "source": "Career Page (Zalando)",
+      "posted_at": "",
+      "fetched_at": "2026-10-02T21:37:34.282097+00:00",
+      "expires_at": "2026-10-09T21:37:34.282072+00:00",
+      "ttl_source": "7d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Data Engineer",
+      "match_reasons": [
+        "Extensive experience in Data Engineering with PySpark, Apache Spark, Azure Databricks, Delta Lake, and ETL/ELT, aligning well with the core requirements of a Data Engineer role.",
+        "Strong cloud expertise in Azure and Databricks, which are likely utilized by a company like Zalando.",
+        "Proven experience with IaC (Terraform) and Git, essential for production-level data engineering.",
+        "Familiarity with data governance principles (RBAC, lineage, data quality) and relevant standards (HIPAA, USCDI) indicates a mature approach to data management.",
+        "Targeting Germany, the specified job location, is a strong indicator of interest and suitability.",
+        "EU Blue Card eligibility is a significant advantage for securing employment in Germany."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which is a key tool for Analytics Engineering and often used in data engineering pipelines.",
+        "Deep knowledge of Kafka/Confluent is listed as a gap, which could be important for real-time data processing depending on Zalando's architecture."
+      ],
+      "one_liner": "A proficient Data Engineer with strong cloud and big data skills, targeting a role in Germany, who is EU Blue Card eligible.",
+      "apply": true
     },
     {
       "id": "cc1c6d38d66e",
