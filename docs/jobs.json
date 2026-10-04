@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-10-02T21:37:34.282419+00:00",
+  "last_updated": "2026-10-04T16:12:07.528495+00:00",
   "total": 43,
-  "purged_this_run": 0,
+  "purged_this_run": 1,
   "jobs": [
     {
       "id": "740706191d94",
@@ -275,34 +275,6 @@
         "Java/Scala is a gap, but the role heavily emphasizes Python"
       ],
       "one_liner": "A strong candidate for the Senior Machine Learning Engineer role with extensive ML platform experience, cloud proficiency, and relevant AI/ML skills, despite minor gaps in specific streaming and orchestration technologies.",
-      "apply": true
-    },
-    {
-      "id": "7852d761ea8a",
-      "title": "Senior Optimization Data Analyst",
-      "company": "Adyen",
-      "location": "Chicago",
-      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/8160354",
-      "source": "Greenhouse (Adyen)",
-      "posted_at": "2026-09-03T18:28:47-04:00",
-      "fetched_at": "2026-09-04T10:12:53.635492+00:00",
-      "expires_at": "2026-10-04T10:12:53.608508+00:00",
-      "ttl_source": "30d-ttl",
-      "status": "new",
-      "fit_score": 7,
-      "visa_eligible": "unclear",
-      "relocation_support": "unclear",
-      "role_category": "Analytics Engineer",
-      "match_reasons": [
-        "Strong experience with large-scale transactional data and ML-driven decisioning aligns with the role's focus on payment performance and risk.",
-        "Demonstrated ability in data engineering (ETL/ELT, Medallion Lakehouse, Azure Databricks) and analytics engineering (dbt, dimensional modeling) is crucial for this role.",
-        "Experience with stakeholder management up to Director level and generating insights that connect to merchant strategy is a key requirement."
-      ],
-      "gaps": [
-        "Limited production depth in dbt, which is mentioned as a key skill for the role.",
-        "The role emphasizes deep domain expertise in risk, which is not explicitly detailed in the candidate's profile, although they have experience with ML-driven decisioning and probabilistic record linkage."
-      ],
-      "one_liner": "A strong candidate with extensive data engineering and ML experience, well-suited for driving payment performance through data analytics, though dbt depth needs further assessment.",
       "apply": true
     },
     {
@@ -957,6 +929,36 @@
         "Deep knowledge of Kafka/Confluent is listed as a gap, which could be important for real-time data processing depending on Zalando's architecture."
       ],
       "one_liner": "A proficient Data Engineer with strong cloud and big data skills, targeting a role in Germany, who is EU Blue Card eligible.",
+      "apply": true
+    },
+    {
+      "id": "7852d761ea8a",
+      "title": "Senior Optimization Data Analyst",
+      "company": "Adyen",
+      "location": "Chicago",
+      "apply_url": "https://job-boards.greenhouse.io/adyen/jobs/8160354",
+      "source": "Greenhouse (Adyen)",
+      "posted_at": "2026-09-03T18:28:47-04:00",
+      "fetched_at": "2026-10-04T16:12:07.528261+00:00",
+      "expires_at": "2026-11-03T16:12:07.493569+00:00",
+      "ttl_source": "30d-ttl",
+      "status": "new",
+      "fit_score": 7,
+      "visa_eligible": true,
+      "relocation_support": "unclear",
+      "role_category": "Analytics Engineer",
+      "match_reasons": [
+        "Strong background in data analytics, working with large-scale transactional data, and ML-driven decisioning aligns well with the core responsibilities of the Senior Optimization Data Analyst role.",
+        "Extensive experience with cloud platforms (Azure, Databricks, Snowflake, AWS, GCP) and data engineering tools (PySpark, Spark, Airflow, dbt) will be valuable for handling Adyen's large datasets.",
+        "Proven ability to manage stakeholders up to Director level and deliver measurable outcomes suggests the candidate can drive complex merchant engagements and shape analytical methodology.",
+        "Experience with ML/AI, including LLM orchestration and RAG, can be leveraged for risk and fraud analysis.",
+        "The candidate's desire for a role with data engineering overlap makes them a suitable candidate for an analytics-focused role that requires strong technical data skills."
+      ],
+      "gaps": [
+        "Limited production depth in dbt, which is mentioned as a core tool for this role.",
+        "While the role involves risk and fraud, the candidate's listed experience doesn't specifically highlight deep domain expertise in payments or fintech risk, though they have a strong analytical and ML foundation."
+      ],
+      "one_liner": "Sri Hari is a strong candidate for the Senior Optimization Data Analyst role, with extensive data engineering and ML experience that can be applied to Adyen's payment performance optimization, though further dbt depth would be beneficial.",
       "apply": true
     },
     {
